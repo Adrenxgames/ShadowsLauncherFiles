@@ -40,7 +40,7 @@
             "description": "Servidor Shadows de Minecraft Roleplay.",
             "icon": "https://PREENCHER-DOMINIO/launcher/server-icon.png",
             "version": "1.0.0",
-            "address": "XenthorSMP.magnohost.com",
+            "address": "xsc1.7TNWGj2phfRqNoUe3O45ORJtQDQu4Mst",
             "minecraftVersion": "1.21.1",
             "javaOptions": {
                 "supported": ">=21",
@@ -671,6 +671,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:aaa_particles-neoforge-1.21.1:2.2.3",
+                    "name": "aaa_particles-neoforge-1.21.1-2.2.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5067291,
+                        "MD5": "2a98731188f8328e3b74256d9c73dbdb",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/aaa_particles-neoforge-1.21.1-2.2.3.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:ad_astra-1.21.1-neoforge:1.16.6",
                     "name": "ad_astra-1.21.1-neoforge-1.16.6",
                     "type": "ForgeMod",
@@ -891,6 +901,36 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:epic_fight_avalon-21.17.6.3-neoforge:1.21.1",
+                    "name": "epic_fight_avalon-21.17.6.3-neoforge-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 668162,
+                        "MD5": "3b8205a34301a9a76990468da336d76e",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic_fight_avalon-21.17.6.3-neoforge-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:epicfight-extra-21.17-neoforge:1.21.1",
+                    "name": "epicfight-extra-21.17-neoforge-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 23188981,
+                        "MD5": "4dc3ee3a95a60accbb85c147ac9d0ba1",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-extra-21.17-neoforge-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:epicfight-nightfall-3.4.0-neoforge:1.21.1",
+                    "name": "epicfight-nightfall-3.4.0-neoforge-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 51611707,
+                        "MD5": "e673ac4a08ac54961d32ec428e095815",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:ferritecore-7.0.3-neoforge:1.0.0",
                     "name": "ferritecore-7.0.3-neoforge",
                     "type": "ForgeMod",
@@ -928,6 +968,26 @@
                         "size": 630584,
                         "MD5": "5cf29155ad6071b5dcba2ea24cd27350",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/geckolib-neoforge-1.21.1-4.9.2.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:indestructible-21.17.0:1.21.1",
+                    "name": "indestructible-21.17.0-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 266839,
+                        "MD5": "13a8ac8d96630c572dcdac09c7e28bc3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/indestructible-21.17.0-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:invincible-local:21.15.8.2",
+                    "name": "invincible-local-21.15.8.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 243705,
+                        "MD5": "e601e4426e9422eb57099e888b82b5e1",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/invincible-local-21.15.8.2.jar"
                     }
                 },
                 {
@@ -1175,8 +1235,8 @@
                     "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 969728,
-                        "MD5": "03ac755e718f32fcf6fd7efa180b785d",
+                        "size": 1054183,
+                        "MD5": "2f43ef7dac05945be41c01336a138683",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
                     }
                 },

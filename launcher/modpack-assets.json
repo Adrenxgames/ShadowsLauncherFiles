@@ -71,6 +71,12 @@
         "tamanho": 5193371,
         "md5": "862516ce5f9c976e11244270284a11e5"
     },
+    "aaa_particles-neoforge-1.21.1-2.2.3.jar": {
+        "nomeNoRelease": "aaa_particles-neoforge-1.21.1-2.2.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/aaa_particles-neoforge-1.21.1-2.2.3.jar",
+        "tamanho": 5067291,
+        "md5": "2a98731188f8328e3b74256d9c73dbdb"
+    },
     "ad_astra-1.21.1-neoforge-1.16.6.jar": {
         "nomeNoRelease": "ad_astra-1.21.1-neoforge-1.16.6.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ad_astra-1.21.1-neoforge-1.16.6.jar",
@@ -203,6 +209,24 @@
         "tamanho": 8578288,
         "md5": "b4d1d7e4c195fca39ce3a83690cdb147"
     },
+    "epic_fight_avalon-21.17.6.3-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epic_fight_avalon-21.17.6.3-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic_fight_avalon-21.17.6.3-neoforge-1.21.1.jar",
+        "tamanho": 668162,
+        "md5": "3b8205a34301a9a76990468da336d76e"
+    },
+    "epicfight-extra-21.17-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epicfight-extra-21.17-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-extra-21.17-neoforge-1.21.1.jar",
+        "tamanho": 23188981,
+        "md5": "4dc3ee3a95a60accbb85c147ac9d0ba1"
+    },
+    "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
+        "tamanho": 51611707,
+        "md5": "e673ac4a08ac54961d32ec428e095815"
+    },
     "ferritecore-7.0.3-neoforge.jar": {
         "nomeNoRelease": "ferritecore-7.0.3-neoforge.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ferritecore-7.0.3-neoforge.jar",
@@ -226,6 +250,18 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/geckolib-neoforge-1.21.1-4.9.2.jar",
         "tamanho": 630584,
         "md5": "5cf29155ad6071b5dcba2ea24cd27350"
+    },
+    "indestructible-21.17.0-1.21.1.jar": {
+        "nomeNoRelease": "indestructible-21.17.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/indestructible-21.17.0-1.21.1.jar",
+        "tamanho": 266839,
+        "md5": "13a8ac8d96630c572dcdac09c7e28bc3"
+    },
+    "invincible-local-21.15.8.2.jar": {
+        "nomeNoRelease": "invincible-local-21.15.8.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/invincible-local-21.15.8.2.jar",
+        "tamanho": 243705,
+        "md5": "e601e4426e9422eb57099e888b82b5e1"
     },
     "irons_lib-1.21.1-2.1.0.jar": {
         "nomeNoRelease": "irons_lib-1.21.1-2.1.0.jar",
@@ -374,8 +410,8 @@
     "xcombat-2.0.0-neoforge-1.21.1-obf.jar": {
         "nomeNoRelease": "xcombat-2.0.0-neoforge-1.21.1-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar",
-        "tamanho": 969728,
-        "md5": "03ac755e718f32fcf6fd7efa180b785d"
+        "tamanho": 1054183,
+        "md5": "2f43ef7dac05945be41c01336a138683"
     },
     "xenthor-security-1.2.0-obf.jar": {
         "nomeNoRelease": "xenthor-security-1.2.0-obf.jar",
