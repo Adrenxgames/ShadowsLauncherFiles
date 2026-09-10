@@ -1,0 +1,1465 @@
+{
+    "version": "1.0.0",
+    "launcher": {
+        "minimumVersion": "1.0.0",
+        "maintenance": {
+            "enabled": false,
+            "title": "Servidor em manutencao",
+            "message": "Estamos aplicando uma atualizacao. Previsao de retorno: 20h."
+        },
+        "announcement": {
+            "id": null,
+            "title": null,
+            "message": null
+        }
+    },
+    "discord": {
+        "_comentario": "Rich Presence. Este e o UNICO lugar dos links: mudar aqui e republicar o distribution.json ja troca os botoes de todo mundo, sem gerar launcher novo.",
+        "_comentario_clientId": "Application ID do aplicativo em https://discord.com/developers/applications. Nao e segredo (o Client Secret, esse sim, nunca deve vir para ca).",
+        "clientId": "1314338765543833710",
+        "_comentario_botoes": "Os DOIS botoes do perfil do Discord (o Discord nao aceita mais que dois). Precisam ser http/https; um link invalido apenas some, sem derrubar a presenca.",
+        "inviteUrl": "https://discord.gg/yjTZqNA5mY",
+        "websiteUrl": "https://www.shadowsx.com.br/",
+        "_comentario_outros_convites": "Nao sao lidos pelo launcher, ficam aqui so como registro. O botao de Discord DENTRO do launcher e configurado separado, em app/assets/lang/_custom.toml (mediaDiscordURL).",
+        "conviteShadows": "https://discord.gg/UMgp4MGtN2",
+        "_comentario_imagem": "Nome EXATO da arte enviada em Rich Presence > Art Assets, no portal do Discord. Envie 'discord-rich-presence-1024.png' (esta em 'area visual') com o nome 'shadows'. E so uma imagem: a arte grande do card. O campo smallImage ficaria como um cracha pequeno no canto, desnecessario aqui.",
+        "smallImageKey": null,
+        "smallImageText": null
+    },
+    "discordNews": {
+        "_comentario": "Aba de Noticias. O arquivo apontado aqui e gerado pelo tools/discord-noticias.js a partir do canal de anuncios do Discord, e republicado sozinho pelo GitHub Actions do ShadowsLauncherFiles a cada 10 minutos. Mudar de canal ou de texto NAO exige launcher novo: e so postar no Discord.",
+        "_comentario_falha": "Se este endereco cair, a aba mostra 'nao foi possivel carregar' e o resto do launcher segue normal. Para desligar as noticias, apague este bloco inteiro.",
+        "url": "https://raw.githubusercontent.com/Adrenxgames/ShadowsLauncherFiles/main/noticias/noticias.json",
+        "_comentario_timeout": "Milissegundos de espera antes de desistir. O launcher nao trava esperando: a tela ja aparece e a aba se preenche depois.",
+        "timeout": 5000
+    },
+    "servers": [
+        {
+            "id": "Shadows-1.21.1-NeoForge",
+            "name": "Shadows RP",
+            "description": "Servidor Shadows de Minecraft Roleplay.",
+            "icon": "https://PREENCHER-DOMINIO/launcher/server-icon.png",
+            "version": "1.0.0",
+            "address": "XenthorSMP.magnohost.com",
+            "minecraftVersion": "1.21.1",
+            "javaOptions": {
+                "supported": ">=21",
+                "suggestedMajor": 21,
+                "ram": {
+                    "recommended": 4096,
+                    "minimum": 3072
+                }
+            },
+            "discord": {
+                "shortId": "Shadows RP",
+                "largeImageText": "Shadows RP",
+                "largeImageKey": "shadows"
+            },
+            "mainServer": true,
+            "autoconnect": false,
+            "modules": [
+                {
+                    "id": "net.neoforged:neoforge:21.1.249",
+                    "name": "NeoForge 21.1.249",
+                    "type": "Forge",
+                    "artifact": {
+                        "size": 6972110,
+                        "MD5": "ccbbde6dda385de5c8ce9409f45bf283",
+                        "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-installer.jar"
+                    },
+                    "subModules": [
+                        {
+                            "id": "neoforge-21.1.249",
+                            "name": "NeoForge 21.1.249 Version Manifest",
+                            "type": "VersionManifest",
+                            "artifact": {
+                                "size": 21251,
+                                "MD5": "f6b79cd3ac09a3b17771ac9de25dd194",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/neoforge/21.1.249/neoforge-21.1.249-installer.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged.fancymodloader:earlydisplay:4.0.44",
+                            "name": "net.neoforged.fancymodloader:earlydisplay:4.0.44",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 261718,
+                                "MD5": "7646fcabfb8a5f608361f03b8d68dddb",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/earlydisplay/4.0.44/earlydisplay-4.0.44.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged.fancymodloader:loader:4.0.44",
+                            "name": "net.neoforged.fancymodloader:loader:4.0.44",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 505708,
+                                "MD5": "552c6cb730601460b332545e18ce33fc",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/fancymodloader/loader/4.0.44/loader-4.0.44.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
+                            "name": "net.neoforged.accesstransformers:at-modlauncher:10.0.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2347,
+                                "MD5": "f65434f122b97b1ac8fe56ff54873b5f",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/at-modlauncher/10.0.1/at-modlauncher-10.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:accesstransformers:10.0.1",
+                            "name": "net.neoforged:accesstransformers:10.0.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 67234,
+                                "MD5": "3a01a09a2b0900381dce48e118882849",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/accesstransformers/10.0.1/accesstransformers-10.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:bus:8.0.5",
+                            "name": "net.neoforged:bus:8.0.5",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 30340,
+                                "MD5": "95eee080d9de7cb764adcb8fa2ecf3fb",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/bus/8.0.5/bus-8.0.5.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:coremods:7.0.3",
+                            "name": "net.neoforged:coremods:7.0.3",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 22659,
+                                "MD5": "4527abf6b7116dae1c2178f7beab0ba2",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/coremods/7.0.3/coremods-7.0.3.jar"
+                            }
+                        },
+                        {
+                            "id": "cpw.mods:modlauncher:11.0.5",
+                            "name": "cpw.mods:modlauncher:11.0.5",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 116486,
+                                "MD5": "70fa994f64b2620d20dc325bab758d1b",
+                                "url": "https://maven.neoforged.net/releases/cpw/mods/modlauncher/11.0.5/modlauncher-11.0.5.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:mergetool:2.0.0:api",
+                            "name": "net.neoforged:mergetool:2.0.0:api",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2550,
+                                "MD5": "818b398f65b8dc5af802b721fd1d0b56",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/mergetool/2.0.0/mergetool-2.0.0-api.jar"
+                            }
+                        },
+                        {
+                            "id": "com.electronwill.night-config:toml:3.8.3",
+                            "name": "com.electronwill.night-config:toml:3.8.3",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 39516,
+                                "MD5": "71c9f7b86422f206c0d78c1a0600fd3a",
+                                "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/toml/3.8.3/toml-3.8.3.jar"
+                            }
+                        },
+                        {
+                            "id": "com.electronwill.night-config:core:3.8.3",
+                            "name": "com.electronwill.night-config:core:3.8.3",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 382911,
+                                "MD5": "a69db71d5c9c274ff08f175d7c12cb1a",
+                                "url": "https://maven.neoforged.net/releases/com/electronwill/night-config/core/3.8.3/core-3.8.3.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:JarJarSelector:0.4.1",
+                            "name": "net.neoforged:JarJarSelector:0.4.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 17168,
+                                "MD5": "20d1fe8972655189f69845554ee1a4d1",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarSelector/0.4.1/JarJarSelector-0.4.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:JarJarMetadata:0.4.1",
+                            "name": "net.neoforged:JarJarMetadata:0.4.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 15648,
+                                "MD5": "c2f30969dd8b1dc8e3f78c731bd2c5c8",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarMetadata/0.4.1/JarJarMetadata-0.4.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.maven:maven-artifact:3.8.5",
+                            "name": "org.apache.maven:maven-artifact:3.8.5",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 58077,
+                                "MD5": "ce473b0d9fbfd10fe147f03fe8707d67",
+                                "url": "https://maven.neoforged.net/releases/org/apache/maven/maven-artifact/3.8.5/maven-artifact-3.8.5.jar"
+                            }
+                        },
+                        {
+                            "id": "net.jodah:typetools:0.6.3",
+                            "name": "net.jodah:typetools:0.6.3",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 18281,
+                                "MD5": "d4a375bf382f726cf1a650ccb38a736c",
+                                "url": "https://maven.neoforged.net/releases/net/jodah/typetools/0.6.3/typetools-0.6.3.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecrell:terminalconsoleappender:1.3.0",
+                            "name": "net.minecrell:terminalconsoleappender:1.3.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 16949,
+                                "MD5": "179d3abaf9736dbd8fbd4fa98e1c6ea1",
+                                "url": "https://maven.neoforged.net/releases/net/minecrell/terminalconsoleappender/1.3.0/terminalconsoleappender-1.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
+                            "name": "net.fabricmc:sponge-mixin:0.15.2+mixin.0.8.7",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 1494751,
+                                "MD5": "4808c070bf19415a5cb4a0cb5e569b12",
+                                "url": "https://maven.neoforged.net/releases/net/fabricmc/sponge-mixin/0.15.2+mixin.0.8.7/sponge-mixin-0.15.2+mixin.0.8.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.openjdk.nashorn:nashorn-core:15.4",
+                            "name": "org.openjdk.nashorn:nashorn-core:15.4",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2167292,
+                                "MD5": "a9b3360e6a486cf62c1952c7816b7d97",
+                                "url": "https://maven.neoforged.net/releases/org/openjdk/nashorn/nashorn-core/15.4/nashorn-core-15.4.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.commons:commons-lang3:3.14.0",
+                            "name": "org.apache.commons:commons-lang3:3.14.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 657952,
+                                "MD5": "4e5c3f5e6b0b965ef241d7d72ac8971f",
+                                "url": "https://libraries.minecraft.net/org/apache/commons/commons-lang3/3.14.0/commons-lang3-3.14.0.jar"
+                            }
+                        },
+                        {
+                            "id": "cpw.mods:bootstraplauncher:2.0.2",
+                            "name": "cpw.mods:bootstraplauncher:2.0.2",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 11116,
+                                "MD5": "169bd8c006e69d83267466e311d4049d",
+                                "url": "https://maven.neoforged.net/releases/cpw/mods/bootstraplauncher/2.0.2/bootstraplauncher-2.0.2.jar"
+                            }
+                        },
+                        {
+                            "id": "cpw.mods:securejarhandler:3.0.8",
+                            "name": "cpw.mods:securejarhandler:3.0.8",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 103765,
+                                "MD5": "eb0d5290a2681c2dbeb8088b82e0fbf9",
+                                "url": "https://maven.neoforged.net/releases/cpw/mods/securejarhandler/3.0.8/securejarhandler-3.0.8.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-commons:9.10.1",
+                            "name": "org.ow2.asm:asm-commons:9.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 74840,
+                                "MD5": "8eee0b1bdd046baf472eb83dd5e6bb44",
+                                "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-commons/9.10.1/asm-commons-9.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-util:9.10.1",
+                            "name": "org.ow2.asm:asm-util:9.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 95628,
+                                "MD5": "d0892ecb209867805e7d2418e5dc6c42",
+                                "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-util/9.10.1/asm-util-9.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-analysis:9.10.1",
+                            "name": "org.ow2.asm:asm-analysis:9.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 35140,
+                                "MD5": "6dd9011ec87f65e4b2e14e938c4118e4",
+                                "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-analysis/9.10.1/asm-analysis-9.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm-tree:9.10.1",
+                            "name": "org.ow2.asm:asm-tree:9.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 51958,
+                                "MD5": "62541e1dc62331408ef31317555bf4fa",
+                                "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm-tree/9.10.1/asm-tree-9.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.ow2.asm:asm:9.10.1",
+                            "name": "org.ow2.asm:asm:9.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 126151,
+                                "MD5": "9cb72080438acf27f2607002e1444a7b",
+                                "url": "https://maven.neoforged.net/releases/org/ow2/asm/asm/9.10.1/asm-9.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.neoforged:JarJarFileSystems:0.4.1",
+                            "name": "net.neoforged:JarJarFileSystems:0.4.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 31807,
+                                "MD5": "8d75021e5aeb04652b4b9ae3df500b9e",
+                                "url": "https://maven.neoforged.net/releases/net/neoforged/JarJarFileSystems/0.4.1/JarJarFileSystems-0.4.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.sf.jopt-simple:jopt-simple:5.0.4",
+                            "name": "net.sf.jopt-simple:jopt-simple:5.0.4",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 78146,
+                                "MD5": "eb0d9dffe9b0eddead68fe678be76c49",
+                                "url": "https://libraries.minecraft.net/net/sf/jopt-simple/jopt-simple/5.0.4/jopt-simple-5.0.4.jar"
+                            }
+                        },
+                        {
+                            "id": "org.slf4j:slf4j-api:2.0.9",
+                            "name": "org.slf4j:slf4j-api:2.0.9",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 64579,
+                                "MD5": "45630e54b0f0ac2b3c80462515ad8fda",
+                                "url": "https://libraries.minecraft.net/org/slf4j/slf4j-api/2.0.9/slf4j-api-2.0.9.jar"
+                            }
+                        },
+                        {
+                            "id": "org.antlr:antlr4-runtime:4.13.1",
+                            "name": "org.antlr:antlr4-runtime:4.13.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 326305,
+                                "MD5": "dd465ddb2a8dbf69eb6c94e69a0d5f0f",
+                                "url": "https://maven.neoforged.net/releases/org/antlr/antlr4-runtime/4.13.1/antlr4-runtime-4.13.1.jar"
+                            }
+                        },
+                        {
+                            "id": "com.mojang:logging:1.2.7",
+                            "name": "com.mojang:logging:1.2.7",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 15343,
+                                "MD5": "d01ea99740509a58222a426cc36f5456",
+                                "url": "https://libraries.minecraft.net/com/mojang/logging/1.2.7/logging-1.2.7.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1",
+                            "name": "org.apache.logging.log4j:log4j-slf4j2-impl:2.22.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 27364,
+                                "MD5": "82cc94f378ffb853efe084ee9bf4c463",
+                                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-slf4j2-impl/2.22.1/log4j-slf4j2-impl-2.22.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.logging.log4j:log4j-core:2.22.1",
+                            "name": "org.apache.logging.log4j:log4j-core:2.22.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 1900022,
+                                "MD5": "b5987ee449d4be4244e2e214683c45af",
+                                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-core/2.22.1/log4j-core-2.22.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.apache.logging.log4j:log4j-api:2.22.1",
+                            "name": "org.apache.logging.log4j:log4j-api:2.22.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 335001,
+                                "MD5": "27db0eb89ae965179480df00d8d1cf03",
+                                "url": "https://libraries.minecraft.net/org/apache/logging/log4j/log4j-api/2.22.1/log4j-api-2.22.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.jline:jline-reader:3.20.0",
+                            "name": "org.jline:jline-reader:3.20.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 171052,
+                                "MD5": "9ece57ca56a1688d1d09fe2c48e7a292",
+                                "url": "https://maven.neoforged.net/releases/org/jline/jline-reader/3.20.0/jline-reader-3.20.0.jar"
+                            }
+                        },
+                        {
+                            "id": "org.jline:jline-terminal:3.20.0",
+                            "name": "org.jline:jline-terminal:3.20.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 228481,
+                                "MD5": "e45dace437743e6b5e75c81eb455fd3e",
+                                "url": "https://maven.neoforged.net/releases/org/jline/jline-terminal/3.20.0/jline-terminal-3.20.0.jar"
+                            }
+                        },
+                        {
+                            "id": "commons-io:commons-io:2.15.1",
+                            "name": "commons-io:commons-io:2.15.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 501218,
+                                "MD5": "84351f7991a0e6722f00e96a4ccc376f",
+                                "url": "https://libraries.minecraft.net/commons-io/commons-io/2.15.1/commons-io-2.15.1.jar"
+                            }
+                        },
+                        {
+                            "id": "net.minecraftforge:srgutils:0.4.15",
+                            "name": "net.minecraftforge:srgutils:0.4.15",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 69393,
+                                "MD5": "79812fd073afe1c046bc1ea46ad28095",
+                                "url": "https://maven.neoforged.net/releases/net/minecraftforge/srgutils/0.4.15/srgutils-0.4.15.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.guava:guava:32.1.2-jre",
+                            "name": "com.google.guava:guava:32.1.2-jre",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 3041591,
+                                "MD5": "5fe031b3b35ed56182478811a931d617",
+                                "url": "https://libraries.minecraft.net/com/google/guava/guava/32.1.2-jre/guava-32.1.2-jre.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.guava:failureaccess:1.0.1",
+                            "name": "com.google.guava:failureaccess:1.0.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 4617,
+                                "MD5": "091883993ef5bfa91da01dcc8fc52236",
+                                "url": "https://libraries.minecraft.net/com/google/guava/failureaccess/1.0.1/failureaccess-1.0.1.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+                            "name": "com.google.guava:listenablefuture:9999.0-empty-to-avoid-conflict-with-guava",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 2199,
+                                "MD5": "d094c22570d65e132c19cea5d352e381",
+                                "url": "https://libraries.minecraft.net/com/google/guava/listenablefuture/9999.0-empty-to-avoid-conflict-with-guava/listenablefuture-9999.0-empty-to-avoid-conflict-with-guava.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.code.findbugs:jsr305:3.0.2",
+                            "name": "com.google.code.findbugs:jsr305:3.0.2",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 19936,
+                                "MD5": "dd83accb899363c32b07d7a1b2e4ce40",
+                                "url": "https://libraries.minecraft.net/com/google/code/findbugs/jsr305/3.0.2/jsr305-3.0.2.jar"
+                            }
+                        },
+                        {
+                            "id": "org.checkerframework:checker-qual:3.33.0",
+                            "name": "org.checkerframework:checker-qual:3.33.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 223979,
+                                "MD5": "fc9418b779d9d57dcd52197006cbdb9b",
+                                "url": "https://libraries.minecraft.net/org/checkerframework/checker-qual/3.33.0/checker-qual-3.33.0.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.errorprone:error_prone_annotations:2.18.0",
+                            "name": "com.google.errorprone:error_prone_annotations:2.18.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 16017,
+                                "MD5": "64145d0e7fee5a69ed7b84cf402de998",
+                                "url": "https://libraries.minecraft.net/com/google/errorprone/error_prone_annotations/2.18.0/error_prone_annotations-2.18.0.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.j2objc:j2objc-annotations:2.8",
+                            "name": "com.google.j2objc:j2objc-annotations:2.8",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 9301,
+                                "MD5": "c50af69b704dc91050efb98e0dff66d1",
+                                "url": "https://libraries.minecraft.net/com/google/j2objc/j2objc-annotations/2.8/j2objc-annotations-2.8.jar"
+                            }
+                        },
+                        {
+                            "id": "com.google.code.gson:gson:2.10.1",
+                            "name": "com.google.code.gson:gson:2.10.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 283367,
+                                "MD5": "df6097815738cb31fc56391553210843",
+                                "url": "https://libraries.minecraft.net/com/google/code/gson/gson/2.10.1/gson-2.10.1.jar"
+                            }
+                        },
+                        {
+                            "id": "org.codehaus.plexus:plexus-utils:3.3.0",
+                            "name": "org.codehaus.plexus:plexus-utils:3.3.0",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 263253,
+                                "MD5": "3ae76ff0195ada460d495efe1fb50d17",
+                                "url": "https://maven.neoforged.net/releases/org/codehaus/plexus/plexus-utils/3.3.0/plexus-utils-3.3.0.jar"
+                            }
+                        },
+                        {
+                            "id": "com.machinezoo.noexception:noexception:1.7.1",
+                            "name": "com.machinezoo.noexception:noexception:1.7.1",
+                            "type": "Library",
+                            "artifact": {
+                                "size": 250861,
+                                "MD5": "fcc3e4df4990088c964f687b62f7c448",
+                                "url": "https://maven.neoforged.net/releases/com/machinezoo/noexception/noexception/1.7.1/noexception-1.7.1.jar"
+                            }
+                        }
+                    ]
+                },
+                {
+                    "id": "shadows.mods:Axiom-5.3.0-for-MC1.21.1:1.0.0",
+                    "name": "Axiom-5.3.0-for-MC1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 44232996,
+                        "MD5": "74bc88e7859c8ecccc722683663d0ecd",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Axiom-5.3.0-for-MC1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:Controlling-neoforge-1.21.1:19.0.5",
+                    "name": "Controlling-neoforge-1.21.1-19.0.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 77555,
+                        "MD5": "7141c2d0bb774dc6e4481be32b685179",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Controlling-neoforge-1.21.1-19.0.5.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:Cuffed-1.21.1-1.3.13 (1):1.0.0",
+                    "name": "Cuffed-1.21.1-1.3.13 (1)",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 874696,
+                        "MD5": "18ca2978e1fa1d40d9231dc8226fa535",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Cuffed-1.21.1-1.3.13.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:CustomPlayerModels-1.21:0.6.27a",
+                    "name": "CustomPlayerModels-1.21-0.6.27a",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2793136,
+                        "MD5": "d74eddfd5685aec041d6c5b097b689f3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CustomPlayerModels-1.21-0.6.27a.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:FarmersDelight-1.21.1:1.3.4",
+                    "name": "FarmersDelight-1.21.1-1.3.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3160490,
+                        "MD5": "588f140d2c343e9029dc30f10b73fdd4",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FarmersDelight-1.21.1-1.3.4.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:ImmediatelyFast-NeoForge:1.6.13+1.21.1",
+                    "name": "ImmediatelyFast-NeoForge-1.6.13+1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 362740,
+                        "MD5": "c00a4e7f37026af024016a238aed5d10",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:Jade-1.21.1-NeoForge:15.10.6",
+                    "name": "Jade-1.21.1-NeoForge-15.10.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 726853,
+                        "MD5": "67b89f182472859d1e478477716c9462",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Jade-1.21.1-NeoForge-15.10.6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:JadeAddons-1.21.1-NeoForge:6.1.1",
+                    "name": "JadeAddons-1.21.1-NeoForge-6.1.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 75431,
+                        "MD5": "26c75b35c8e07ec289a1ab769773c00b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/JadeAddons-1.21.1-NeoForge-6.1.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:LesRaisins-Tactical-Equipements-1.21.1:0.4.3",
+                    "name": "LesRaisins-Tactical-Equipements-1.21.1-0.4.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6612829,
+                        "MD5": "0de3e60039bc147a3eae08d9fc394180",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/LesRaisins-Tactical-Equipements-1.21.1-0.4.3.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:MouseTweaks-neoforge-mc1.21:2.26.1",
+                    "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 73938,
+                        "MD5": "4ab6e808a59fdebecfbc92438b85b470",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MouseTweaks-neoforge-mc1.21-2.26.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:Searchables-neoforge-1.21.1:1.0.2",
+                    "name": "Searchables-neoforge-1.21.1-1.0.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 77326,
+                        "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Searchables-neoforge-1.21.1-1.0.2.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:[1.21.1] SecurityCraft v1.10.2.1:1.0.0",
+                    "name": "[1.21.1] SecurityCraft v1.10.2.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5193371,
+                        "MD5": "862516ce5f9c976e11244270284a11e5",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/1.21.1.SecurityCraft.v1.10.2.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:ad_astra-1.21.1-neoforge:1.16.6",
+                    "name": "ad_astra-1.21.1-neoforge-1.16.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7251894,
+                        "MD5": "d9d93c68c303164ad0d32e65b4a16658",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ad_astra-1.21.1-neoforge-1.16.6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:architectury-13.0.11-neoforge:1.0.0",
+                    "name": "architectury-13.0.11-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 584734,
+                        "MD5": "aefbea361809755c331126bcff6e6d3e",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/architectury-13.0.11-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:athena-neoforge-1.21.1:4.0.6",
+                    "name": "athena-neoforge-1.21.1-4.0.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 99944,
+                        "MD5": "0c22a1ec59e5ce22eef1b614fda59b42",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/athena-neoforge-1.21.1-4.0.6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:baguettelib-1.21.1-NeoForge:2.0.6",
+                    "name": "baguettelib-1.21.1-NeoForge-2.0.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 81947,
+                        "MD5": "e63f3274687729a850e0d6a8140a4089",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/baguettelib-1.21.1-NeoForge-2.0.6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:born_in_chaos_[Neoforge]_1.21.1_1.7.6:1.0.0",
+                    "name": "born_in_chaos_[Neoforge]_1.21.1_1.7.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 11842184,
+                        "MD5": "c34bfa3d5b9bd99816d4903fa8452d33",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/born_in_chaos_.Neoforge._1.21.1_1.7.6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:braziliandelight-1.21.1-neoforge:3.0.0",
+                    "name": "braziliandelight-1.21.1-neoforge-3.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1226633,
+                        "MD5": "c027abb1394388956985987ecd16967c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/braziliandelight-1.21.1-neoforge-3.0.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe:1.0.0",
+                    "name": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 389391,
+                        "MD5": "2f31d73740e5c016e75e9f2e2d0ca2f2",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:cloth-config-15.0.140-neoforge:1.0.0",
+                    "name": "cloth-config-15.0.140-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1163890,
+                        "MD5": "4c3757160403fcccb8ad468c2ea22862",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cloth-config-15.0.140-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:common-storage-lib-neoforge-1.21.1:0.0.10",
+                    "name": "common-storage-lib-neoforge-1.21.1-0.0.10",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 309860,
+                        "MD5": "b77c0efa2d4e8738ce40710cf826ecbd",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/common-storage-lib-neoforge-1.21.1-0.0.10.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:connector-2.0.0-beta.17+1.21.1-full:1.0.0",
+                    "name": "connector-2.0.0-beta.17+1.21.1-full",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4573244,
+                        "MD5": "b3e451facbf76338a06d765e7d1c7e9c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/connector-2.0.0-beta.17%2B1.21.1-full.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:corpse-neoforge-1.21.1:1.1.13",
+                    "name": "corpse-neoforge-1.21.1-1.1.13",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 253695,
+                        "MD5": "1d3f40f9cf85f1e3a330201ea2e85c2c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/corpse-neoforge-1.21.1-1.1.13.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:corpsecurioscompat-1.21.1-NeoForge:3.1.3",
+                    "name": "corpsecurioscompat-1.21.1-NeoForge-3.1.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 24683,
+                        "MD5": "8483ed78a4d59ede2aa80651f04b2b57",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:create-1.21.1:6.0.10",
+                    "name": "create-1.21.1-6.0.10",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 19123767,
+                        "MD5": "179189c52b45a469e683570be4e77188",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-1.21.1-6.0.10.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:createaddition:1.6.0",
+                    "name": "createaddition-1.6.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1661802,
+                        "MD5": "f401e28d795486a83db6dd714486d3e2",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createaddition-1.6.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:curios-neoforge:9.5.1+1.21.1",
+                    "name": "curios-neoforge-9.5.1+1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 410690,
+                        "MD5": "e8f0a3574264bb202c153b90293dc84c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/curios-neoforge-9.5.1%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:deltaboxlib-1.21.1-neoforge:3.0.0",
+                    "name": "deltaboxlib-1.21.1-neoforge-3.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 756047,
+                        "MD5": "a4e3557bb3df36f696bcbdc702fcd94b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/deltaboxlib-1.21.1-neoforge-3.0.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:dummmmmmy-neoforge-1.21:2.1.0",
+                    "name": "dummmmmmy-neoforge-1.21-2.1.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 214030,
+                        "MD5": "ac9b3ac4a46b8f062261106e6b8ee9e5",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dummmmmmy-neoforge-1.21-2.1.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:dungeons_and_combat-1.2.4:1.21.1",
+                    "name": "dungeons_and_combat-1.2.4-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 12682417,
+                        "MD5": "ffc1bbe1ef87ab1f6e75e0a49cc1ed8f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dungeons_and_combat-1.2.4-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:embeddium:1.0.15+mc1.21.1",
+                    "name": "embeddium-1.0.15+mc1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1048745,
+                        "MD5": "55d23daccc9bf63447a4cb10e3c21db1",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/embeddium-1.0.15%2Bmc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:emi:1.1.24+1.21.1+neoforge",
+                    "name": "emi-1.1.24+1.21.1+neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1111538,
+                        "MD5": "e4aede758ec7c675d2255234df7ed4ff",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emi-1.1.24%2B1.21.1%2Bneoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:enemyexpansion-2.2.0:1.21.1",
+                    "name": "enemyexpansion-2.2.0-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 952111,
+                        "MD5": "342b5631198dfd8413283138b921daac",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enemyexpansion-2.2.0-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:epic-fight-21.17.3.1-mc1.21.1-neoforge:1.0.0",
+                    "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 8578288,
+                        "MD5": "b4d1d7e4c195fca39ce3a83690cdb147",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic-fight-21.17.3.1-mc1.21.1-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:ferritecore-7.0.3-neoforge:1.0.0",
+                    "name": "ferritecore-7.0.3-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 121559,
+                        "MD5": "e0374dac41d6c641903f9e241911e1d3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ferritecore-7.0.3-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:forgified-fabric-api:0.116.15+2.3.5+1.21.1",
+                    "name": "forgified-fabric-api-0.116.15+2.3.5+1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 5613421,
+                        "MD5": "52c80dfbeee55cbb7ecd244710088dd8",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:ftb-library-neoforge:2101.1.35",
+                    "name": "ftb-library-neoforge-2101.1.35",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1439018,
+                        "MD5": "591ef2ad7c9610689d22b301e0e3a678",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ftb-library-neoforge-2101.1.35.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:geckolib-neoforge-1.21.1:4.9.2",
+                    "name": "geckolib-neoforge-1.21.1-4.9.2",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 630584,
+                        "MD5": "5cf29155ad6071b5dcba2ea24cd27350",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/geckolib-neoforge-1.21.1-4.9.2.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:irons_lib-1.21.1:2.1.0",
+                    "name": "irons_lib-1.21.1-2.1.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 406284,
+                        "MD5": "5ac685e3e5ce76a9c80d0e865769bd60",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/irons_lib-1.21.1-2.1.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:irons_spellbooks-1.21.1:3.16.3",
+                    "name": "irons_spellbooks-1.21.1-3.16.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 13890111,
+                        "MD5": "08c39feac0238dbcf68faee06ab6da47",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/irons_spellbooks-1.21.1-3.16.3.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:itemmodeltransformer:2.0.0",
+                    "name": "itemmodeltransformer-2.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 50317,
+                        "MD5": "3ba0b42742c08c04e28c05d075be3477",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/itemmodeltransformer-2.0.0.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:journeymap-neoforge-1.21.1:6.0.7",
+                    "name": "journeymap-neoforge-1.21.1-6.0.7",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4299852,
+                        "MD5": "c516fdc2d5266abfcadd5f6f1c13c899",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/journeymap-neoforge-1.21.1-6.0.7.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:justzoom_neoforge_2.1.0_MC_1.21.1:1.0.0",
+                    "name": "justzoom_neoforge_2.1.0_MC_1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 43798,
+                        "MD5": "3c28fc81aa5a9be514905e6c88e02d6d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:konkrete_neoforge_1.9.9_MC_1.21:1.0.0",
+                    "name": "konkrete_neoforge_1.9.9_MC_1.21",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 618842,
+                        "MD5": "6e77d08299ea1ec7756a299263bc469b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/konkrete_neoforge_1.9.9_MC_1.21.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:kotlinforforge-5.12.0-all:1.0.0",
+                    "name": "kotlinforforge-5.12.0-all",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7279276,
+                        "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kotlinforforge-5.12.0-all.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:letsdo-vinery-neoforge:1.5.3",
+                    "name": "letsdo-vinery-neoforge-1.5.3",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2001616,
+                        "MD5": "a669653659a18677eb240353a0a135ab",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/letsdo-vinery-neoforge-1.5.3.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:modernfix-neoforge:5.27.24+mc1.21.1",
+                    "name": "modernfix-neoforge-5.27.24+mc1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 604333,
+                        "MD5": "fc329974db57c6ec176b5a8b51899b3a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:moonlight-1.21.1-3.6.1-neoforge:1.0.0",
+                    "name": "moonlight-1.21.1-3.6.1-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2222232,
+                        "MD5": "2bbe5fbbbd8225cea201646a43c147f4",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/moonlight-1.21.1-3.6.1-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:player-animation-lib-forge:2.0.4+1.21.1",
+                    "name": "player-animation-lib-forge-2.0.4+1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 203149,
+                        "MD5": "ecb81c9479605db12a77bea774b88406",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/player-animation-lib-forge-2.0.4%2B1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:resourcefulconfig-neoforge-1.21:3.0.11",
+                    "name": "resourcefulconfig-neoforge-1.21-3.0.11",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 341009,
+                        "MD5": "84ff2805a591b10d22b7e0c69b44246c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefulconfig-neoforge-1.21-3.0.11.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:resourcefullib-neoforge-1.21:3.0.12",
+                    "name": "resourcefullib-neoforge-1.21-3.0.12",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 484332,
+                        "MD5": "32da88903167d24bb20febeeb2c79225",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefullib-neoforge-1.21-3.0.12.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:ror-0.59:1.21.1",
+                    "name": "ror-0.59-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3634081,
+                        "MD5": "f4e1c40702b8e63a9f7a296da1b26a3a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ror-0.59-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:sophisticatedbackpacks-1.21.1:3.25.78.2107",
+                    "name": "sophisticatedbackpacks-1.21.1-3.25.78.2107",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1172245,
+                        "MD5": "f26dd6193a2540a293bb70e1bdae415c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sophisticatedbackpacks-1.21.1-3.25.78.2107.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:sophisticatedcore-1.21.1:1.4.90.2299",
+                    "name": "sophisticatedcore-1.21.1-1.4.90.2299",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1687195,
+                        "MD5": "ad27add0e7a4b473d0ef7e7ab6278899",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sophisticatedcore-1.21.1-1.4.90.2299.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:soulranged-weapon-api-2.3.3-patched:1.0.0",
+                    "name": "soulranged-weapon-api-2.3.3-patched",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 141522,
+                        "MD5": "5c235d3aabc52491fed4a44568f29e8b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/soulranged-weapon-api-2.3.3-patched.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:soulsweapons-1.4.4-1.21.1 - Copia:1.0.0",
+                    "name": "soulsweapons-1.4.4-1.21.1 - Copia",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 54437094,
+                        "MD5": "31421c706f252cb0ea850e6902c18468",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/soulsweapons-1.4.4-1.21.1.-.Copia.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:tacz-neoforge-1.21.1-1.1.8-hotfix-r6:1.0.0",
+                    "name": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 57242132,
+                        "MD5": "c98554e37a412317990a8b2b36aa3bba",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:tacz-valorant-neoforge-1.21.1:0.2.1",
+                    "name": "tacz-valorant-neoforge-1.21.1-0.2.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 7099585,
+                        "MD5": "4bfa53ece31f5f6a621d7713bde6579c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.2.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:twm-1.3.1-neoforge:1.21.1",
+                    "name": "twm-1.3.1-neoforge-1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 12135699,
+                        "MD5": "277dbd752e96d8070875d3f811ed243c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/twm-1.3.1-neoforge-1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:voicechat-neoforge-1.21.1:2.6.22",
+                    "name": "voicechat-neoforge-1.21.1-2.6.22",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 4918442,
+                        "MD5": "f2c1f0eb15d2fb2a8cf8a0040282df51",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/voicechat-neoforge-1.21.1-2.6.22.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:walkietalkie-neoforge-1.21.1-1.0.5-xenthor:1.0.0",
+                    "name": "walkietalkie-neoforge-1.21.1-1.0.5-xenthor",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 219342,
+                        "MD5": "134398592c5628576a31b1d661bd9819",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/walkietalkie-neoforge-1.21.1-1.0.5-xenthor.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:worldedit-mod:7.3.8",
+                    "name": "worldedit-mod-7.3.8",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 6222854,
+                        "MD5": "f5d6f09ca5c4b1958780d01a099b779d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/worldedit-mod-7.3.8.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xcombat-2.0.0-neoforge-1.21.1-obf:1.0.0",
+                    "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 969728,
+                        "MD5": "03ac755e718f32fcf6fd7efa180b785d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthor-security-1.2.0-obf:1.0.0",
+                    "name": "xenthor-security-1.2.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 46619,
+                        "MD5": "ae64a5b278758c82ba7be3dd372d55ec",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor-security-1.2.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthor_bebidas-1.0.0-obf:1.0.0",
+                    "name": "xenthor_bebidas-1.0.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 25686,
+                        "MD5": "7a7e443ed522cde6ce96124f68e93f70",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_bebidas-1.0.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthor_protect-2.0-obf:1.0.0",
+                    "name": "xenthor_protect-2.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 63834,
+                        "MD5": "a2e9bf7b5d6dec41e0bbb7f809f57e88",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_protect-2.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthor_xr-1.0.0-obf:1.0.0",
+                    "name": "xenthor_xr-1.0.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 51519157,
+                        "MD5": "25ef2e719c3e5fa67882ee78743773b4",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthorcontrol-3.2.0-1.21.1-obf:1.0.0",
+                    "name": "xenthorcontrol-3.2.0-1.21.1-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 120841,
+                        "MD5": "3e527bedc3f2236092d068546b32941d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.2.0-1.21.1-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthormod-1.21.1-3.1-obf:1.0.0",
+                    "name": "xenthormod-1.21.1-3.1-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 16943185,
+                        "MD5": "4f0c6b3583672f7c092b132a417babf0",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.1-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthorphone-0.1.0-obf:1.0.0",
+                    "name": "xenthorphone-0.1.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 642896,
+                        "MD5": "d43d183cf548da0b3208ed820c9ed270",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.1.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthortablegames-1.0.0-obf:1.0.0",
+                    "name": "xenthortablegames-1.0.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1670664,
+                        "MD5": "4734bf85c9500a0debe57e1c0a65e455",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthortablegames-1.0.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xfight-1.0.0-obf:1.0.0",
+                    "name": "xfight-1.0.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 36010,
+                        "MD5": "b04957c9f7d14a358c279ddfd0b2a688",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:neoculus-mc1.21.1:1.8.7",
+                    "name": "neoculus-mc1.21.1-1.8.7",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2799219,
+                        "MD5": "81faed9f91d6d588114d188d8b34ba0b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/neoculus-mc1.21.1-1.8.7.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge:1.0.0",
+                    "name": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge",
+                    "type": "ForgeMod",
+                    "required": {
+                        "value": false,
+                        "def": false
+                    },
+                    "artifact": {
+                        "size": 30207268,
+                        "MD5": "8925d0f3c3be448e895dcab6a64de0e6",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:BSL_v8.4",
+                    "name": "BSL_v8.4.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1105442,
+                        "MD5": "9cbe8c2b70a992a50853875482eec66a",
+                        "path": "shaderpacks/BSL_v8.4.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BSL_v8.4.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Bliss_v2.1.2_(Chocapic13_Shaders_edit)",
+                    "name": "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1791406,
+                        "MD5": "73eac5d017a268ea8175c2025c2863ad",
+                        "path": "shaderpacks/Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Bliss_v2.1.2_.Chocapic13_Shaders_edit.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Bloop-1.7.0-cloud-fix-2",
+                    "name": "Bloop-1.7.0-cloud-fix-2.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 4676236,
+                        "MD5": "5d1d2b96db6613a4cf4eb98e9b286315",
+                        "path": "shaderpacks/Bloop-1.7.0-cloud-fix-2.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Bloop-1.7.0-cloud-fix-2.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Chocapic13_V9",
+                    "name": "Chocapic13_V9.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 14149623,
+                        "MD5": "370978c21f154a0022c4d5b5703b790b",
+                        "path": "shaderpacks/Chocapic13_V9.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Chocapic13_V9.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:ComplementaryReimagined_r5.6.1",
+                    "name": "ComplementaryReimagined_r5.6.1.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 500696,
+                        "MD5": "04c822b2da584e21745869190ac653e6",
+                        "path": "shaderpacks/ComplementaryReimagined_r5.6.1.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ComplementaryReimagined_r5.6.1.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:ComplementaryUnbound_r5.6.1",
+                    "name": "ComplementaryUnbound_r5.6.1.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 500699,
+                        "MD5": "3f83f81df2ad4608d830017425b45bac",
+                        "path": "shaderpacks/ComplementaryUnbound_r5.6.1.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ComplementaryUnbound_r5.6.1.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Derivative-Shaders-All-Versions",
+                    "name": "Derivative-Shaders-All-Versions.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 19935291,
+                        "MD5": "7eb6b7b81a8bfebcc2a083def227c90f",
+                        "path": "shaderpacks/Derivative-Shaders-All-Versions.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Derivative-Shaders-All-Versions.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Hysteria-Shaders-Universal-v1.2.1",
+                    "name": "Hysteria-Shaders-Universal-v1.2.1.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1578052,
+                        "MD5": "9cd9d2b33532f1774f7465e76b92a4e3",
+                        "path": "shaderpacks/Hysteria-Shaders-Universal-v1.2.1.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Hysteria-Shaders-Universal-v1.2.1.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:MakeUp-UltraFast-9.4a",
+                    "name": "MakeUp-UltraFast-9.4a.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 402285,
+                        "MD5": "31b45dfc8a745f2fa33f2f0964a68e36",
+                        "path": "shaderpacks/MakeUp-UltraFast-9.4a.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MakeUp-UltraFast-9.4a.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Mellow v2.2.1",
+                    "name": "Mellow v2.2.1.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 328845,
+                        "MD5": "2d6c1691bba0c891ae0fbfe25ecd529d",
+                        "path": "shaderpacks/Mellow v2.2.1.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Mellow.v2.2.1.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Pixel-Perfect-1-5-2a",
+                    "name": "Pixel-Perfect-1-5-2a.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 7766144,
+                        "MD5": "0ca792e595bb198213fba6684592ef96",
+                        "path": "shaderpacks/Pixel-Perfect-1-5-2a.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Pixel-Perfect-1-5-2a.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:Solas Shader V3.2",
+                    "name": "Solas Shader V3.2.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1222615,
+                        "MD5": "c012ce801111913af9d8a5acfc6efd72",
+                        "path": "shaderpacks/Solas Shader V3.2.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Solas.Shader.V3.2.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:photon_v1.2a",
+                    "name": "photon_v1.2a.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3737845,
+                        "MD5": "9189fd0de30af6ea20765a8f05380583",
+                        "path": "shaderpacks/photon_v1.2a.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/photon_v1.2a.zip"
+                    }
+                },
+                {
+                    "id": "shadows.shaders:§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l",
+                    "name": "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 3184524,
+                        "MD5": "021c95bd3d217b4a7e45997d5127285b",
+                        "path": "shaderpacks/§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/r.lAstra.4.lLex.r.l_By_LexBoosT_.4.lV93.0.r.l.zip"
+                    }
+                },
+                {
+                    "id": "shadows.texturas:BDHill Reforge the Sword Edge 2.0 [1.21.1 NeoForge]",
+                    "name": "BDHill Reforge the Sword Edge 2.0 [1.21.1 NeoForge].zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 1067415,
+                        "MD5": "de99f0af5c7b1579448ab420ee380c56",
+                        "path": "resourcepacks/BDHill Reforge the Sword Edge 2.0 [1.21.1 NeoForge].zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BDHill.Reforge.the.Sword.Edge.2.0.1.21.1.NeoForge.zip"
+                    }
+                }
+            ]
+        }
+    ]
+}
