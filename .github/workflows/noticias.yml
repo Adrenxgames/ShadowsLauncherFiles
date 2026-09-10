@@ -1,0 +1,74 @@
+# Le o canal de anuncios do Discord e publica o noticias.json que a aba de
+# Noticias do launcher consome.
+#
+# Este arquivo NAO roda aqui no projeto do launcher: ele e copiado para
+# .github/workflows/noticias.yml do repositorio ShadowsLauncherFiles pelo
+# `npm run publicar`. Quem roda e o GitHub, de graca, sem servidor nenhum.
+#
+# Antes da primeira execucao, no ShadowsLauncherFiles:
+#   Settings > Secrets and variables > Actions > New repository secret
+#   Nome: DISCORD_TOKEN   Valor: o token do bot
+#
+# Se o cron parar de disparar sozinho: o GitHub desliga workflow agendado de
+# repositorio parado ha 60 dias. Ele avisa por e-mail e um clique em "Enable
+# workflow" religa.
+
+name: Noticias do Discord
+
+on:
+  schedule:
+    # A cada 10 minutos. O GitHub nao promete pontualidade em cron de repo
+    # publico - em horario de pico o disparo atrasa alguns minutos, e isso e
+    # normal, nao e falha.
+    - cron: '*/10 * * * *'
+  workflow_dispatch:
+
+# Duas execucoes ao mesmo tempo brigariam pelo push. A segunda espera.
+concurrency:
+  group: noticias
+  cancel-in-progress: false
+
+permissions:
+  contents: write
+
+jobs:
+  atualizar:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Baixar o repositorio
+        uses: actions/checkout@v4
+
+      - name: Preparar o Node
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Ler o Discord e gerar as noticias
+        env:
+          DISCORD_TOKEN: ${{ secrets.DISCORD_TOKEN }}
+        run: node tools/discord-noticias.js --saida noticias
+
+      - name: Publicar se algo mudou
+        run: |
+          if [ -z "$(git status --porcelain noticias)" ]; then
+            echo "Nada mudou desde a ultima execucao."
+            exit 0
+          fi
+
+          git config user.name  "Shadows Noticias"
+          git config user.email "noticias@shadows.local"
+          git add noticias
+          git commit -m "Noticias: atualizacao automatica"
+
+          # Outra execucao pode ter commitado enquanto esta lia o Discord.
+          for tentativa in 1 2 3; do
+            if git push; then
+              exit 0
+            fi
+            echo "push recusado, sincronizando (tentativa $tentativa)"
+            git pull --rebase
+          done
+
+          echo "Nao foi possivel enviar depois de 3 tentativas."
+          exit 1

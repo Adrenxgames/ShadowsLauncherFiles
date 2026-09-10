@@ -1,0 +1,34 @@
+{
+    "_comentario": "Automacao das noticias do launcher. As mensagens dos canais listados aqui viram a aba de Noticias. Quem le este arquivo e o tools/discord-noticias.js, que roda dentro do GitHub Actions do repositorio ShadowsLauncherFiles a cada 10 minutos.",
+
+    "_comentario_guildId": "ID do servidor do Discord. Este e o Shadows Gaming, escolhido em 05/09 - o mesmo do convite conviteShadows do distribution.base.json. Serve para montar o link ver-no-Discord de cada noticia.",
+    "guildId": "764847814253346857",
+
+    "_comentario_canais": "Cada canal vira uma categoria, que aparece entre colchetes no titulo da noticia. Ordem nao importa: no fim tudo e ordenado da mais nova para a mais velha.",
+    "canais": [
+        {
+            "id": "1545689130053275678",
+            "categoria": "Novidades"
+        }
+    ],
+
+    "_comentario_limites": "limitePorCanal e quantas mensagens recentes o gerador le de cada canal (o Discord entrega ate 100 por vez). totalMaximo e quantas noticias sobram no fim, somando todos os canais.",
+    "limitePorCanal": 15,
+    "totalMaximo": 12,
+
+    "_comentario_filtros": "apenasFixados true faz o gerador considerar SO as mensagens fixadas do canal - util se o canal tambem tem conversa. ignorarPrefixo descarta mensagens que comecam com esse texto, para escrever recado interno no mesmo canal sem publicar.",
+    "apenasFixados": false,
+    "ignorarPrefixo": "//",
+    "ignorarBots": false,
+
+    "_comentario_autor": "autorFixo troca o nome de quem escreveu por um nome unico (ex: 'Equipe Shadows'). Deixe null para usar o apelido de quem postou no Discord.",
+    "autorFixo": null,
+    "tituloPadrao": "Novidade",
+
+    "_comentario_imagens": "As imagens do Discord expiram em 24h, entao o gerador BAIXA cada uma e guarda no repositorio. urlBaseImagens e o endereco publico dessa pasta. Imagem maior que limiteImagemMB e ignorada, para nao inchar o repositorio.",
+    "urlBaseImagens": "https://raw.githubusercontent.com/Adrenxgames/ShadowsLauncherFiles/main/noticias/imagens",
+    "limiteImagemMB": 8,
+
+    "_comentario_saida": "Pasta onde o noticias.json e a pasta imagens/ sao escritos. No GitHub Actions o caminho vem por --saida noticias; este valor e o do teste local.",
+    "saida": "dist-noticias"
+}
