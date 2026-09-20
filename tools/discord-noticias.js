@@ -293,6 +293,35 @@ function mensagemParaArtigo(mensagem, canal, config){
  * Discord
  * ---------------------------------------------------------------------- */
 
+/**
+ * Em quais servidores o bot esta, em texto pronto para entrar numa mensagem de erro.
+ *
+ * Existe por causa do 50001: "o bot esta no servidor errado" e "o bot esta no servidor certo mas
+ * nao ve o canal" dao exatamente o mesmo erro, e sao consertos completamente diferentes. Esta
+ * chamada desempata. Nao exige intent nenhuma.
+ *
+ * Nunca lanca: ela existe para MELHORAR uma mensagem de erro; se falhar, a mensagem so fica mais
+ * pobre, e seria ridiculo trocar o erro de verdade por um erro do diagnostico.
+ */
+async function ondeOBotEsta(token){
+    try {
+        const resposta = await fetch(`${API}/users/@me/guilds`, {
+            headers: { 'Authorization': `Bot ${token}`, 'User-Agent': AGENTE }
+        })
+        if(!resposta.ok){
+            return '  (nao consegui listar os servidores do bot)'
+        }
+        const guildas = await resposta.json()
+        if(!Array.isArray(guildas) || guildas.length === 0){
+            return '  >> O BOT NAO ESTA EM NENHUM SERVIDOR. E preciso convida-lo primeiro.'
+        }
+        const lista = guildas.map(g => `      ${g.name} (${g.id})`).join('\n')
+        return `  O bot esta em ${guildas.length} servidor(es):\n${lista}`
+    } catch(err) {
+        return '  (nao consegui listar os servidores do bot)'
+    }
+}
+
 async function pedirDiscord(caminho, token){
     const resposta = await fetch(`${API}${caminho}`, {
         headers: {
@@ -329,7 +358,12 @@ async function pedirDiscord(caminho, token){
 
         let pista
         if(codigo === 50001){
-            pista = '  code 50001 = Missing Access: o bot NAO ENXERGA esse canal.\n'
+            // Antes de mandar o dono caçar permissao, perguntar ao Discord em quais servidores o bot
+            // esta. /users/@me/guilds nao exige intent nenhuma e responde a duvida que o 50001 deixa
+            // no ar: "o bot esta no servidor errado" e "o bot esta no servidor certo mas nao ve o
+            // canal" dao o MESMO erro, e sao consertos completamente diferentes.
+            pista = `${await ondeOBotEsta(token)}\n`
+                + '  code 50001 = Missing Access: o bot NAO ENXERGA esse canal.\n'
                 + '    - Se ele nem aparece na lista de membros do servidor, convide-o:\n'
                 + '      https://discord.com/oauth2/authorize?client_id=<ID DA APLICACAO>&scope=bot&permissions=66560\n'
                 + '    - Se ja esta no servidor: permissoes do CANAL (nao da categoria) > adicione o bot\n'
