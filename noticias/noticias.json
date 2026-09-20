@@ -1,0 +1,22 @@
+{
+  "articles": [
+    {
+      "title": "🛠️ [Título da atualização 2]",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-09-20T04:37:40.532Z",
+      "content": "# 🛠️ [Título da atualização 2]\n\n[Resumo curto explicando o objetivo da atualização.]\n\n## Correções\n\n* [Correção 1]\n* [Correção 2]\n* [Correção 3]\n* [Correção 4]\n\n## Mudanças de regra\n\n* [Mudança de regra 1]\n* [Mudança de regra 2]\n\n## Como atualizar\n\n[Explique de forma simples como o jogador deve realizar a atualização.]\n\n-# [Rodapé / responsável pela publicação]",
+      "images": [],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1551089944104276009"
+    },
+    {
+      "title": "🔥 TEMPLATE 1 — AVISO CHAMATIVO",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-09-20T04:36:57.961Z",
+      "content": "## 🔥 TEMPLATE 1 — AVISO CHAMATIVO\n\n# [EMOJI] [Título curto e chamativo]\n\n[Frase de impacto explicando o que está acontecendo.]\n\n* **[Ponto principal 1]**\n* **[Ponto principal 2]**\n* **[Ponto principal 3]**\n\n**[Data / Horário / Informação principal]**\n\n[Uma única ação que o jogador deve realizar.]\n\n-# [Rodapé: suporte, canal ou informação adicional]",
+      "images": [],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1551089765548302458"
+    }
+  ]
+}
