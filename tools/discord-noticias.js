@@ -327,8 +327,35 @@ function convitePara(token){
     }
 }
 
+/**
+ * O nome do bot a quem este token pertence.
+ *
+ * ⭐ Parece supérfluo e e a informacao que fecha o diagnostico: em 20/09/2026 o token cadastrado era
+ * de uma aplicacao ("Xenthor...") diferente do bot que estava no servidor ("Shadows"). Token valido,
+ * zero servidores, e nenhuma mensagem dizendo de quem era o token. Dizer o nome resolve em um olhar.
+ */
+async function nomeDoBot(token){
+    try {
+        const resposta = await fetch(`${API}/users/@me`, {
+            headers: { 'Authorization': `Bot ${token}`, 'User-Agent': AGENTE }
+        })
+        if(!resposta.ok){
+            return null
+        }
+        const eu = await resposta.json()
+        return eu && eu.username ? eu.username : null
+    } catch(err) {
+        return null
+    }
+}
+
 async function ondeOBotEsta(token){
     try {
+        const quem = await nomeDoBot(token)
+        const assinatura = quem
+            ? `  O token cadastrado e do bot "${quem}".\n`
+            : ''
+
         const resposta = await fetch(`${API}/users/@me/guilds`, {
             headers: { 'Authorization': `Bot ${token}`, 'User-Agent': AGENTE }
         })
@@ -338,7 +365,7 @@ async function ondeOBotEsta(token){
         const guildas = await resposta.json()
         if(!Array.isArray(guildas) || guildas.length === 0){
             const convite = convitePara(token)
-            return '  >> O BOT DESTE TOKEN NAO ESTA EM NENHUM SERVIDOR.\n'
+            return assinatura + '  >> O BOT DESTE TOKEN NAO ESTA EM NENHUM SERVIDOR.\n'
                 + '     Nao adianta mexer em permissao de canal: ele nem entrou. Convide-o por:\n'
                 + (convite
                     ? `     ${convite}\n`
@@ -347,7 +374,7 @@ async function ondeOBotEsta(token){
                 + '      e desta aqui, e e esta que precisa entrar.)'
         }
         const lista = guildas.map(g => `      ${g.name} (${g.id})`).join('\n')
-        return `  O bot esta em ${guildas.length} servidor(es):\n${lista}`
+        return assinatura + `  O bot esta em ${guildas.length} servidor(es):\n${lista}`
     } catch(err) {
         return '  (nao consegui listar os servidores do bot)'
     }
