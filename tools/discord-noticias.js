@@ -395,9 +395,7 @@ async function pedirDiscord(caminho, token){
             // canal" dao o MESMO erro, e sao consertos completamente diferentes.
             pista = `${await ondeOBotEsta(token)}\n`
                 + '  code 50001 = Missing Access: o bot NAO ENXERGA esse canal.\n'
-                + '    - Se ele nem aparece na lista de membros do servidor, convide-o:\n'
-                + '      https://discord.com/oauth2/authorize?client_id=<ID DA APLICACAO>&scope=bot&permissions=66560\n'
-                + '    - Se ja esta no servidor: permissoes do CANAL (nao da categoria) > adicione o bot\n'
+                + '    - Se ele esta no servidor: permissoes do CANAL (nao da categoria) > adicione o bot\n'
                 + '      pelo nome dele, nao por cargo, e marque "Ver canal".\n'
                 + '    - Confira tambem se o ID do canal em noticias.config.json e o canal que voce editou:\n'
                 + '      Discord > Configuracoes > Avancado > Modo desenvolvedor, depois botao direito no\n'
