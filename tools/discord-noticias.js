@@ -314,8 +314,38 @@ async function pedirDiscord(caminho, token){
     }
 
     if(resposta.status === 403){
-        throw new Error(`o bot nao pode ler ${caminho} (403).\n`
-            + '  No Discord, o bot precisa de "Ver canal" e "Ver historico de mensagens" NESSE canal.')
+        // ⭐ 403 tem causas diferentes que parecem a mesma, e o Discord JA diz qual e - no campo
+        // "code" do corpo. Jogar o corpo fora e o que transforma cinco minutos de conserto em uma
+        // tarde mexendo em permissao de canal a esmo:
+        //
+        //   50001 Missing Access      -> o bot nao ENXERGA o canal (ou nem esta no servidor)
+        //   50013 Missing Permissions -> ele ve o canal, mas nao pode ler o historico
+        //
+        // Sao consertos diferentes: o primeiro e "Ver canal"/convite, o segundo e
+        // "Ver historico de mensagens".
+        const corpo = await resposta.json().catch(() => null)
+        const codigo = corpo && corpo.code
+        const dito = corpo && corpo.message ? `${corpo.message} (code ${codigo})` : 'sem detalhe'
+
+        let pista
+        if(codigo === 50001){
+            pista = '  code 50001 = Missing Access: o bot NAO ENXERGA esse canal.\n'
+                + '    - Se ele nem aparece na lista de membros do servidor, convide-o:\n'
+                + '      https://discord.com/oauth2/authorize?client_id=<ID DA APLICACAO>&scope=bot&permissions=66560\n'
+                + '    - Se ja esta no servidor: permissoes do CANAL (nao da categoria) > adicione o bot\n'
+                + '      pelo nome dele, nao por cargo, e marque "Ver canal".\n'
+                + '    - Confira tambem se o ID do canal em noticias.config.json e o canal que voce editou:\n'
+                + '      Discord > Configuracoes > Avancado > Modo desenvolvedor, depois botao direito no\n'
+                + '      canal > Copiar ID do canal.'
+        } else if(codigo === 50013){
+            pista = '  code 50013 = Missing Permissions: o bot VE o canal, mas nao pode ler o historico.\n'
+                + '    Nas permissoes do canal, marque "Ver historico de mensagens".'
+        } else {
+            pista = '  O bot precisa de "Ver canal" e "Ver historico de mensagens" NESSE canal,\n'
+                + '    e precisa estar no servidor.'
+        }
+
+        throw new Error(`o bot nao pode ler ${caminho} (403): ${dito}\n${pista}`)
     }
 
     if(resposta.status === 404){
