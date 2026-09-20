@@ -303,6 +303,30 @@ function mensagemParaArtigo(mensagem, canal, config){
  * Nunca lanca: ela existe para MELHORAR uma mensagem de erro; se falhar, a mensagem so fica mais
  * pobre, e seria ridiculo trocar o erro de verdade por um erro do diagnostico.
  */
+/**
+ * O link de convite do bot DESTE token, montado sozinho.
+ *
+ * ⭐ A primeira parte de um token de bot e o ID do proprio bot em base64url - o mesmo numero que o
+ * Developer Portal chama de Application ID. Isso resolve a confusao mais cara deste setup: quando o
+ * dono tem mais de uma aplicacao, ele convida uma e poe o token da outra no segredo, e o resultado e
+ * um token perfeitamente valido que nao enxerga servidor nenhum. Montando o link a partir do token,
+ * o convite e necessariamente do bot certo.
+ *
+ * permissions=66560 = Ver canal (1024) + Ver historico de mensagens (65536). Nada alem disso: este
+ * bot so le.
+ */
+function convitePara(token){
+    try {
+        const id = Buffer.from(String(token).split('.')[0], 'base64url').toString('utf-8')
+        if(!/^\d{17,20}$/.test(id)){
+            return null
+        }
+        return `https://discord.com/oauth2/authorize?client_id=${id}&scope=bot&permissions=66560`
+    } catch(err) {
+        return null
+    }
+}
+
 async function ondeOBotEsta(token){
     try {
         const resposta = await fetch(`${API}/users/@me/guilds`, {
@@ -313,7 +337,14 @@ async function ondeOBotEsta(token){
         }
         const guildas = await resposta.json()
         if(!Array.isArray(guildas) || guildas.length === 0){
-            return '  >> O BOT NAO ESTA EM NENHUM SERVIDOR. E preciso convida-lo primeiro.'
+            const convite = convitePara(token)
+            return '  >> O BOT DESTE TOKEN NAO ESTA EM NENHUM SERVIDOR.\n'
+                + '     Nao adianta mexer em permissao de canal: ele nem entrou. Convide-o por:\n'
+                + (convite
+                    ? `     ${convite}\n`
+                    : '     https://discord.com/oauth2/authorize?client_id=<ID DA APLICACAO>&scope=bot&permissions=66560\n')
+                + '     (se voce ja ve "um bot" no servidor, e OUTRA aplicacao - o token do segredo\n'
+                + '      e desta aqui, e e esta que precisa entrar.)'
         }
         const lista = guildas.map(g => `      ${g.name} (${g.id})`).join('\n')
         return `  O bot esta em ${guildas.length} servidor(es):\n${lista}`
