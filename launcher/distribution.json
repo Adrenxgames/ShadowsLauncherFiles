@@ -2831,6 +2831,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:heartstone-1.21.1-1.4.1-neoforge:1.0.0",
+                    "name": "heartstone-1.21.1-1.4.1-neoforge",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 101164,
+                        "MD5": "dffb12c3415c7637963f04d8de29f479",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/heartstone-1.21.1-1.4.1-neoforge.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:hexerei:0.5.0.3",
                     "name": "hexerei-0.5.0.3",
                     "type": "ForgeMod",
@@ -2905,8 +2915,8 @@
                     "name": "indestructible-21.17.0-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 272007,
-                        "MD5": "f3ca73221d83be7e7aa7b71849f36651",
+                        "size": 273972,
+                        "MD5": "7e418a208f3aa378b5c0a40ab69b7346",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/indestructible-21.17.0-1.21.1.jar"
                     }
                 },
@@ -3011,6 +3021,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:justzoom_neoforge_2.1.0_MC_1.21.1:1.0.0",
+                    "name": "justzoom_neoforge_2.1.0_MC_1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 43798,
+                        "MD5": "3c28fc81aa5a9be514905e6c88e02d6d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:killcam-1.0.3-neoforge1.21.1-local.1:1.0.0",
                     "name": "killcam-1.0.3-neoforge1.21.1-local.1",
                     "type": "ForgeMod",
@@ -3018,6 +3038,16 @@
                         "size": 146650,
                         "MD5": "9db0826884bc8c82b44bf3e9555b27c5",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:konkrete_neoforge_1.9.9_MC_1.21:1.0.0",
+                    "name": "konkrete_neoforge_1.9.9_MC_1.21",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 618842,
+                        "MD5": "6e77d08299ea1ec7756a299263bc469b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/konkrete_neoforge_1.9.9_MC_1.21.jar"
                     }
                 },
                 {
@@ -3715,8 +3745,8 @@
                     "name": "sword_soaring-21.17.0-local.12-mc1.21.1-neoforge",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 18553828,
-                        "MD5": "3f1573834df9e226b26d45972d25172c",
+                        "size": 18553936,
+                        "MD5": "6aeeedc113979a0d7e0460e818690a40",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar"
                     }
                 },
@@ -3985,8 +4015,8 @@
                     "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1510333,
-                        "MD5": "a6ea169b4aead589a787c3ec0d544cd0",
+                        "size": 1561554,
+                        "MD5": "7c924326dcf93034aa4b0c91b3b2601b",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
                     }
                 },
@@ -4001,13 +4031,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.6.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.6.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.12.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.12.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 88660,
-                        "MD5": "c52c9c479be41bf274ffb6cf5eba7dab",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.6.0-obf.jar"
+                        "size": 100213,
+                        "MD5": "bc76eb1f68209a2a19dd6006e35dc10e",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.12.0-obf.jar"
                     }
                 },
                 {
@@ -4331,8 +4361,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 989693,
-                        "MD5": "a40ae5c179bf6b5a68156ef226dcd761",
+                        "size": 992105,
+                        "MD5": "ca8bbc7c18e649a8a5c6a75fdbbba757",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4342,8 +4372,8 @@
                     "name": "opcoes.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 5792,
-                        "MD5": "ad573adacfc5aac5acd2034962ae59fd",
+                        "size": 5941,
+                        "MD5": "089a033eb178cb56e19b77176d56c13f",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }

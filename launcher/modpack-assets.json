@@ -1367,6 +1367,12 @@
         "tamanho": 559849,
         "md5": "45e751fa30765fc9db1234375f21383b"
     },
+    "heartstone-1.21.1-1.4.1-neoforge.jar": {
+        "nomeNoRelease": "heartstone-1.21.1-1.4.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/heartstone-1.21.1-1.4.1-neoforge.jar",
+        "tamanho": 101164,
+        "md5": "dffb12c3415c7637963f04d8de29f479"
+    },
     "hexerei-0.5.0.3.jar": {
         "nomeNoRelease": "hexerei-0.5.0.3.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/hexerei-0.5.0.3.jar",
@@ -1412,8 +1418,8 @@
     "indestructible-21.17.0-1.21.1.jar": {
         "nomeNoRelease": "indestructible-21.17.0-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/indestructible-21.17.0-1.21.1.jar",
-        "tamanho": 272007,
-        "md5": "f3ca73221d83be7e7aa7b71849f36651"
+        "tamanho": 273972,
+        "md5": "7e418a208f3aa378b5c0a40ab69b7346"
     },
     "inv_view-4.2.0-neoforge+1.21.1.jar": {
         "nomeNoRelease": "inv_view-4.2.0-neoforge+1.21.1.jar",
@@ -1475,11 +1481,23 @@
         "tamanho": 4303084,
         "md5": "34324289aa44a915f794579951e64e44"
     },
+    "justzoom_neoforge_2.1.0_MC_1.21.1.jar": {
+        "nomeNoRelease": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+        "tamanho": 43798,
+        "md5": "3c28fc81aa5a9be514905e6c88e02d6d"
+    },
     "killcam-1.0.3-neoforge1.21.1-local.1.jar": {
         "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.1.jar",
         "tamanho": 146650,
         "md5": "9db0826884bc8c82b44bf3e9555b27c5"
+    },
+    "konkrete_neoforge_1.9.9_MC_1.21.jar": {
+        "nomeNoRelease": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "tamanho": 618842,
+        "md5": "6e77d08299ea1ec7756a299263bc469b"
     },
     "kotlinforforge-5.12.0-all.jar": {
         "nomeNoRelease": "kotlinforforge-5.12.0-all.jar",
@@ -1898,8 +1916,8 @@
     "sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar": {
         "nomeNoRelease": "sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar",
-        "tamanho": 18553828,
-        "md5": "3f1573834df9e226b26d45972d25172c"
+        "tamanho": 18553936,
+        "md5": "6aeeedc113979a0d7e0460e818690a40"
     },
     "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar": {
         "nomeNoRelease": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
@@ -2060,8 +2078,8 @@
     "xcombat-2.0.0-neoforge-1.21.1-obf.jar": {
         "nomeNoRelease": "xcombat-2.0.0-neoforge-1.21.1-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar",
-        "tamanho": 1510333,
-        "md5": "a6ea169b4aead589a787c3ec0d544cd0"
+        "tamanho": 1561554,
+        "md5": "7c924326dcf93034aa4b0c91b3b2601b"
     },
     "xenthor_protect-2.0-obf.jar": {
         "nomeNoRelease": "xenthor_protect-2.0-obf.jar",
@@ -2069,11 +2087,11 @@
         "tamanho": 63834,
         "md5": "a2e9bf7b5d6dec41e0bbb7f809f57e88"
     },
-    "xenthor_tweaks-1.6.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.6.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.6.0-obf.jar",
-        "tamanho": 88660,
-        "md5": "c52c9c479be41bf274ffb6cf5eba7dab"
+    "xenthor_tweaks-1.12.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.12.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.12.0-obf.jar",
+        "tamanho": 100213,
+        "md5": "bc76eb1f68209a2a19dd6006e35dc10e"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
@@ -2252,13 +2270,13 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 989693,
-        "md5": "a40ae5c179bf6b5a68156ef226dcd761"
+        "tamanho": 992105,
+        "md5": "ca8bbc7c18e649a8a5c6a75fdbbba757"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
-        "tamanho": 5792,
-        "md5": "ad573adacfc5aac5acd2034962ae59fd"
+        "tamanho": 5941,
+        "md5": "089a033eb178cb56e19b77176d56c13f"
     }
 }
