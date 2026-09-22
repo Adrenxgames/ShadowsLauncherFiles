@@ -473,12 +473,6 @@
         "tamanho": 120364,
         "md5": "9510cef4ca24d7f6bc3144dbf6693f7d"
     },
-    "Vanishmod-1.21.1-1.1.21.jar": {
-        "nomeNoRelease": "Vanishmod-1.21.1-1.1.21.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Vanishmod-1.21.1-1.1.21.jar",
-        "tamanho": 75408,
-        "md5": "b1915ad0ad9bd8be221da20fd13d3dda"
-    },
     "WeaponsOfMiracles-2.0.178.jar": {
         "nomeNoRelease": "WeaponsOfMiracles-2.0.178.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/WeaponsOfMiracles-2.0.178.jar",
@@ -815,12 +809,6 @@
         "tamanho": 3028943,
         "md5": "f489330f610335c782c61ce8815b16f1"
     },
-    "cleanswing-1.9.jar": {
-        "nomeNoRelease": "cleanswing-1.9.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cleanswing-1.9.jar",
-        "tamanho": 8449,
-        "md5": "c3aea0436a9b9ba18c59c8bf259805ef"
-    },
     "cloth-config-15.0.140-neoforge.jar": {
         "nomeNoRelease": "cloth-config-15.0.140-neoforge.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cloth-config-15.0.140-neoforge.jar",
@@ -850,12 +838,6 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/common-networking-neoforge-1.0.21-1.21.1.jar",
         "tamanho": 26016,
         "md5": "5ee03cea153e841ca0003311f46b3f07"
-    },
-    "configurable-3.5.2+1.21.1-neoforge.jar": {
-        "nomeNoRelease": "configurable-3.5.2+1.21.1-neoforge.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/configurable-3.5.2%2B1.21.1-neoforge.jar",
-        "tamanho": 159182,
-        "md5": "5f813806c45855ca9104d86ed5ec2535"
     },
     "configured-neoforge-1.21.1-2.6.3.jar": {
         "nomeNoRelease": "configured-neoforge-1.21.1-2.6.3.jar",
@@ -2009,12 +1991,6 @@
         "tamanho": 3352,
         "md5": "602425a33aaf21dfb1a680b81d6a8a1a"
     },
-    "towntalk-1.2.0.jar": {
-        "nomeNoRelease": "towntalk-1.2.0.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/towntalk-1.2.0.jar",
-        "tamanho": 52301863,
-        "md5": "f9b1214017704f1f6eb0b97521eeeb45"
-    },
     "twilight_forest_final_boss-2.1.2+4.8.3345+1.21.1.jar": {
         "nomeNoRelease": "twilight_forest_final_boss-2.1.2+4.8.3345+1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/twilight_forest_final_boss-2.1.2%2B4.8.3345%2B1.21.1.jar",
@@ -2117,11 +2093,11 @@
         "tamanho": 63834,
         "md5": "a2e9bf7b5d6dec41e0bbb7f809f57e88"
     },
-    "xenthor_tweaks-1.13.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.13.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.13.0-obf.jar",
-        "tamanho": 220686,
-        "md5": "fe9bd10e316f9cc91c3b14b768341d26"
+    "xenthor_tweaks-1.14.1-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.14.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.14.1-obf.jar",
+        "tamanho": 277048,
+        "md5": "959fe02df9ffe2c528c81c0fa8189740"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
@@ -2300,13 +2276,13 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1118182,
-        "md5": "2996d8c5e037792e5d904d1438dc0b5c"
+        "tamanho": 1096936,
+        "md5": "85f54e09c52c75d2104d9f395da264e4"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
-        "tamanho": 5958,
-        "md5": "3ceb4fba72b5dfec0b8b5876a4144531"
+        "tamanho": 5970,
+        "md5": "85ee3284a06632451426679c12e181e1"
     }
 }

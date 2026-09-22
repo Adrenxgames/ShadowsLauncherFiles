@@ -1341,16 +1341,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:Vanishmod-1.21.1:1.1.21",
-                    "name": "Vanishmod-1.21.1-1.1.21",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 75408,
-                        "MD5": "b1915ad0ad9bd8be221da20fd13d3dda",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Vanishmod-1.21.1-1.1.21.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:WeaponsOfMiracles:2.0.178",
                     "name": "WeaponsOfMiracles-2.0.178",
                     "type": "ForgeMod",
@@ -1911,16 +1901,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:cleanswing:1.9",
-                    "name": "cleanswing-1.9",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 8449,
-                        "MD5": "c3aea0436a9b9ba18c59c8bf259805ef",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cleanswing-1.9.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:cloth-config-15.0.140-neoforge:1.0.0",
                     "name": "cloth-config-15.0.140-neoforge",
                     "type": "ForgeMod",
@@ -1968,16 +1948,6 @@
                         "size": 26016,
                         "MD5": "5ee03cea153e841ca0003311f46b3f07",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/common-networking-neoforge-1.0.21-1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:configurable-3.5.2+1.21.1-neoforge:1.0.0",
-                    "name": "configurable-3.5.2+1.21.1-neoforge",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 159182,
-                        "MD5": "5f813806c45855ca9104d86ed5ec2535",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/configurable-3.5.2%2B1.21.1-neoforge.jar"
                     }
                 },
                 {
@@ -3901,16 +3871,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:towntalk:1.2.0",
-                    "name": "towntalk-1.2.0",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 52301863,
-                        "MD5": "f9b1214017704f1f6eb0b97521eeeb45",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/towntalk-1.2.0.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:twilight_forest_final_boss:2.1.2+4.8.3345+1.21.1",
                     "name": "twilight_forest_final_boss-2.1.2+4.8.3345+1.21.1",
                     "type": "ForgeMod",
@@ -4081,13 +4041,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.13.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.13.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.14.1-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.14.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 220686,
-                        "MD5": "fe9bd10e316f9cc91c3b14b768341d26",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.13.0-obf.jar"
+                        "size": 277048,
+                        "MD5": "959fe02df9ffe2c528c81c0fa8189740",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.14.1-obf.jar"
                     }
                 },
                 {
@@ -4411,8 +4371,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1118182,
-                        "MD5": "2996d8c5e037792e5d904d1438dc0b5c",
+                        "size": 1096936,
+                        "MD5": "85f54e09c52c75d2104d9f395da264e4",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4422,8 +4382,8 @@
                     "name": "opcoes.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 5958,
-                        "MD5": "3ceb4fba72b5dfec0b8b5876a4144531",
+                        "size": 5970,
+                        "MD5": "85ee3284a06632451426679c12e181e1",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }
