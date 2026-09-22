@@ -2371,6 +2371,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:elevatorid-neoforge-1.21.1:1.11.4",
+                    "name": "elevatorid-neoforge-1.21.1-1.11.4",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 191190,
+                        "MD5": "19bc20ef8725cd617646e6bc8d8fe13c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/elevatorid-neoforge-1.21.1-1.11.4.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:emi:1.1.24+1.21.1+neoforge",
                     "name": "emi-1.1.24+1.21.1+neoforge",
                     "type": "ForgeMod",
