@@ -683,6 +683,12 @@
         "tamanho": 19297,
         "md5": "6df1a4a988792fde0be540be606d8a9d"
     },
+    "better-advanced-tooltips-2101.1.0-build.5.jar": {
+        "nomeNoRelease": "better-advanced-tooltips-2101.1.0-build.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better-advanced-tooltips-2101.1.0-build.5.jar",
+        "tamanho": 37653,
+        "md5": "edf97f2f11f57fffb4ed6d71c7b4508a"
+    },
     "better-compatability-checker-neoforge-21.1.8.jar": {
         "nomeNoRelease": "better-compatability-checker-neoforge-21.1.8.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better-compatability-checker-neoforge-21.1.8.jar",
@@ -1253,6 +1259,12 @@
         "tamanho": 19961510,
         "md5": "1e58f6c81bf09678509fd0c0029c30aa"
     },
+    "firesenderexpansion-2.4.1.jar": {
+        "nomeNoRelease": "firesenderexpansion-2.4.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/firesenderexpansion-2.4.1.jar",
+        "tamanho": 2442013,
+        "md5": "ae22d804bdef60a9c194a016d6f4600f"
+    },
     "fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar": {
         "nomeNoRelease": "fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar",
@@ -1504,6 +1516,12 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kotlinforforge-5.12.0-all.jar",
         "tamanho": 7279276,
         "md5": "93db4ba2044a6667d7d1e3f592d63dbd"
+    },
+    "kubejs-neoforge-2101.7.2-build.377.jar": {
+        "nomeNoRelease": "kubejs-neoforge-2101.7.2-build.377.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kubejs-neoforge-2101.7.2-build.377.jar",
+        "tamanho": 2294111,
+        "md5": "95e68543f4be46edc6d2cac8a9a4cfd3"
     },
     "legendary_monsters-2.2.3 MC 1.21.1.jar": {
         "nomeNoRelease": "legendary_monsters-2.2.3.MC.1.21.1.jar",
@@ -1780,6 +1798,12 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefullib-neoforge-1.21-3.0.12.jar",
         "tamanho": 484332,
         "md5": "32da88903167d24bb20febeeb2c79225"
+    },
+    "rhino-2101.2.7-build.85.jar": {
+        "nomeNoRelease": "rhino-2101.2.7-build.85.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/rhino-2101.2.7-build.85.jar",
+        "tamanho": 882075,
+        "md5": "f5df23fab1aef88b69f67776e0f79904"
     },
     "rice_delight-2.0.0.jar": {
         "nomeNoRelease": "rice_delight-2.0.0.jar",
@@ -2087,11 +2111,11 @@
         "tamanho": 63834,
         "md5": "a2e9bf7b5d6dec41e0bbb7f809f57e88"
     },
-    "xenthor_tweaks-1.12.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.12.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.12.0-obf.jar",
-        "tamanho": 100213,
-        "md5": "bc76eb1f68209a2a19dd6006e35dc10e"
+    "xenthor_tweaks-1.13.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.13.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.13.0-obf.jar",
+        "tamanho": 220686,
+        "md5": "fe9bd10e316f9cc91c3b14b768341d26"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
@@ -2270,13 +2294,13 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 992105,
-        "md5": "ca8bbc7c18e649a8a5c6a75fdbbba757"
+        "tamanho": 1118785,
+        "md5": "99c77f3bf86ea7a7b388dbada20bdc49"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
-        "tamanho": 5941,
-        "md5": "089a033eb178cb56e19b77176d56c13f"
+        "tamanho": 5958,
+        "md5": "3ceb4fba72b5dfec0b8b5876a4144531"
     }
 }

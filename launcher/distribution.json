@@ -1691,6 +1691,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:better-advanced-tooltips-2101.1.0-build.5:1.0.0",
+                    "name": "better-advanced-tooltips-2101.1.0-build.5",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 37653,
+                        "MD5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better-advanced-tooltips-2101.1.0-build.5.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:better-compatability-checker-neoforge:21.1.8",
                     "name": "better-compatability-checker-neoforge-21.1.8",
                     "type": "ForgeMod",
@@ -2641,6 +2651,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:firesenderexpansion:2.4.1",
+                    "name": "firesenderexpansion-2.4.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2442013,
+                        "MD5": "ae22d804bdef60a9c194a016d6f4600f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/firesenderexpansion-2.4.1.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:fnaf_plushie_remastered-1.0.0-neoforge:1.21.1",
                     "name": "fnaf_plushie_remastered-1.0.0-neoforge-1.21.1",
                     "type": "ForgeMod",
@@ -3058,6 +3078,16 @@
                         "size": 7279276,
                         "MD5": "93db4ba2044a6667d7d1e3f592d63dbd",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kotlinforforge-5.12.0-all.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:kubejs-neoforge-2101.7.2-build.377:1.0.0",
+                    "name": "kubejs-neoforge-2101.7.2-build.377",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 2294111,
+                        "MD5": "95e68543f4be46edc6d2cac8a9a4cfd3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kubejs-neoforge-2101.7.2-build.377.jar"
                     }
                 },
                 {
@@ -3518,6 +3548,16 @@
                         "size": 484332,
                         "MD5": "32da88903167d24bb20febeeb2c79225",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefullib-neoforge-1.21-3.0.12.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:rhino-2101.2.7-build.85:1.0.0",
+                    "name": "rhino-2101.2.7-build.85",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 882075,
+                        "MD5": "f5df23fab1aef88b69f67776e0f79904",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/rhino-2101.2.7-build.85.jar"
                     }
                 },
                 {
@@ -4031,13 +4071,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.12.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.12.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.13.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.13.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 100213,
-                        "MD5": "bc76eb1f68209a2a19dd6006e35dc10e",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.12.0-obf.jar"
+                        "size": 220686,
+                        "MD5": "fe9bd10e316f9cc91c3b14b768341d26",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.13.0-obf.jar"
                     }
                 },
                 {
@@ -4361,8 +4401,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 992105,
-                        "MD5": "ca8bbc7c18e649a8a5c6a75fdbbba757",
+                        "size": 1118785,
+                        "MD5": "99c77f3bf86ea7a7b388dbada20bdc49",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4372,8 +4412,8 @@
                     "name": "opcoes.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 5941,
-                        "MD5": "089a033eb178cb56e19b77176d56c13f",
+                        "size": 5958,
+                        "MD5": "3ceb4fba72b5dfec0b8b5876a4144531",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }
