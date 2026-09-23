@@ -1031,6 +1031,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:MobCapturingTool-neoforge-1.21:4.1.0",
+                    "name": "MobCapturingTool-neoforge-1.21-4.1.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 120706,
+                        "MD5": "98626cdd6a20986f1a69a8350c15400f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MobCapturingTool-neoforge-1.21-4.1.0.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:MouseTweaks-neoforge-mc1.21:2.26.1",
                     "name": "MouseTweaks-neoforge-mc1.21-2.26.1",
                     "type": "ForgeMod",
@@ -4041,13 +4051,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.14.1-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.14.1-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.17.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.17.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 277048,
-                        "MD5": "959fe02df9ffe2c528c81c0fa8189740",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.14.1-obf.jar"
+                        "size": 288252,
+                        "MD5": "20d564579cd58e737d59d7c945ed5ed5",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.17.0-obf.jar"
                     }
                 },
                 {
@@ -4095,8 +4105,8 @@
                     "name": "xfight-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 89335,
-                        "MD5": "e280cab0e2d5d6671c9502975020ca2e",
+                        "size": 100024,
+                        "MD5": "62436cf7a192fdf067b19ee2c93ed46e",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
                     }
                 },
@@ -4371,8 +4381,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1096936,
-                        "MD5": "85f54e09c52c75d2104d9f395da264e4",
+                        "size": 1097876,
+                        "MD5": "662f2332c5912f8c960f0a5398745c4d",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }

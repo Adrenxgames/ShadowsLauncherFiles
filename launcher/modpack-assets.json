@@ -287,6 +287,12 @@
         "tamanho": 124523,
         "md5": "858e6a9ba2a54b84a44ac771894dc0e7"
     },
+    "MobCapturingTool-neoforge-1.21-4.1.0.jar": {
+        "nomeNoRelease": "MobCapturingTool-neoforge-1.21-4.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MobCapturingTool-neoforge-1.21-4.1.0.jar",
+        "tamanho": 120706,
+        "md5": "98626cdd6a20986f1a69a8350c15400f"
+    },
     "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
         "nomeNoRelease": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
@@ -2093,11 +2099,11 @@
         "tamanho": 63834,
         "md5": "a2e9bf7b5d6dec41e0bbb7f809f57e88"
     },
-    "xenthor_tweaks-1.14.1-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.14.1-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.14.1-obf.jar",
-        "tamanho": 277048,
-        "md5": "959fe02df9ffe2c528c81c0fa8189740"
+    "xenthor_tweaks-1.17.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.17.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.17.0-obf.jar",
+        "tamanho": 288252,
+        "md5": "20d564579cd58e737d59d7c945ed5ed5"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
@@ -2126,8 +2132,8 @@
     "xfight-1.0.0-obf.jar": {
         "nomeNoRelease": "xfight-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
-        "tamanho": 89335,
-        "md5": "e280cab0e2d5d6671c9502975020ca2e"
+        "tamanho": 100024,
+        "md5": "62436cf7a192fdf067b19ee2c93ed46e"
     },
     "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
         "nomeNoRelease": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2276,8 +2282,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1096936,
-        "md5": "85f54e09c52c75d2104d9f395da264e4"
+        "tamanho": 1097876,
+        "md5": "662f2332c5912f8c960f0a5398745c4d"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
