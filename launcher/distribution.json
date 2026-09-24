@@ -1325,8 +1325,8 @@
                     "name": "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 5529190,
-                        "MD5": "3301cda4e282fc3839850d2b52b50893",
+                        "size": 5529202,
+                        "MD5": "4933e1b65fdbf5c2d332c87f6feb7440",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar"
                     }
                 },
@@ -2485,8 +2485,8 @@
                     "name": "epicarsenal-1.0.2-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 10814930,
-                        "MD5": "7039c8d9ab7c63f2e42b34dd5064243c",
+                        "size": 10815276,
+                        "MD5": "d0caa85b9634d18a93841acc5e746aa7",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicarsenal-1.0.2-neoforge-1.21.1.jar"
                     }
                 },
@@ -3041,13 +3041,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:killcam-1.0.3-neoforge1.21.1-local.1:1.0.0",
-                    "name": "killcam-1.0.3-neoforge1.21.1-local.1",
+                    "id": "shadows.mods:killcam-1.0.3-neoforge1.21.1-local.2:1.0.0",
+                    "name": "killcam-1.0.3-neoforge1.21.1-local.2",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 146650,
-                        "MD5": "9db0826884bc8c82b44bf3e9555b27c5",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.1.jar"
+                        "size": 146614,
+                        "MD5": "0ea1e38a1939e44b605b3e027e3d4b19",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.2.jar"
                     }
                 },
                 {
@@ -4381,8 +4381,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1097876,
-                        "MD5": "662f2332c5912f8c960f0a5398745c4d",
+                        "size": 1097874,
+                        "MD5": "5e033101e515d4a458726fbbe039233c",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }

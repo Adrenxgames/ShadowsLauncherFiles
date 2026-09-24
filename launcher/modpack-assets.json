@@ -464,8 +464,8 @@
     "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar": {
         "nomeNoRelease": "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
-        "tamanho": 5529190,
-        "md5": "3301cda4e282fc3839850d2b52b50893"
+        "tamanho": 5529202,
+        "md5": "4933e1b65fdbf5c2d332c87f6feb7440"
     },
     "Super_Warden-21.17-neoforge-1.21.1.jar": {
         "nomeNoRelease": "Super_Warden-21.17-neoforge-1.21.1.jar",
@@ -1160,8 +1160,8 @@
     "epicarsenal-1.0.2-neoforge-1.21.1.jar": {
         "nomeNoRelease": "epicarsenal-1.0.2-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicarsenal-1.0.2-neoforge-1.21.1.jar",
-        "tamanho": 10814930,
-        "md5": "7039c8d9ab7c63f2e42b34dd5064243c"
+        "tamanho": 10815276,
+        "md5": "d0caa85b9634d18a93841acc5e746aa7"
     },
     "epicfight-extra-21.17-neoforge-1.21.1.jar": {
         "nomeNoRelease": "epicfight-extra-21.17-neoforge-1.21.1.jar",
@@ -1493,11 +1493,11 @@
         "tamanho": 43798,
         "md5": "3c28fc81aa5a9be514905e6c88e02d6d"
     },
-    "killcam-1.0.3-neoforge1.21.1-local.1.jar": {
-        "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.1.jar",
-        "tamanho": 146650,
-        "md5": "9db0826884bc8c82b44bf3e9555b27c5"
+    "killcam-1.0.3-neoforge1.21.1-local.2.jar": {
+        "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.2.jar",
+        "tamanho": 146614,
+        "md5": "0ea1e38a1939e44b605b3e027e3d4b19"
     },
     "konkrete_neoforge_1.9.9_MC_1.21.jar": {
         "nomeNoRelease": "konkrete_neoforge_1.9.9_MC_1.21.jar",
@@ -2282,8 +2282,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1097876,
-        "md5": "662f2332c5912f8c960f0a5398745c4d"
+        "tamanho": 1097874,
+        "md5": "5e033101e515d4a458726fbbe039233c"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
