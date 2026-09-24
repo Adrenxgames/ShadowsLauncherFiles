@@ -4381,8 +4381,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1097874,
-                        "MD5": "5e033101e515d4a458726fbbe039233c",
+                        "size": 1097962,
+                        "MD5": "d7a26a47a0a2212e1d950b7f56bdb17b",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
