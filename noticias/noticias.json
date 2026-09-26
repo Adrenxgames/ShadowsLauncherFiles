@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "title": "🛠️ [Atualização 2 — Launcher finalmente pronto]",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-09-26T11:56:21.822Z",
+      "content": "# 🛠️ [Atualização 2 — Launcher finalmente pronto]\n\nOlá, senhoras e senhores!\n\nO **Launcher está finalmente pronto!** Provavelmente, esta será a última atualização do Launcher por um tempo.\n\n## Correções\n\n* Atualizamos o modpack.\n* O modpack agora já vem com a pasta de **Emotes** pronta e totalmente traduzida para PT-BR.\n* O Launcher já vem configurado **dentro do jogo**.\n* Lembrem-se sempre de verificar os **avisos**.\n\n## Mudanças de regra\n\n* Antes de iniciar o jogo, aconselhamos acessar as configurações e aumentar a quantidade de RAM.\n* Deixe o **mínimo em 4 GB** e o **máximo em 6 GB**.\n* **Nunca deixe acima de 10 GB**, pois não há necessidade.\n\n## Como atualizar\n\nBasta abrir o Launcher e realizar a atualização normalmente. Depois, recomendamos verificar as configurações de RAM antes de iniciar o jogo.\n\nEnfim, **façam bom proveito!** ❤️\n\n-# **Shadows — Equipe de Desenvolvimento**",
+      "images": [
+        "https://raw.githubusercontent.com/Adrenxgames/ShadowsLauncherFiles/main/noticias/imagens/94cc88a4377db614.png"
+      ],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1553374670789812278"
+    },
+    {
       "title": "🛠️ [Título da atualização 2]",
       "category": "Novidades",
       "author": "Adrenx Games",
