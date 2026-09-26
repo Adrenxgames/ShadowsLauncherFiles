@@ -2290,5 +2290,11 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
         "tamanho": 5970,
         "md5": "85ee3284a06632451426679c12e181e1"
+    },
+    "emotes.zip": {
+        "nomeNoRelease": "emotes.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emotes.zip",
+        "tamanho": 91301992,
+        "md5": "584c927a4f068358ac48f286b77489ca"
     }
 }

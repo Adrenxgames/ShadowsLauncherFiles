@@ -4397,6 +4397,17 @@
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }
+                },
+                {
+                    "id": "shadows.emotes:emotes",
+                    "name": "emotes.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 91301992,
+                        "MD5": "584c927a4f068358ac48f286b77489ca",
+                        "path": ".pacotes/emotes.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emotes.zip"
+                    }
                 }
             ]
         }
