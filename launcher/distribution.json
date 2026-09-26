@@ -4051,13 +4051,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.19.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.19.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.20.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.20.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 291193,
-                        "MD5": "09fb86537d8e82fc22af4c9a08344e75",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.19.0-obf.jar"
+                        "size": 292865,
+                        "MD5": "62110221b6f623e972f4070892f898b3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.20.0-obf.jar"
                     }
                 },
                 {
@@ -4065,8 +4065,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 51519157,
-                        "MD5": "25ef2e719c3e5fa67882ee78743773b4",
+                        "size": 72096276,
+                        "MD5": "66df6eece5bf2aee021dee4c8ec7e723",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4081,13 +4081,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthormod-1.21.1-3.3-obf:1.0.0",
-                    "name": "xenthormod-1.21.1-3.3-obf",
+                    "id": "shadows.mods:xenthormod-1.21.1-3.4-obf:1.0.0",
+                    "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 15023159,
-                        "MD5": "292d48bb2ee8b0f10462155164be45e0",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.3-obf.jar"
+                        "size": 16244618,
+                        "MD5": "b8326ad29cfe72c1aa580553ce0a8272",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
                 {
@@ -4108,6 +4108,16 @@
                         "size": 114894,
                         "MD5": "80d09554f9b24a61a9497d25f597fc2d",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xtranslate-1.21.1:1.0.0",
+                    "name": "xtranslate-1.21.1-1.0.0",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 845946,
+                        "MD5": "3393d6da70607eac831d6d03180e2807",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xtranslate-1.21.1-1.0.0.jar"
                     }
                 },
                 {
