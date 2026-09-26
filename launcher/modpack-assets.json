@@ -1826,8 +1826,8 @@
     "saintsdragons-0.8.2+neoforge-1.21.1.jar": {
         "nomeNoRelease": "saintsdragons-0.8.2+neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/saintsdragons-0.8.2%2Bneoforge-1.21.1.jar",
-        "tamanho": 21968454,
-        "md5": "f66619364fa2e9241e80ac0e24c7ed5f"
+        "tamanho": 21967132,
+        "md5": "186ec5e99e3db4f32e1e8853ca1d67de"
     },
     "simplehats-neoforge-1.21.1-0.4.0-xenthor.jar": {
         "nomeNoRelease": "simplehats-neoforge-1.21.1-0.4.0-xenthor.jar",
@@ -2099,11 +2099,11 @@
         "tamanho": 63834,
         "md5": "a2e9bf7b5d6dec41e0bbb7f809f57e88"
     },
-    "xenthor_tweaks-1.17.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.17.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.17.0-obf.jar",
-        "tamanho": 288252,
-        "md5": "20d564579cd58e737d59d7c945ed5ed5"
+    "xenthor_tweaks-1.19.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.19.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.19.0-obf.jar",
+        "tamanho": 291193,
+        "md5": "09fb86537d8e82fc22af4c9a08344e75"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
@@ -2132,8 +2132,8 @@
     "xfight-1.0.0-obf.jar": {
         "nomeNoRelease": "xfight-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
-        "tamanho": 107531,
-        "md5": "9ed4f0a30537d37e60e0c8ca2ea0fb6b"
+        "tamanho": 114894,
+        "md5": "80d09554f9b24a61a9497d25f597fc2d"
     },
     "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
         "nomeNoRelease": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2282,8 +2282,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1097962,
-        "md5": "d7a26a47a0a2212e1d950b7f56bdb17b"
+        "tamanho": 1098641,
+        "md5": "1ffc2d19d7869b3c713e925ecdbad2bb"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
