@@ -2451,13 +2451,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor:1.0.0",
-                    "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor",
+                    "id": "shadows.mods:epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2:1.0.0",
+                    "name": "epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 8629223,
-                        "MD5": "18b744d7d10dcf961c4ca52784891378",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor.jar"
+                        "size": 8629985,
+                        "MD5": "7421d7e639bae8d2734df59b32c90ef3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2.jar"
                     }
                 },
                 {
