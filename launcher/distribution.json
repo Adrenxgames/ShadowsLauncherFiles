@@ -765,8 +765,8 @@
                     "name": "FancyTrail-1.2.3-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 5680673,
-                        "MD5": "3ea83c027a0221278b29a0759db12672",
+                        "size": 5680916,
+                        "MD5": "53260007c42ccc7eea4a0fdfa765b808",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FancyTrail-1.2.3-neoforge-1.21.1.jar"
                     }
                 },
@@ -841,16 +841,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:GlitchCore-neoforge-1.21.1:2.1.0.2",
-                    "name": "GlitchCore-neoforge-1.21.1-2.1.0.2",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 90717,
-                        "MD5": "3bdf763d2461aa2731ed3515e0761d2f",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/GlitchCore-neoforge-1.21.1-2.1.0.2.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:ImmediatelyFast-NeoForge:1.6.13+1.21.1",
                     "name": "ImmediatelyFast-NeoForge-1.6.13+1.21.1",
                     "type": "ForgeMod",
@@ -858,26 +848,6 @@
                         "size": 362740,
                         "MD5": "c00a4e7f37026af024016a238aed5d10",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:ImmersiveUI-NEOFORGE:0.3.3+1.21.1",
-                    "name": "ImmersiveUI-NEOFORGE-0.3.3+1.21.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 217081,
-                        "MD5": "0ad2897335db36d155d6b2d4dfaf02e9",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ImmersiveUI-NEOFORGE-0.3.3%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:InvMove-0.9.3+1.21.1-NeoForge:1.0.0",
-                    "name": "InvMove-0.9.3+1.21.1-NeoForge",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 87005,
-                        "MD5": "23c74a4184b17664a65a044181a00296",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/InvMove-0.9.3%2B1.21.1-NeoForge.jar"
                     }
                 },
                 {
@@ -1288,16 +1258,6 @@
                         "size": 77326,
                         "MD5": "0a0a8665bb4d77e3f8139750cb98d9e4",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Searchables-neoforge-1.21.1-1.0.2.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:SereneSeasons-neoforge-1.21.1:10.1.0.9",
-                    "name": "SereneSeasons-neoforge-1.21.1-10.1.0.9",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 163020,
-                        "MD5": "5d16d03c33c8be3539b27a86f11ed286",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SereneSeasons-neoforge-1.21.1-10.1.0.9.jar"
                     }
                 },
                 {
@@ -1831,13 +1791,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport:1.0.0",
-                    "name": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport",
+                    "id": "shadows.mods:carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix:1.0.0",
+                    "name": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 393549,
-                        "MD5": "b4c16614082c6b7625950e73f86a3377",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport.jar"
+                        "size": 394079,
+                        "MD5": "39cf03ea4167e3b7119548c03103929a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix.jar"
                     }
                 },
                 {
@@ -1948,16 +1908,6 @@
                         "size": 422658,
                         "MD5": "ba7a318dcf4190a27e017eacac47427e",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/comforts-neoforge-9.0.5%2B1.21.1.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:common-networking-neoforge-1.0.21:1.21.1",
-                    "name": "common-networking-neoforge-1.0.21-1.21.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 26016,
-                        "MD5": "5ee03cea153e841ca0003311f46b3f07",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/common-networking-neoforge-1.0.21-1.21.1.jar"
                     }
                 },
                 {
@@ -2275,8 +2225,8 @@
                     "name": "dungeons_and_combat-1.2.4-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 12670089,
-                        "MD5": "4e7ae02dbea66ad8a0c4196c94b834ec",
+                        "size": 12739856,
+                        "MD5": "9042b2207c769f1bb9b2cec406d704d5",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dungeons_and_combat-1.2.4-1.21.1.jar"
                     }
                 },
@@ -2505,8 +2455,8 @@
                     "name": "epicfight-nightfall-3.4.0-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 51611707,
-                        "MD5": "e673ac4a08ac54961d32ec428e095815",
+                        "size": 51612030,
+                        "MD5": "03bdf0045d0cb7156298e1eaa59959a4",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar"
                     }
                 },
@@ -3601,6 +3551,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:scholar-neoforge-1.21.1:1.2.6",
+                    "name": "scholar-neoforge-1.21.1-1.2.6",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 929316,
+                        "MD5": "3dbd3c310cd24eddb4e4be8f694bddbd",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/scholar-neoforge-1.21.1-1.2.6.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:simplehats-neoforge-1.21.1-0.4.0-xenthor:1.0.0",
                     "name": "simplehats-neoforge-1.21.1-0.4.0-xenthor",
                     "type": "ForgeMod",
@@ -4035,8 +3995,8 @@
                     "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1561554,
-                        "MD5": "7c924326dcf93034aa4b0c91b3b2601b",
+                        "size": 1836106,
+                        "MD5": "26c04768c6e7750b8bf842ea097e2eeb",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
                     }
                 },
@@ -4045,19 +4005,19 @@
                     "name": "xenthor_protect-2.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 63834,
-                        "MD5": "a2e9bf7b5d6dec41e0bbb7f809f57e88",
+                        "size": 63886,
+                        "MD5": "3d808cca628ef120df37814fd66ac674",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_protect-2.0-obf.jar"
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.20.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.20.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.28.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.28.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 292865,
-                        "MD5": "62110221b6f623e972f4070892f898b3",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.20.0-obf.jar"
+                        "size": 319276,
+                        "MD5": "8ef5886dac9e34e538e88c058f947b94",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.28.0-obf.jar"
                     }
                 },
                 {
@@ -4065,8 +4025,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 72096276,
-                        "MD5": "66df6eece5bf2aee021dee4c8ec7e723",
+                        "size": 23263515,
+                        "MD5": "47608930ee285f9c04999c6f681c3856",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4085,8 +4045,8 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 16244618,
-                        "MD5": "b8326ad29cfe72c1aa580553ce0a8272",
+                        "size": 16260395,
+                        "MD5": "b2fca6743014c0979fd3fb852d5b45d7",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
@@ -4111,13 +4071,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xtranslate-1.21.1:1.0.0",
-                    "name": "xtranslate-1.21.1-1.0.0",
+                    "id": "shadows.mods:xtranslate-1.21.1:1.0.1",
+                    "name": "xtranslate-1.21.1-1.0.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 845946,
-                        "MD5": "3393d6da70607eac831d6d03180e2807",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xtranslate-1.21.1-1.0.0.jar"
+                        "size": 847002,
+                        "MD5": "f715bae40fca7ad4d2be055be9088d02",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xtranslate-1.21.1-1.0.1.jar"
                     }
                 },
                 {
@@ -4347,32 +4307,10 @@
                     "name": "Simply Swords 3D Retailor.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 531991,
-                        "MD5": "95dd2b770e21e0de916ba70625631bab",
+                        "size": 506438,
+                        "MD5": "9714d1bc0b56fe0d27a961c8a693872c",
                         "path": "resourcepacks/Simply Swords 3D Retailor.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.3D.Retailor.zip"
-                    }
-                },
-                {
-                    "id": "shadows.texturas:Simply Swords 3D v2.1",
-                    "name": "Simply Swords 3D v2.1.zip",
-                    "type": "File",
-                    "artifact": {
-                        "size": 2426411,
-                        "MD5": "5cc41a99cc558d373318aff5e9275af5",
-                        "path": "resourcepacks/Simply Swords 3D v2.1.zip",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.3D.v2.1.zip"
-                    }
-                },
-                {
-                    "id": "shadows.texturas:Simply Swords Classic",
-                    "name": "Simply Swords Classic.zip",
-                    "type": "File",
-                    "artifact": {
-                        "size": 20131937,
-                        "MD5": "8abb34bebe6c80135a02d27cde711862",
-                        "path": "resourcepacks/Simply Swords Classic.zip",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.Classic.zip"
                     }
                 },
                 {
@@ -4380,8 +4318,8 @@
                     "name": "Simply Swords Reforged v2.1.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1750917,
-                        "MD5": "bcc3c7079955cbf6ee77a6f00c5d499f",
+                        "size": 1651439,
+                        "MD5": "e4811ef14e670a93147ef3b5f7ba2f05",
                         "path": "resourcepacks/Simply Swords Reforged v2.1.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.Reforged.v2.1.zip"
                     }
@@ -4391,8 +4329,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1098272,
-                        "MD5": "dda0a37aa5b351dd3521e7864f9e0b8f",
+                        "size": 1107319,
+                        "MD5": "2deee90a8aa4e54bcae7a41806f5317c",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4402,8 +4340,8 @@
                     "name": "opcoes.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 5970,
-                        "MD5": "85ee3284a06632451426679c12e181e1",
+                        "size": 6023,
+                        "MD5": "fb0624500a77530298f9b16a43d913eb",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }
