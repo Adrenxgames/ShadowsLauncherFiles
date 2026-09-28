@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "🛠️ Atualização 2 — Correções e melhorias",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-09-28T12:43:49.328Z",
+      "content": "# 🛠️ Atualização 2 — Correções e melhorias\n\nAtualização geral do modpack e do Launcher, com diversas correções, melhorias de desempenho e ajustes na experiência de jogo.\n\n## Correções\n\n* Diversos **crashes do modpack** foram corrigidos.\n* **Launcher atualizado**, com correções de erros.\n* Corrigido o **combate com arco**.\n* **Tridente corrigido**.\n* Corrigido o **spawn exagerado de mobs**.\n* O problema de **reload de chunks** aparentemente foi corrigido.\n* Loot melhorado e dificuldade reduzida.\n* Novas texturas adicionadas para **Simply Swords**.\n* Corrigidos problemas relacionados ao **launcher e ao spawn**.\n\n## Mudanças de regra\n\n* Agora é possível jogar no **Survival com o mod de combate ativado**.\n* Usem **Magnum Torch** para proteger suas bases contra mobs.\n* O **sistema de profissões** será liberado em breve.\n* Uma **recompensa temporária** será adicionada como forma de compensação pelos problemas enfrentados anteriormente.\n\n## Como atualizar\n\nAtualizem o **modpack e o Launcher** normalmente.\nApós atualizar, verifiquem as configurações e confirmem se tudo está atualizado antes de entrar no servidor.\n\n-# **Shadows — Equipe de Desenvolvimento**",
+      "images": [],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1554111389826555937"
+    },
+    {
       "title": "🛠️ [Atualização 2 — Launcher finalmente pronto]",
       "category": "Novidades",
       "author": "Adrenx Games",
