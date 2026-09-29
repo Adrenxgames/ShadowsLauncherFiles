@@ -4011,13 +4011,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.28.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.28.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.29.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.29.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 319276,
-                        "MD5": "8ef5886dac9e34e538e88c058f947b94",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.28.0-obf.jar"
+                        "size": 324847,
+                        "MD5": "f4ae9b92bc9c6768b6954cb3d0009b8d",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.29.0-obf.jar"
                     }
                 },
                 {
