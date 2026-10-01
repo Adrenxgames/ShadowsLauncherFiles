@@ -4329,8 +4329,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1107319,
-                        "MD5": "2deee90a8aa4e54bcae7a41806f5317c",
+                        "size": 1107210,
+                        "MD5": "12ef5efdd81fc95daaccc1814f2056db",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4344,6 +4344,17 @@
                         "MD5": "fb0624500a77530298f9b16a43d913eb",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
+                    }
+                },
+                {
+                    "id": "shadows.cpm:cpm",
+                    "name": "cpm.zip",
+                    "type": "File",
+                    "artifact": {
+                        "size": 350,
+                        "MD5": "a90ce55fadbfca75a4c7e3415789b3da",
+                        "path": ".pacotes/cpm.zip",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cpm.zip"
                     }
                 },
                 {

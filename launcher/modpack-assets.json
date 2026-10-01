@@ -2252,14 +2252,20 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1107319,
-        "md5": "2deee90a8aa4e54bcae7a41806f5317c"
+        "tamanho": 1107210,
+        "md5": "12ef5efdd81fc95daaccc1814f2056db"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
         "tamanho": 6023,
         "md5": "fb0624500a77530298f9b16a43d913eb"
+    },
+    "cpm.zip": {
+        "nomeNoRelease": "cpm.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cpm.zip",
+        "tamanho": 350,
+        "md5": "a90ce55fadbfca75a4c7e3415789b3da"
     },
     "emotes.zip": {
         "nomeNoRelease": "emotes.zip",
