@@ -2075,17 +2075,17 @@
         "tamanho": 63886,
         "md5": "3d808cca628ef120df37814fd66ac674"
     },
-    "xenthor_tweaks-1.31.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.31.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.31.0-obf.jar",
-        "tamanho": 327656,
-        "md5": "add22265e261cdfd86ae963de7dd1a10"
+    "xenthor_tweaks-1.36.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.36.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.36.0-obf.jar",
+        "tamanho": 558598,
+        "md5": "48f39e8678af9eedd745b3d4221df217"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 26691203,
-        "md5": "e9877d281cd1436f7ab343b88c5a8e41"
+        "tamanho": 26743354,
+        "md5": "7a94d1dbb09af23656691b2e5d77c9b9"
     },
     "xenthorcontrol-3.3.0-1.21.1-obf.jar": {
         "nomeNoRelease": "xenthorcontrol-3.3.0-1.21.1-obf.jar",
@@ -2096,8 +2096,8 @@
     "xenthormod-1.21.1-3.4-obf.jar": {
         "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar",
-        "tamanho": 16309622,
-        "md5": "0952d2f845a62c2aa7317fc5681edf31"
+        "tamanho": 16360211,
+        "md5": "9826f3092a9f9b7fa0541a884ed9e103"
     },
     "xercapaint-1.21.1-1.3.0.jar": {
         "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
@@ -2108,8 +2108,8 @@
     "xfight-1.0.0-obf.jar": {
         "nomeNoRelease": "xfight-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
-        "tamanho": 116920,
-        "md5": "cafb319d2f2544ad96d2e079b011427c"
+        "tamanho": 171182,
+        "md5": "dd4809f210d15ece3578ee82b9788d74"
     },
     "xtranslate-1.21.1-1.0.1.jar": {
         "nomeNoRelease": "xtranslate-1.21.1-1.0.1.jar",
@@ -2252,8 +2252,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1115666,
-        "md5": "0390d782844130824afdb23a398502ba"
+        "tamanho": 1115693,
+        "md5": "9a1f43fc80408677debda7d467186012"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
