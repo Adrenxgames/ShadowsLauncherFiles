@@ -1285,8 +1285,8 @@
                     "name": "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 5529202,
-                        "MD5": "4933e1b65fdbf5c2d332c87f6feb7440",
+                        "size": 5529455,
+                        "MD5": "c65f015f05e11a3c71f49e89217fe0fb",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar"
                     }
                 },
@@ -1745,8 +1745,8 @@
                     "name": "braziliandelight-1.21.1-neoforge-3.0.0",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1226633,
-                        "MD5": "c027abb1394388956985987ecd16967c",
+                        "size": 1225491,
+                        "MD5": "6f0f43a8cfe9ceb37dc67c49b229a9f8",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/braziliandelight-1.21.1-neoforge-3.0.0.jar"
                     }
                 },
@@ -2285,8 +2285,8 @@
                     "name": "efnbossesvjakr-1.8.2-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 49206704,
-                        "MD5": "89c58dfae3f38344aa9c3c70a34aba9c",
+                        "size": 49216554,
+                        "MD5": "705c28114440cd383e185fed383218bd",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.2-neoforge-1.21.1.jar"
                     }
                 },
@@ -2355,8 +2355,8 @@
                     "name": "enemyexpansion-2.2.0-1.21.1-optimized",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 952111,
-                        "MD5": "342b5631198dfd8413283138b921daac",
+                        "size": 957959,
+                        "MD5": "2f3cea87b10538847eef6fe71e565669",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enemyexpansion-2.2.0-1.21.1-optimized.jar"
                     }
                 },
@@ -2455,8 +2455,8 @@
                     "name": "epicfight-nightfall-3.4.0-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 51612030,
-                        "MD5": "03bdf0045d0cb7156298e1eaa59959a4",
+                        "size": 51621004,
+                        "MD5": "27ec78fd601151a6c03c954172fa2c8e",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar"
                     }
                 },
@@ -2988,6 +2988,16 @@
                         "size": 43798,
                         "MD5": "3c28fc81aa5a9be514905e6c88e02d6d",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:kaleidoscopecookery-1.6.0-neoforge+mc1.21.1:1.0.0",
+                    "name": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3496661,
+                        "MD5": "a01c3d2872f12f8a4b020bfd66affac3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar"
                     }
                 },
                 {
@@ -3641,16 +3651,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:soundboard-1.21.1-neoforge:1.0.0",
-                    "name": "soundboard-1.21.1-neoforge",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 161711,
-                        "MD5": "df07dcc327b6268a42f1ef1f1c19b66d",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/soundboard-1.21.1-neoforge.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:sounds-2.4.22+lts+1.21.1-neoforge:1.0.0",
                     "name": "sounds-2.4.22+lts+1.21.1-neoforge",
                     "type": "ForgeMod",
@@ -3995,8 +3995,8 @@
                     "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1855961,
-                        "MD5": "e92205a1b26bdba68d1a45cc6a727172",
+                        "size": 1912849,
+                        "MD5": "fc992a22d0048aa05b2c264b9945c311",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
                     }
                 },
@@ -4011,13 +4011,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.36.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.36.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.56.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.56.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 558598,
-                        "MD5": "48f39e8678af9eedd745b3d4221df217",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.36.0-obf.jar"
+                        "size": 805985,
+                        "MD5": "ff47aec6cf9750f82266e266707305ad",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.56.0-obf.jar"
                     }
                 },
                 {
@@ -4025,19 +4025,19 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 26743354,
-                        "MD5": "7a94d1dbb09af23656691b2e5d77c9b9",
+                        "size": 41462343,
+                        "MD5": "4dfeab016fded7c536a7fa97de538380",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthorcontrol-3.3.0-1.21.1-obf:1.0.0",
-                    "name": "xenthorcontrol-3.3.0-1.21.1-obf",
+                    "id": "shadows.mods:xenthorcontrol-3.4.0-1.21.1-obf:1.0.0",
+                    "name": "xenthorcontrol-3.4.0-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 123655,
-                        "MD5": "84eb3999164bce95bef1dbe64a1aedf0",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.3.0-1.21.1-obf.jar"
+                        "size": 132694,
+                        "MD5": "87e4fc43cef6cb1d9541ecb0e4bc8edb",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.4.0-1.21.1-obf.jar"
                     }
                 },
                 {
@@ -4045,8 +4045,8 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 16360211,
-                        "MD5": "9826f3092a9f9b7fa0541a884ed9e103",
+                        "size": 20132269,
+                        "MD5": "bc4750d3273c9708f98894d8e03513f8",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
@@ -4065,8 +4065,8 @@
                     "name": "xfight-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 171182,
-                        "MD5": "dd4809f210d15ece3578ee82b9788d74",
+                        "size": 179778,
+                        "MD5": "7d4c6974ecd0eb69aaf4a17fe80221dd",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
                     }
                 },
@@ -4329,8 +4329,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1115693,
-                        "MD5": "9a1f43fc80408677debda7d467186012",
+                        "size": 1148167,
+                        "MD5": "ba4f2fdf86048e7321f81ff8a0d8c518",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }

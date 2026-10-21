@@ -440,8 +440,8 @@
     "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar": {
         "nomeNoRelease": "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
-        "tamanho": 5529202,
-        "md5": "4933e1b65fdbf5c2d332c87f6feb7440"
+        "tamanho": 5529455,
+        "md5": "c65f015f05e11a3c71f49e89217fe0fb"
     },
     "Super_Warden-21.17-neoforge-1.21.1.jar": {
         "nomeNoRelease": "Super_Warden-21.17-neoforge-1.21.1.jar",
@@ -716,8 +716,8 @@
     "braziliandelight-1.21.1-neoforge-3.0.0.jar": {
         "nomeNoRelease": "braziliandelight-1.21.1-neoforge-3.0.0.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/braziliandelight-1.21.1-neoforge-3.0.0.jar",
-        "tamanho": 1226633,
-        "md5": "c027abb1394388956985987ecd16967c"
+        "tamanho": 1225491,
+        "md5": "6f0f43a8cfe9ceb37dc67c49b229a9f8"
     },
     "braziliandelight-tagfix-1.21.1-1.0.0.jar": {
         "nomeNoRelease": "braziliandelight-tagfix-1.21.1-1.0.0.jar",
@@ -1040,8 +1040,8 @@
     "efnbossesvjakr-1.8.2-neoforge-1.21.1.jar": {
         "nomeNoRelease": "efnbossesvjakr-1.8.2-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.2-neoforge-1.21.1.jar",
-        "tamanho": 49206704,
-        "md5": "89c58dfae3f38344aa9c3c70a34aba9c"
+        "tamanho": 49216554,
+        "md5": "705c28114440cd383e185fed383218bd"
     },
     "efprogressivediff-1.2.2.jar": {
         "nomeNoRelease": "efprogressivediff-1.2.2.jar",
@@ -1082,8 +1082,8 @@
     "enemyexpansion-2.2.0-1.21.1-optimized.jar": {
         "nomeNoRelease": "enemyexpansion-2.2.0-1.21.1-optimized.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enemyexpansion-2.2.0-1.21.1-optimized.jar",
-        "tamanho": 952111,
-        "md5": "342b5631198dfd8413283138b921daac"
+        "tamanho": 957959,
+        "md5": "2f3cea87b10538847eef6fe71e565669"
     },
     "entity_model_features-3.2.4-1.21-neoforge.jar": {
         "nomeNoRelease": "entity_model_features-3.2.4-1.21-neoforge.jar",
@@ -1142,8 +1142,8 @@
     "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar": {
         "nomeNoRelease": "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
-        "tamanho": 51612030,
-        "md5": "03bdf0045d0cb7156298e1eaa59959a4"
+        "tamanho": 51621004,
+        "md5": "27ec78fd601151a6c03c954172fa2c8e"
     },
     "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar": {
         "nomeNoRelease": "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
@@ -1462,6 +1462,12 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
         "tamanho": 43798,
         "md5": "3c28fc81aa5a9be514905e6c88e02d6d"
+    },
+    "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar": {
+        "nomeNoRelease": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar",
+        "tamanho": 3496661,
+        "md5": "a01c3d2872f12f8a4b020bfd66affac3"
     },
     "killcam-1.0.3-neoforge1.21.1-local.2.jar": {
         "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.2.jar",
@@ -1853,12 +1859,6 @@
         "tamanho": 1869204,
         "md5": "1a1629da403c9eb0d68e6091d31f9851"
     },
-    "soundboard-1.21.1-neoforge.jar": {
-        "nomeNoRelease": "soundboard-1.21.1-neoforge.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/soundboard-1.21.1-neoforge.jar",
-        "tamanho": 161711,
-        "md5": "df07dcc327b6268a42f1ef1f1c19b66d"
-    },
     "sounds-2.4.22+lts+1.21.1-neoforge.jar": {
         "nomeNoRelease": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
@@ -2066,8 +2066,8 @@
     "xcombat-2.0.0-neoforge-1.21.1-obf.jar": {
         "nomeNoRelease": "xcombat-2.0.0-neoforge-1.21.1-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar",
-        "tamanho": 1855961,
-        "md5": "e92205a1b26bdba68d1a45cc6a727172"
+        "tamanho": 1912849,
+        "md5": "fc992a22d0048aa05b2c264b9945c311"
     },
     "xenthor_protect-2.0-obf.jar": {
         "nomeNoRelease": "xenthor_protect-2.0-obf.jar",
@@ -2075,29 +2075,29 @@
         "tamanho": 63886,
         "md5": "3d808cca628ef120df37814fd66ac674"
     },
-    "xenthor_tweaks-1.36.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.36.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.36.0-obf.jar",
-        "tamanho": 558598,
-        "md5": "48f39e8678af9eedd745b3d4221df217"
+    "xenthor_tweaks-1.56.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.56.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.56.0-obf.jar",
+        "tamanho": 805985,
+        "md5": "ff47aec6cf9750f82266e266707305ad"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 26743354,
-        "md5": "7a94d1dbb09af23656691b2e5d77c9b9"
+        "tamanho": 41462343,
+        "md5": "4dfeab016fded7c536a7fa97de538380"
     },
-    "xenthorcontrol-3.3.0-1.21.1-obf.jar": {
-        "nomeNoRelease": "xenthorcontrol-3.3.0-1.21.1-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.3.0-1.21.1-obf.jar",
-        "tamanho": 123655,
-        "md5": "84eb3999164bce95bef1dbe64a1aedf0"
+    "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
+        "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.4.0-1.21.1-obf.jar",
+        "tamanho": 132694,
+        "md5": "87e4fc43cef6cb1d9541ecb0e4bc8edb"
     },
     "xenthormod-1.21.1-3.4-obf.jar": {
         "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar",
-        "tamanho": 16360211,
-        "md5": "9826f3092a9f9b7fa0541a884ed9e103"
+        "tamanho": 20132269,
+        "md5": "bc4750d3273c9708f98894d8e03513f8"
     },
     "xercapaint-1.21.1-1.3.0.jar": {
         "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
@@ -2108,8 +2108,8 @@
     "xfight-1.0.0-obf.jar": {
         "nomeNoRelease": "xfight-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
-        "tamanho": 171182,
-        "md5": "dd4809f210d15ece3578ee82b9788d74"
+        "tamanho": 179778,
+        "md5": "7d4c6974ecd0eb69aaf4a17fe80221dd"
     },
     "xtranslate-1.21.1-1.0.1.jar": {
         "nomeNoRelease": "xtranslate-1.21.1-1.0.1.jar",
@@ -2252,8 +2252,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1115693,
-        "md5": "9a1f43fc80408677debda7d467186012"
+        "tamanho": 1148167,
+        "md5": "ba4f2fdf86048e7321f81ff8a0d8c518"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
