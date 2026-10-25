@@ -851,26 +851,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:Item-Obliterator-NeoForge-MC1.21.1:2.3.0",
-                    "name": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 24037,
-                        "MD5": "f47cadc2258d5c7a7e91ddf521e13713",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:ItemLocks-NeoForged-1.21.1:1.3.13",
-                    "name": "ItemLocks-NeoForged-1.21.1-1.3.13",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 81667,
-                        "MD5": "d5254a3ca058e35a7b85b0f54923ecca",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ItemLocks-NeoForged-1.21.1-1.3.13.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:Jade-1.21.1-NeoForge:15.10.6",
                     "name": "Jade-1.21.1-NeoForge-15.10.6",
                     "type": "ForgeMod",
@@ -1138,16 +1118,6 @@
                         "size": 102980,
                         "MD5": "c9d84fe87e9ec88825eeb3b119393125",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Paxi-1.21.1-NeoForge-5.1.3.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:PickUpNotifier-v21.1.1-1.21.1-NeoForge:1.0.0",
-                    "name": "PickUpNotifier-v21.1.1-1.21.1-NeoForge",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 97094,
-                        "MD5": "703cd8ad4dc4d99e11532122812915f9",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar"
                     }
                 },
                 {
@@ -3001,6 +2971,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:kaleidoscopetavern-1.2.0-neoforge+mc1.21.1:1.0.0",
+                    "name": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1708047,
+                        "MD5": "35c1224358390f52abd619ff08e68f3a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:killcam-1.0.3-neoforge1.21.1-local.2:1.0.0",
                     "name": "killcam-1.0.3-neoforge1.21.1-local.2",
                     "type": "ForgeMod",
@@ -3341,16 +3321,6 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:occult-alpha-2-b:1.0.0",
-                    "name": "occult-alpha-2-b",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 11968374,
-                        "MD5": "d0824bb5463b891b891faed4e5275e3d",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/occult-alpha-2-b.jar"
-                    }
-                },
-                {
                     "id": "shadows.mods:owo-lib-neoforge-0.12.15.5-beta.1+1.21:1.0.0",
                     "name": "owo-lib-neoforge-0.12.15.5-beta.1+1.21",
                     "type": "ForgeMod",
@@ -3555,8 +3525,8 @@
                     "name": "saintsdragons-0.8.2+neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 21967132,
-                        "MD5": "186ec5e99e3db4f32e1e8853ca1d67de",
+                        "size": 21955506,
+                        "MD5": "f445a58b49ff942c9bcf84788b3cebbc",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/saintsdragons-0.8.2%2Bneoforge-1.21.1.jar"
                     }
                 },
@@ -4025,8 +3995,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 41462343,
-                        "MD5": "4dfeab016fded7c536a7fa97de538380",
+                        "size": 44768066,
+                        "MD5": "05660dc661f2ad3350e3e50fe3f68ad8",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4041,13 +4011,33 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:xenthorgames-2.1.2-obf:1.0.0",
+                    "name": "xenthorgames-2.1.2-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1674184,
+                        "MD5": "8902b13c9350cdcbe78807d38f9dbe1b",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.1.2-obf.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:xenthormod-1.21.1-3.4-obf:1.0.0",
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 20132269,
-                        "MD5": "bc4750d3273c9708f98894d8e03513f8",
+                        "size": 20562612,
+                        "MD5": "475c6d79d7ec9e7b5e0b6a3c7e459370",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:xenthorphone-0.5.0-obf:1.0.0",
+                    "name": "xenthorphone-0.5.0-obf",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 14804300,
+                        "MD5": "6626dc6257381c75dce812006a9832cb",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.5.0-obf.jar"
                     }
                 },
                 {
@@ -4068,16 +4058,6 @@
                         "size": 179778,
                         "MD5": "7d4c6974ecd0eb69aaf4a17fe80221dd",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:xtranslate-1.21.1:1.0.1",
-                    "name": "xtranslate-1.21.1-1.0.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 847002,
-                        "MD5": "f715bae40fca7ad4d2be055be9088d02",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xtranslate-1.21.1-1.0.1.jar"
                     }
                 },
                 {
@@ -4329,8 +4309,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1148167,
-                        "MD5": "ba4f2fdf86048e7321f81ff8a0d8c518",
+                        "size": 1153962,
+                        "MD5": "aead876652c3a745d897a74d991d80a2",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }

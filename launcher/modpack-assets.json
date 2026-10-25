@@ -179,18 +179,6 @@
         "tamanho": 362740,
         "md5": "c00a4e7f37026af024016a238aed5d10"
     },
-    "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar": {
-        "nomeNoRelease": "Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Item-Obliterator-NeoForge-MC1.21.1-2.3.0.jar",
-        "tamanho": 24037,
-        "md5": "f47cadc2258d5c7a7e91ddf521e13713"
-    },
-    "ItemLocks-NeoForged-1.21.1-1.3.13.jar": {
-        "nomeNoRelease": "ItemLocks-NeoForged-1.21.1-1.3.13.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ItemLocks-NeoForged-1.21.1-1.3.13.jar",
-        "tamanho": 81667,
-        "md5": "d5254a3ca058e35a7b85b0f54923ecca"
-    },
     "Jade-1.21.1-NeoForge-15.10.6.jar": {
         "nomeNoRelease": "Jade-1.21.1-NeoForge-15.10.6.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Jade-1.21.1-NeoForge-15.10.6.jar",
@@ -352,12 +340,6 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Paxi-1.21.1-NeoForge-5.1.3.jar",
         "tamanho": 102980,
         "md5": "c9d84fe87e9ec88825eeb3b119393125"
-    },
-    "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar": {
-        "nomeNoRelease": "PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/PickUpNotifier-v21.1.1-1.21.1-NeoForge.jar",
-        "tamanho": 97094,
-        "md5": "703cd8ad4dc4d99e11532122812915f9"
     },
     "Placebo-1.21.1-9.9.2.jar": {
         "nomeNoRelease": "Placebo-1.21.1-9.9.2.jar",
@@ -1469,6 +1451,12 @@
         "tamanho": 3496661,
         "md5": "a01c3d2872f12f8a4b020bfd66affac3"
     },
+    "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar": {
+        "nomeNoRelease": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar",
+        "tamanho": 1708047,
+        "md5": "35c1224358390f52abd619ff08e68f3a"
+    },
     "killcam-1.0.3-neoforge1.21.1-local.2.jar": {
         "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.2.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.2.jar",
@@ -1673,12 +1661,6 @@
         "tamanho": 60296,
         "md5": "caaf072f2e2c6261b37b8359ef8631b1"
     },
-    "occult-alpha-2-b.jar": {
-        "nomeNoRelease": "occult-alpha-2-b.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/occult-alpha-2-b.jar",
-        "tamanho": 11968374,
-        "md5": "d0824bb5463b891b891faed4e5275e3d"
-    },
     "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
         "nomeNoRelease": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
@@ -1802,8 +1784,8 @@
     "saintsdragons-0.8.2+neoforge-1.21.1.jar": {
         "nomeNoRelease": "saintsdragons-0.8.2+neoforge-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/saintsdragons-0.8.2%2Bneoforge-1.21.1.jar",
-        "tamanho": 21967132,
-        "md5": "186ec5e99e3db4f32e1e8853ca1d67de"
+        "tamanho": 21955506,
+        "md5": "f445a58b49ff942c9bcf84788b3cebbc"
     },
     "scholar-neoforge-1.21.1-1.2.6.jar": {
         "nomeNoRelease": "scholar-neoforge-1.21.1-1.2.6.jar",
@@ -2084,8 +2066,8 @@
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 41462343,
-        "md5": "4dfeab016fded7c536a7fa97de538380"
+        "tamanho": 44768066,
+        "md5": "05660dc661f2ad3350e3e50fe3f68ad8"
     },
     "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
         "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
@@ -2093,11 +2075,23 @@
         "tamanho": 132694,
         "md5": "87e4fc43cef6cb1d9541ecb0e4bc8edb"
     },
+    "xenthorgames-2.1.2-obf.jar": {
+        "nomeNoRelease": "xenthorgames-2.1.2-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.1.2-obf.jar",
+        "tamanho": 1674184,
+        "md5": "8902b13c9350cdcbe78807d38f9dbe1b"
+    },
     "xenthormod-1.21.1-3.4-obf.jar": {
         "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar",
-        "tamanho": 20132269,
-        "md5": "bc4750d3273c9708f98894d8e03513f8"
+        "tamanho": 20562612,
+        "md5": "475c6d79d7ec9e7b5e0b6a3c7e459370"
+    },
+    "xenthorphone-0.5.0-obf.jar": {
+        "nomeNoRelease": "xenthorphone-0.5.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.5.0-obf.jar",
+        "tamanho": 14804300,
+        "md5": "6626dc6257381c75dce812006a9832cb"
     },
     "xercapaint-1.21.1-1.3.0.jar": {
         "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
@@ -2110,12 +2104,6 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
         "tamanho": 179778,
         "md5": "7d4c6974ecd0eb69aaf4a17fe80221dd"
-    },
-    "xtranslate-1.21.1-1.0.1.jar": {
-        "nomeNoRelease": "xtranslate-1.21.1-1.0.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xtranslate-1.21.1-1.0.1.jar",
-        "tamanho": 847002,
-        "md5": "f715bae40fca7ad4d2be055be9088d02"
     },
     "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
         "nomeNoRelease": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2252,8 +2240,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1148167,
-        "md5": "ba4f2fdf86048e7321f81ff8a0d8c518"
+        "tamanho": 1153962,
+        "md5": "aead876652c3a745d897a74d991d80a2"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
