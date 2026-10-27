@@ -2066,8 +2066,8 @@
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 44781545,
-        "md5": "dd002f3c34db08de57d6df1f2b5599d4"
+        "tamanho": 44800599,
+        "md5": "377916d20333fa1ec220a8b451e3542b"
     },
     "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
         "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
@@ -2087,11 +2087,11 @@
         "tamanho": 20598054,
         "md5": "82b6d2731471f338c67a1ce97a7eb2ac"
     },
-    "xenthorphone-0.7.0-obf.jar": {
-        "nomeNoRelease": "xenthorphone-0.7.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.7.0-obf.jar",
-        "tamanho": 15297993,
-        "md5": "32264c4f6dc48bda60ad5d8978fdad16"
+    "xenthorphone-0.9.4-obf.jar": {
+        "nomeNoRelease": "xenthorphone-0.9.4-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.4-obf.jar",
+        "tamanho": 16278553,
+        "md5": "838545736869879c89fac7302f090d13"
     },
     "xercapaint-1.21.1-1.3.0.jar": {
         "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
@@ -2240,8 +2240,8 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1153600,
-        "md5": "a25e48140bf5c31cbe4b7fc432c56d58"
+        "tamanho": 1153593,
+        "md5": "4bbd334a1efb0d90a1d727c3d587932a"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
