@@ -3981,13 +3981,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.57.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.57.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.59.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.59.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 807563,
-                        "MD5": "3e5a2fc70c6cd528336d1ea632981beb",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.57.0-obf.jar"
+                        "size": 813142,
+                        "MD5": "da3b75fed6fdcbd39e52e885142c13fc",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.59.0-obf.jar"
                     }
                 },
                 {
@@ -3995,8 +3995,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 44800599,
-                        "MD5": "377916d20333fa1ec220a8b451e3542b",
+                        "size": 44821949,
+                        "MD5": "a732262abd7ec26c5b1c9f0ebca2a868",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4025,19 +4025,19 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 20598054,
-                        "MD5": "82b6d2731471f338c67a1ce97a7eb2ac",
+                        "size": 20598510,
+                        "MD5": "0612c406eea6442a2b6e6aac3a4c8e4e",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthorphone-0.9.4-obf:1.0.0",
-                    "name": "xenthorphone-0.9.4-obf",
+                    "id": "shadows.mods:xenthorphone-0.9.6-obf:1.0.0",
+                    "name": "xenthorphone-0.9.6-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 16278553,
-                        "MD5": "838545736869879c89fac7302f090d13",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.4-obf.jar"
+                        "size": 16301486,
+                        "MD5": "5bf074fd970f5ae99b962e8d65b4a00e",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.6-obf.jar"
                     }
                 },
                 {
