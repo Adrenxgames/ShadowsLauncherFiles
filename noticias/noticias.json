@@ -1,6 +1,17 @@
 {
   "articles": [
     {
+      "title": "🔥 LAUNCHER ATUALIZADO!",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-10-28T11:40:08.421Z",
+      "content": "# 🔥 LAUNCHER ATUALIZADO!\n\nUma nova atualização do launcher está disponível, trazendo diversas correções e melhorias para a sua experiência no Xenthor!\n\n* **Várias correções de bugs** foram realizadas.\n* **Novos jogos e aplicativos** foram adicionados em atualizações anteriores.\n* **Jogos e mesas** tiveram seus problemas corrigidos.\n* **Domador:** bugs corrigidos.\n* **Livro do Saint Dragons:** funcionamento corrigido.\n* Tambem é possivel tirar fotos com shader agora com o celular.\n\n**📥 Como atualizar:** acesse as configurações do launcher, entre na seção **Atualizações** e realize a atualização.\n\n-# Em caso de problemas, entre em contato com o suporte.",
+      "images": [
+        "https://raw.githubusercontent.com/Adrenxgames/ShadowsLauncherFiles/main/noticias/imagens/31e39ebbc633758d.png"
+      ],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1564966999749038201"
+    },
+    {
       "title": "🛠️ Atualização — Launcher e Modpack",
       "category": "Novidades",
       "author": "Adrenx Games",
