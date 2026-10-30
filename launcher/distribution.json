@@ -3961,13 +3961,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xcombat-2.0.0-neoforge-1.21.1-obf:1.0.0",
-                    "name": "xcombat-2.0.0-neoforge-1.21.1-obf",
+                    "id": "shadows.mods:xcombat-2.2.0-neoforge-1.21.1-obf:1.0.0",
+                    "name": "xcombat-2.2.0-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1912849,
-                        "MD5": "fc992a22d0048aa05b2c264b9945c311",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.0.0-neoforge-1.21.1-obf.jar"
+                        "size": 1941137,
+                        "MD5": "eac485285a5b1984af6ce5cf8d930455",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.2.0-neoforge-1.21.1-obf.jar"
                     }
                 },
                 {
@@ -3981,13 +3981,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.59.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.59.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.61.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.61.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 813142,
-                        "MD5": "da3b75fed6fdcbd39e52e885142c13fc",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.59.0-obf.jar"
+                        "size": 831413,
+                        "MD5": "572cef6d0f9d566e6b94a06f34c7981f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.61.0-obf.jar"
                     }
                 },
                 {
@@ -3995,8 +3995,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 44821949,
-                        "MD5": "a732262abd7ec26c5b1c9f0ebca2a868",
+                        "size": 44976612,
+                        "MD5": "5de000fec2f497835984eff40fc70311",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4025,19 +4025,19 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 20598510,
-                        "MD5": "0612c406eea6442a2b6e6aac3a4c8e4e",
+                        "size": 20715152,
+                        "MD5": "b4c091c82bece9fff064d7a91885b4bb",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthorphone-0.9.6-obf:1.0.0",
-                    "name": "xenthorphone-0.9.6-obf",
+                    "id": "shadows.mods:xenthorphone-0.9.8-obf:1.0.0",
+                    "name": "xenthorphone-0.9.8-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 16301486,
-                        "MD5": "5bf074fd970f5ae99b962e8d65b4a00e",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.6-obf.jar"
+                        "size": 16340061,
+                        "MD5": "eee1db209555b4dc59374ab5bcd85fe9",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.8-obf.jar"
                     }
                 },
                 {
@@ -4309,8 +4309,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1153593,
-                        "MD5": "4bbd334a1efb0d90a1d727c3d587932a",
+                        "size": 1153812,
+                        "MD5": "f2a5a470def0975551a5515d408324f4",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
