@@ -1761,13 +1761,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix:1.0.0",
-                    "name": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix",
+                    "id": "shadows.mods:carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix:1.0.0",
+                    "name": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 394079,
-                        "MD5": "39cf03ea4167e3b7119548c03103929a",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix.jar"
+                        "size": 398374,
+                        "MD5": "cc6df78d08c010da19e83a8ee45d75d3",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix%2Bcopycatfix.jar"
                     }
                 },
                 {
@@ -2038,6 +2038,16 @@
                         "size": 3328498,
                         "MD5": "16d5818298f6332038528cd13bd4ff1a",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdeco-2.1.3.jar"
+                    }
+                },
+                {
+                    "id": "shadows.mods:createdieselgenerators-1.21.1:1.3.15",
+                    "name": "createdieselgenerators-1.21.1-1.3.15",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 3154746,
+                        "MD5": "6608b13819952971bf0ebff17d8ea472",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdieselgenerators-1.21.1-1.3.15.jar"
                     }
                 },
                 {
@@ -3981,13 +3991,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.61.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.61.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.67.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.67.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 831413,
-                        "MD5": "572cef6d0f9d566e6b94a06f34c7981f",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.61.0-obf.jar"
+                        "size": 956584,
+                        "MD5": "c123dcda186397b6e3aebe612073e96c",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.67.0-obf.jar"
                     }
                 },
                 {
@@ -3995,8 +4005,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 44976612,
-                        "MD5": "5de000fec2f497835984eff40fc70311",
+                        "size": 45083211,
+                        "MD5": "44dc92bc8b3fd5445ea44a36f90e644c",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4011,13 +4021,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthorgames-2.2.0-obf:1.0.0",
-                    "name": "xenthorgames-2.2.0-obf",
+                    "id": "shadows.mods:xenthorgames-2.2.1-obf:1.0.0",
+                    "name": "xenthorgames-2.2.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1701977,
-                        "MD5": "59f5964b141cf1f2161db18265fdc955",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.2.0-obf.jar"
+                        "size": 1702458,
+                        "MD5": "0012c655a8d798e98315555db996181a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.2.1-obf.jar"
                     }
                 },
                 {
@@ -4025,8 +4035,8 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 20715152,
-                        "MD5": "b4c091c82bece9fff064d7a91885b4bb",
+                        "size": 21108682,
+                        "MD5": "c6e80cbf0102d8164255ead2ca88514b",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },

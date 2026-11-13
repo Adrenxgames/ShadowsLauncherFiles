@@ -725,11 +725,11 @@
         "tamanho": 307439,
         "md5": "5e26f40ec4bf34a6587fb83d6ca9f2b3"
     },
-    "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix.jar": {
-        "nomeNoRelease": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix.jar",
-        "tamanho": 394079,
-        "md5": "39cf03ea4167e3b7119548c03103929a"
+    "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix.jar": {
+        "nomeNoRelease": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix%2Bcopycatfix.jar",
+        "tamanho": 398374,
+        "md5": "cc6df78d08c010da19e83a8ee45d75d3"
     },
     "cataclysm_perf-1.0-cataclysm3.33.jar": {
         "nomeNoRelease": "cataclysm_perf-1.0-cataclysm3.33.jar",
@@ -892,6 +892,12 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdeco-2.1.3.jar",
         "tamanho": 3328498,
         "md5": "16d5818298f6332038528cd13bd4ff1a"
+    },
+    "createdieselgenerators-1.21.1-1.3.15.jar": {
+        "nomeNoRelease": "createdieselgenerators-1.21.1-1.3.15.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdieselgenerators-1.21.1-1.3.15.jar",
+        "tamanho": 3154746,
+        "md5": "6608b13819952971bf0ebff17d8ea472"
     },
     "croptopia-neoforge-1.21.1-4.2.4.jar": {
         "nomeNoRelease": "croptopia-neoforge-1.21.1-4.2.4.jar",
@@ -2057,17 +2063,17 @@
         "tamanho": 63886,
         "md5": "3d808cca628ef120df37814fd66ac674"
     },
-    "xenthor_tweaks-1.61.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.61.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.61.0-obf.jar",
-        "tamanho": 831413,
-        "md5": "572cef6d0f9d566e6b94a06f34c7981f"
+    "xenthor_tweaks-1.67.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.67.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.67.0-obf.jar",
+        "tamanho": 956584,
+        "md5": "c123dcda186397b6e3aebe612073e96c"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 44976612,
-        "md5": "5de000fec2f497835984eff40fc70311"
+        "tamanho": 45083211,
+        "md5": "44dc92bc8b3fd5445ea44a36f90e644c"
     },
     "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
         "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
@@ -2075,17 +2081,17 @@
         "tamanho": 132694,
         "md5": "87e4fc43cef6cb1d9541ecb0e4bc8edb"
     },
-    "xenthorgames-2.2.0-obf.jar": {
-        "nomeNoRelease": "xenthorgames-2.2.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.2.0-obf.jar",
-        "tamanho": 1701977,
-        "md5": "59f5964b141cf1f2161db18265fdc955"
+    "xenthorgames-2.2.1-obf.jar": {
+        "nomeNoRelease": "xenthorgames-2.2.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.2.1-obf.jar",
+        "tamanho": 1702458,
+        "md5": "0012c655a8d798e98315555db996181a"
     },
     "xenthormod-1.21.1-3.4-obf.jar": {
         "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar",
-        "tamanho": 20715152,
-        "md5": "b4c091c82bece9fff064d7a91885b4bb"
+        "tamanho": 21108682,
+        "md5": "c6e80cbf0102d8164255ead2ca88514b"
     },
     "xenthorphone-0.9.8-obf.jar": {
         "nomeNoRelease": "xenthorphone-0.9.8-obf.jar",
