@@ -18,7 +18,7 @@
         "_comentario_clientId": "Application ID do aplicativo em https://discord.com/developers/applications. Nao e segredo (o Client Secret, esse sim, nunca deve vir para ca).",
         "clientId": "1314338765543833710",
         "_comentario_botoes": "Os DOIS botoes do perfil do Discord (o Discord nao aceita mais que dois). Precisam ser http/https; um link invalido apenas some, sem derrubar a presenca.",
-        "inviteUrl": "https://discord.gg/yjTZqNA5mY",
+        "inviteUrl": "https://discord.gg/Twqn663unf",
         "websiteUrl": "https://www.shadowsx.com.br/",
         "_comentario_outros_convites": "Nao sao lidos pelo launcher, ficam aqui so como registro. O botao de Discord DENTRO do launcher e configurado separado, em app/assets/lang/_custom.toml (mediaDiscordURL).",
         "conviteShadows": "https://discord.gg/UMgp4MGtN2",
