@@ -2225,13 +2225,6 @@
         "md5": "2401113a63ce46f923679fe35d6e0d4f",
         "release": "modpack"
     },
-    "tacz-valorant-neoforge-1.21.1-0.2.1.jar": {
-        "nomeNoRelease": "tacz-valorant-neoforge-1.21.1-0.2.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.2.1.jar",
-        "tamanho": 7099585,
-        "md5": "4bfa53ece31f5f6a621d7713bde6579c",
-        "release": "modpack"
-    },
     "taglocalizations-1.0.6-universal-1.21.1.jar": {
         "nomeNoRelease": "taglocalizations-1.0.6-universal-1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/taglocalizations-1.0.6-universal-1.21.1.jar",
@@ -2587,6 +2580,13 @@
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/pipez-neoforge-1.21.1-1.2.31.jar",
         "tamanho": 456599,
         "md5": "10f3b051500cb0c5068372ff5459419f",
+        "release": "modpack-teste"
+    },
+    "tacz-valorant-neoforge-1.21.1-0.3.0.jar": {
+        "nomeNoRelease": "tacz-valorant-neoforge-1.21.1-0.3.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/tacz-valorant-neoforge-1.21.1-0.3.0.jar",
+        "tamanho": 24010477,
+        "md5": "e8e51c02f89c3bbcfcf2016021dbece7",
         "release": "modpack-teste"
     },
     "tcr_bosses-1.1.13-neoforge-1.21.1.jar": {
