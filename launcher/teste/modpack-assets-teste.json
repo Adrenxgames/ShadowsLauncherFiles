@@ -1,0 +1,2655 @@
+{
+    "ApothicAttributes-1.21.1-2.10.1.jar": {
+        "nomeNoRelease": "ApothicAttributes-1.21.1-2.10.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ApothicAttributes-1.21.1-2.10.1.jar",
+        "tamanho": 323264,
+        "md5": "b49358dd4a833938be48e0f8b27dc5f0",
+        "release": "modpack"
+    },
+    "Ares_Hud-1.21.1-1.6.5.jar": {
+        "nomeNoRelease": "Ares_Hud-1.21.1-1.6.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Ares_Hud-1.21.1-1.6.5.jar",
+        "tamanho": 792177,
+        "md5": "214cf922e940032addbe4a63fb4e990e",
+        "release": "modpack"
+    },
+    "BrazilThings-2.1.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "BrazilThings-2.1.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BrazilThings-2.1.0-neoforge-1.21.1.jar",
+        "tamanho": 3266514,
+        "md5": "8faa6bd436c890ec57fa11b1698fd2d0",
+        "release": "modpack"
+    },
+    "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar": {
+        "nomeNoRelease": "BrewinAndChewin-neoforge-4.5.0+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BrewinAndChewin-neoforge-4.5.0%2B1.21.1.jar",
+        "tamanho": 1575450,
+        "md5": "4548d2c0d5813e5a0acaf5c68a86ec6c",
+        "release": "modpack"
+    },
+    "CNPC-EpicFight-Addon-CE-1.21.1Neo-V2.1.0.jar": {
+        "nomeNoRelease": "CNPC-EpicFight-Addon-CE-1.21.1Neo-V2.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CNPC-EpicFight-Addon-CE-1.21.1Neo-V2.1.0.jar",
+        "tamanho": 199412,
+        "md5": "214a24e27064702ce401b5a6b9991b6c",
+        "release": "modpack"
+    },
+    "Clumps-neoforge-1.21.1-19.0.0.1.jar": {
+        "nomeNoRelease": "Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Clumps-neoforge-1.21.1-19.0.0.1.jar",
+        "tamanho": 18382,
+        "md5": "8b42a9d7a72bde90fa061d17e2859e7b",
+        "release": "modpack"
+    },
+    "CombatEvolution-2.2.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "CombatEvolution-2.2.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CombatEvolution-2.2.0-neoforge-1.21.1.jar",
+        "tamanho": 2747184,
+        "md5": "52a06ac4ab859cac419ea78f4097cbf1",
+        "release": "modpack"
+    },
+    "ConstructionWandsRevived-1.21.1-4.2.2-NeoForge.jar": {
+        "nomeNoRelease": "ConstructionWandsRevived-1.21.1-4.2.2-NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ConstructionWandsRevived-1.21.1-4.2.2-NeoForge.jar",
+        "tamanho": 401291,
+        "md5": "03113af05b41b6befa88ea8ae0e9c4f7",
+        "release": "modpack"
+    },
+    "Controlling-neoforge-1.21.1-19.0.5.jar": {
+        "nomeNoRelease": "Controlling-neoforge-1.21.1-19.0.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Controlling-neoforge-1.21.1-19.0.5.jar",
+        "tamanho": 77555,
+        "md5": "7141c2d0bb774dc6e4481be32b685179",
+        "release": "modpack"
+    },
+    "Corgilib-NeoForge-1.21.1-5.0.0.9.jar": {
+        "nomeNoRelease": "Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Corgilib-NeoForge-1.21.1-5.0.0.9.jar",
+        "tamanho": 309763,
+        "md5": "c03b02005b735e2221438a5346d8c77f",
+        "release": "modpack"
+    },
+    "CreateDragonsPlus-1.11.2b.jar": {
+        "nomeNoRelease": "CreateDragonsPlus-1.11.2b.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CreateDragonsPlus-1.11.2b.jar",
+        "tamanho": 1006723,
+        "md5": "95d1e63668c74dc9831c3fb880c43581",
+        "release": "modpack"
+    },
+    "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar": {
+        "nomeNoRelease": "CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CreativeCore_NEOFORGE_v2.13.46_mc1.21.1.jar",
+        "tamanho": 1235813,
+        "md5": "aa2c9bc2c8e11f1bf4faee9fd7b99a82",
+        "release": "modpack"
+    },
+    "Cuffed-1.21.1-1.3.16-xenthor.jar": {
+        "nomeNoRelease": "Cuffed-1.21.1-1.3.16-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Cuffed-1.21.1-1.3.16-xenthor.jar",
+        "tamanho": 999254,
+        "md5": "53979895578714c8f174a9301ddb55ba",
+        "release": "modpack"
+    },
+    "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar": {
+        "nomeNoRelease": "CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CustomNPCs-Unofficial-NeoForge-1.21.1.20251230.jar",
+        "tamanho": 10789250,
+        "md5": "34f52ed3b674bb956b7a0d7f6967c00f",
+        "release": "modpack"
+    },
+    "CustomPlayerModels-1.21-0.6.27a.jar": {
+        "nomeNoRelease": "CustomPlayerModels-1.21-0.6.27a.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/CustomPlayerModels-1.21-0.6.27a.jar",
+        "tamanho": 2793136,
+        "md5": "d74eddfd5685aec041d6c5b097b689f3",
+        "release": "modpack"
+    },
+    "DungeonsArise-1.21.1-2.1.68-release.jar": {
+        "nomeNoRelease": "DungeonsArise-1.21.1-2.1.68-release.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/DungeonsArise-1.21.1-2.1.68-release.jar",
+        "tamanho": 11842679,
+        "md5": "8c803078cb52411a40201d6e69a23529",
+        "release": "modpack"
+    },
+    "EF-ExtendedDatapacks-2.4.8.1-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "EF-ExtendedDatapacks-2.4.8.1-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/EF-ExtendedDatapacks-2.4.8.1-1.21.1%2B.NeoForge.jar",
+        "tamanho": 635896,
+        "md5": "0ac124a6ba327685e5a5838ce7cd4198",
+        "release": "modpack"
+    },
+    "Emojiful-Neoforge-1.21-5.2.4-all.jar": {
+        "nomeNoRelease": "Emojiful-Neoforge-1.21-5.2.4-all.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Emojiful-Neoforge-1.21-5.2.4-all.jar",
+        "tamanho": 259509,
+        "md5": "6dfeaff1e6966d4c14954b423b3c1fd2",
+        "release": "modpack"
+    },
+    "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar": {
+        "nomeNoRelease": "EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/EpheroLib-1.21.1-NEO-FORGE-1.2.0.jar",
+        "tamanho": 746263,
+        "md5": "d15a6ebe7f3011625507d610d80c039c",
+        "release": "modpack"
+    },
+    "Epic Fight x Curios Compat 2.2.jar": {
+        "nomeNoRelease": "Epic.Fight.x.Curios.Compat.2.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Epic.Fight.x.Curios.Compat.2.2.jar",
+        "tamanho": 239737,
+        "md5": "c030306fcf5b0c09bc1cd91008e17b5e",
+        "release": "modpack"
+    },
+    "FallingTree-1.21.1-1.21.1.11.jar": {
+        "nomeNoRelease": "FallingTree-1.21.1-1.21.1.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FallingTree-1.21.1-1.21.1.11.jar",
+        "tamanho": 496356,
+        "md5": "7318bdea54e4c69c1c90650b30fc4bde",
+        "release": "modpack"
+    },
+    "FancyTrail-1.2.3-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "FancyTrail-1.2.3-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FancyTrail-1.2.3-neoforge-1.21.1.jar",
+        "tamanho": 5680916,
+        "md5": "53260007c42ccc7eea4a0fdfa765b808",
+        "release": "modpack"
+    },
+    "FarmersDelight-1.21.1-1.3.4.jar": {
+        "nomeNoRelease": "FarmersDelight-1.21.1-1.3.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FarmersDelight-1.21.1-1.3.4.jar",
+        "tamanho": 3160490,
+        "md5": "588f140d2c343e9029dc30f10b73fdd4",
+        "release": "modpack"
+    },
+    "FarmersStructures-1.0.6-1.21.1_neoforge.jar": {
+        "nomeNoRelease": "FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FarmersStructures-1.0.6-1.21.1_neoforge.jar",
+        "tamanho": 558909,
+        "md5": "6377d658fde69a819ae0400b96bcaa72",
+        "release": "modpack"
+    },
+    "FazRoleplayClothes-Neo1.21.1-1.6.1.jar": {
+        "nomeNoRelease": "FazRoleplayClothes-Neo1.21.1-1.6.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FazRoleplayClothes-Neo1.21.1-1.6.1.jar",
+        "tamanho": 522086,
+        "md5": "be994c8acfa4e7f57d163e026330c26a",
+        "release": "modpack"
+    },
+    "Feature-Recycler-neoforge-2.0.0.jar": {
+        "nomeNoRelease": "Feature-Recycler-neoforge-2.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Feature-Recycler-neoforge-2.0.0.jar",
+        "tamanho": 144306,
+        "md5": "56bd16468ad0f8ea805979e7c0a8b265",
+        "release": "modpack"
+    },
+    "FramedBlocks-10.6.2.jar": {
+        "nomeNoRelease": "FramedBlocks-10.6.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FramedBlocks-10.6.2.jar",
+        "tamanho": 4305605,
+        "md5": "8f197397bee817bbb5ed2e1fd89fc7f5",
+        "release": "modpack"
+    },
+    "FurnitureModMedieval_1.0.1_NeoForge_1.21.1.jar": {
+        "nomeNoRelease": "FurnitureModMedieval_1.0.1_NeoForge_1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/FurnitureModMedieval_1.0.1_NeoForge_1.21.1.jar",
+        "tamanho": 247922,
+        "md5": "b6c9fa9a4c406d608e613e518405c810",
+        "release": "modpack"
+    },
+    "Gamma_creatures-1.2.2_neoforge_1.21.1-xenthor.jar": {
+        "nomeNoRelease": "Gamma_creatures-1.2.2_neoforge_1.21.1-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Gamma_creatures-1.2.2_neoforge_1.21.1-xenthor.jar",
+        "tamanho": 61732823,
+        "md5": "86499a173de4c98ac725a85ded0d71a8",
+        "release": "modpack"
+    },
+    "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar": {
+        "nomeNoRelease": "ImmediatelyFast-NeoForge-1.6.13+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ImmediatelyFast-NeoForge-1.6.13%2B1.21.1.jar",
+        "tamanho": 362740,
+        "md5": "c00a4e7f37026af024016a238aed5d10",
+        "release": "modpack"
+    },
+    "Jade-1.21.1-NeoForge-15.10.6.jar": {
+        "nomeNoRelease": "Jade-1.21.1-NeoForge-15.10.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Jade-1.21.1-NeoForge-15.10.6.jar",
+        "tamanho": 726853,
+        "md5": "67b89f182472859d1e478477716c9462",
+        "release": "modpack"
+    },
+    "JadeAddons-1.21.1-NeoForge-6.1.0.jar": {
+        "nomeNoRelease": "JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/JadeAddons-1.21.1-NeoForge-6.1.0.jar",
+        "tamanho": 74419,
+        "md5": "81f8035bc735c75463add09f923ad372",
+        "release": "modpack"
+    },
+    "Ksyxis-1.4.3.jar": {
+        "nomeNoRelease": "Ksyxis-1.4.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Ksyxis-1.4.3.jar",
+        "tamanho": 26968,
+        "md5": "cd84b221908dd1045f81c94744027f93",
+        "release": "modpack"
+    },
+    "L_Ender's Cataclysm 1.21.1-3.33.jar": {
+        "nomeNoRelease": "L_Ender.s.Cataclysm.1.21.1-3.33.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/L_Ender.s.Cataclysm.1.21.1-3.33.jar",
+        "tamanho": 73375661,
+        "md5": "5f84a3f00bdffc2e98c70e60f06bf5f0",
+        "release": "modpack"
+    },
+    "LesRaisins-Tactical-Equipements-1.21.1-0.4.3.jar": {
+        "nomeNoRelease": "LesRaisins-Tactical-Equipements-1.21.1-0.4.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/LesRaisins-Tactical-Equipements-1.21.1-0.4.3.jar",
+        "tamanho": 6622690,
+        "md5": "841b69518421f6a1f97519f580bfbb61",
+        "release": "modpack"
+    },
+    "LongNBTKiller-NeoForge-1.21.3-1.0.0.jar": {
+        "nomeNoRelease": "LongNBTKiller-NeoForge-1.21.3-1.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/LongNBTKiller-NeoForge-1.21.3-1.0.0.jar",
+        "tamanho": 6247,
+        "md5": "7b486203f59ad39b445e7267573ebfdb",
+        "release": "modpack"
+    },
+    "MOAdecor ART 1.21.1.B.jar": {
+        "nomeNoRelease": "MOAdecor.ART.1.21.1.B.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MOAdecor.ART.1.21.1.B.jar",
+        "tamanho": 1150376,
+        "md5": "b61d022de3f65e4537ba17e0092daac5",
+        "release": "modpack"
+    },
+    "MOAdecor ELECTRONICS 1.21.1.A.jar": {
+        "nomeNoRelease": "MOAdecor.ELECTRONICS.1.21.1.A.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MOAdecor.ELECTRONICS.1.21.1.A.jar",
+        "tamanho": 1126146,
+        "md5": "f124b5b55f44c4b4e15206d80808a5ab",
+        "release": "modpack"
+    },
+    "MOAdecor HOLIDAYS 1.21.1.A.jar": {
+        "nomeNoRelease": "MOAdecor.HOLIDAYS.1.21.1.A.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MOAdecor.HOLIDAYS.1.21.1.A.jar",
+        "tamanho": 1243370,
+        "md5": "5bfedfa477ef44094dfec7143b866c6d",
+        "release": "modpack"
+    },
+    "MOAdecor LIGHTS 1.21.1.A.jar": {
+        "nomeNoRelease": "MOAdecor.LIGHTS.1.21.1.A.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MOAdecor.LIGHTS.1.21.1.A.jar",
+        "tamanho": 1023749,
+        "md5": "f783e84549ae04d2c7d91bb682d9f9f1",
+        "release": "modpack"
+    },
+    "MOAdecor SCIENCE 1.21.1.A.jar": {
+        "nomeNoRelease": "MOAdecor.SCIENCE.1.21.1.A.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MOAdecor.SCIENCE.1.21.1.A.jar",
+        "tamanho": 1107518,
+        "md5": "52e87a6da33841e60199d6d7fb88b37b",
+        "release": "modpack"
+    },
+    "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar": {
+        "nomeNoRelease": "MagnumTorch-v21.1.1-1.21.1-NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MagnumTorch-v21.1.1-1.21.1-NeoForge.jar",
+        "tamanho": 124523,
+        "md5": "858e6a9ba2a54b84a44ac771894dc0e7",
+        "release": "modpack"
+    },
+    "MobCapturingTool-neoforge-1.21-4.1.0.jar": {
+        "nomeNoRelease": "MobCapturingTool-neoforge-1.21-4.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MobCapturingTool-neoforge-1.21-4.1.0.jar",
+        "tamanho": 120706,
+        "md5": "98626cdd6a20986f1a69a8350c15400f",
+        "release": "modpack"
+    },
+    "MouseTweaks-neoforge-mc1.21-2.26.1.jar": {
+        "nomeNoRelease": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+        "tamanho": 73938,
+        "md5": "4ab6e808a59fdebecfbc92438b85b470",
+        "release": "modpack"
+    },
+    "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar": {
+        "nomeNoRelease": "MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MutantMonsters-v21.1.1-1.21.1-NeoForge.jar",
+        "tamanho": 1346730,
+        "md5": "7c503285a54808a9ae80b2364156bd20",
+        "release": "modpack"
+    },
+    "NaturesCompass-1.21.1-3.4.0-neoforge.jar": {
+        "nomeNoRelease": "NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/NaturesCompass-1.21.1-3.4.0-neoforge.jar",
+        "tamanho": 224657,
+        "md5": "1cb785707bea10cfc5018fe37247963c",
+        "release": "modpack"
+    },
+    "Necronomicon-NeoForge-1.6.0+1.21.jar": {
+        "nomeNoRelease": "Necronomicon-NeoForge-1.6.0+1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Necronomicon-NeoForge-1.6.0%2B1.21.jar",
+        "tamanho": 29865,
+        "md5": "6250002ee6b5583f7db70564ecdd9fbe",
+        "release": "modpack"
+    },
+    "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar": {
+        "nomeNoRelease": "NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/NoChatReports-NEOFORGE-1.21.1-v2.9.1.jar",
+        "tamanho": 306668,
+        "md5": "07496752e6b64dd33d68cd5166818402",
+        "release": "modpack"
+    },
+    "Not Enough Recipe Book-NEOFORGE-0.4.3+1.21.jar": {
+        "nomeNoRelease": "Not.Enough.Recipe.Book-NEOFORGE-0.4.3+1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Not.Enough.Recipe.Book-NEOFORGE-0.4.3%2B1.21.jar",
+        "tamanho": 23830,
+        "md5": "c68639619ef74bba9384b1b7ae421040",
+        "release": "modpack"
+    },
+    "OctoLib-NEOFORGE-0.6.2+1.21.jar": {
+        "nomeNoRelease": "OctoLib-NEOFORGE-0.6.2+1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/OctoLib-NEOFORGE-0.6.2%2B1.21.jar",
+        "tamanho": 544378,
+        "md5": "f730e04600b6cd66ddac685362a9c9f3",
+        "release": "modpack"
+    },
+    "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar": {
+        "nomeNoRelease": "Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Oh-The-Biomes-Weve-Gone-NeoForge-2.6.0.jar",
+        "tamanho": 20484967,
+        "md5": "6576211fdac34b5b288850144e1547a7",
+        "release": "modpack"
+    },
+    "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar": {
+        "nomeNoRelease": "Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Oh-The-Trees-Youll-Grow-neoforge-1.21.1-5.3.2.jar",
+        "tamanho": 167431,
+        "md5": "d74ee8913f910eda8b20c83bf61f63b6",
+        "release": "modpack"
+    },
+    "ParCool-1.21.1-3.4.3.1-NF.jar": {
+        "nomeNoRelease": "ParCool-1.21.1-3.4.3.1-NF.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ParCool-1.21.1-3.4.3.1-NF.jar",
+        "tamanho": 1133660,
+        "md5": "decae928ac6dc3f1692afb7f2e8d5d26",
+        "release": "modpack"
+    },
+    "Paraglider-neoforge-21.1.5.jar": {
+        "nomeNoRelease": "Paraglider-neoforge-21.1.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Paraglider-neoforge-21.1.5.jar",
+        "tamanho": 658184,
+        "md5": "2cb55b407dc0a5e27550f6ee4698aa9d",
+        "release": "modpack"
+    },
+    "Patchouli-1.21.1-93-NEOFORGE.jar": {
+        "nomeNoRelease": "Patchouli-1.21.1-93-NEOFORGE.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Patchouli-1.21.1-93-NEOFORGE.jar",
+        "tamanho": 646777,
+        "md5": "8178d65cd07dd7a646446729058ae2bf",
+        "release": "modpack"
+    },
+    "Paxi-1.21.1-NeoForge-5.1.3.jar": {
+        "nomeNoRelease": "Paxi-1.21.1-NeoForge-5.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Paxi-1.21.1-NeoForge-5.1.3.jar",
+        "tamanho": 102980,
+        "md5": "c9d84fe87e9ec88825eeb3b119393125",
+        "release": "modpack"
+    },
+    "Placebo-1.21.1-9.9.2.jar": {
+        "nomeNoRelease": "Placebo-1.21.1-9.9.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Placebo-1.21.1-9.9.2.jar",
+        "tamanho": 324058,
+        "md5": "208b373fb2bdc703cdd2e087753ed859",
+        "release": "modpack"
+    },
+    "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar": {
+        "nomeNoRelease": "PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/PlayerRevive_NEOFORGE_v2.1.2_mc1.21.1.jar",
+        "tamanho": 5307768,
+        "md5": "b7266c7b146d978d8bbefbd9126c59c4",
+        "release": "modpack"
+    },
+    "Psychadelic-Chemistry_1.21.1-2.2.5-optimized_neoforge.jar": {
+        "nomeNoRelease": "Psychadelic-Chemistry_1.21.1-2.2.5-optimized_neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Psychadelic-Chemistry_1.21.1-2.2.5-optimized_neoforge.jar",
+        "tamanho": 66170607,
+        "md5": "b2b52784f5c3c76284e988552d9df564",
+        "release": "modpack"
+    },
+    "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar": {
+        "nomeNoRelease": "PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/PuzzlesLib-v21.1.52-1.21.1-NeoForge.jar",
+        "tamanho": 1425176,
+        "md5": "4ee80ed6cebef297e3c5a82cf7db559f",
+        "release": "modpack"
+    },
+    "Quark-4.1-485.jar": {
+        "nomeNoRelease": "Quark-4.1-485.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Quark-4.1-485.jar",
+        "tamanho": 15590176,
+        "md5": "e815269dd242eaeab4d32fc1fb8f7342",
+        "release": "modpack"
+    },
+    "SL-Library-1.6.1-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "SL-Library-1.6.1-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SL-Library-1.6.1-1.21.1%2B.NeoForge.jar",
+        "tamanho": 430715,
+        "md5": "6058b1202c5c69cf8e68830f2dde015b",
+        "release": "modpack"
+    },
+    "SLM-Codex-1.4-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "SLM-Codex-1.4-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SLM-Codex-1.4-1.21.1%2B.NeoForge.jar",
+        "tamanho": 247600,
+        "md5": "e2fb89e6ac15f3211d29f809b8b73f76",
+        "release": "modpack"
+    },
+    "SLM-Elements-1.1.2-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "SLM-Elements-1.1.2-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SLM-Elements-1.1.2-1.21.1%2B.NeoForge.jar",
+        "tamanho": 521836,
+        "md5": "7d7d5d91f88784e3504eb82b77780ccf",
+        "release": "modpack"
+    },
+    "SLM-EpicFight-1.3.1-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "SLM-EpicFight-1.3.1-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SLM-EpicFight-1.3.1-1.21.1%2B.NeoForge.jar",
+        "tamanho": 308023,
+        "md5": "f1cf5f61b7cf6f85b8379f27e5b5dd2d",
+        "release": "modpack"
+    },
+    "SLM-Shaders-2.2.2-1.21.1+[NeoForge].jar": {
+        "nomeNoRelease": "SLM-Shaders-2.2.2-1.21.1+.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SLM-Shaders-2.2.2-1.21.1%2B.NeoForge.jar",
+        "tamanho": 426085,
+        "md5": "f449e29b4215e71e774ab3e478648c3b",
+        "release": "modpack"
+    },
+    "Searchables-neoforge-1.21.1-1.0.2.jar": {
+        "nomeNoRelease": "Searchables-neoforge-1.21.1-1.0.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Searchables-neoforge-1.21.1-1.0.2.jar",
+        "tamanho": 77326,
+        "md5": "0a0a8665bb4d77e3f8139750cb98d9e4",
+        "release": "modpack"
+    },
+    "SimplyBows-neoforge-0.1.4.jar": {
+        "nomeNoRelease": "SimplyBows-neoforge-0.1.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SimplyBows-neoforge-0.1.4.jar",
+        "tamanho": 4058689,
+        "md5": "972d3b0f8e38e0b83819e8ac2a386d70",
+        "release": "modpack"
+    },
+    "SimplyTooltips-neoforge-0.1.5.jar": {
+        "nomeNoRelease": "SimplyTooltips-neoforge-0.1.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/SimplyTooltips-neoforge-0.1.5.jar",
+        "tamanho": 5512986,
+        "md5": "aa19ef7ccb2d6cbbfd3f093f7881f4ae",
+        "release": "modpack"
+    },
+    "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simplyswords-Epicfied-2.9ch1-neoforge-1.21.1.jar",
+        "tamanho": 5529455,
+        "md5": "c65f015f05e11a3c71f49e89217fe0fb",
+        "release": "modpack"
+    },
+    "Super_Warden-21.17-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "Super_Warden-21.17-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Super_Warden-21.17-neoforge-1.21.1.jar",
+        "tamanho": 1082137,
+        "md5": "353416a754b8e9e39ac36c9c3ecda70a",
+        "release": "modpack"
+    },
+    "TerraBlender-neoforge-1.21.1-4.1.0.8.jar": {
+        "nomeNoRelease": "TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/TerraBlender-neoforge-1.21.1-4.1.0.8.jar",
+        "tamanho": 120364,
+        "md5": "9510cef4ca24d7f6bc3144dbf6693f7d",
+        "release": "modpack"
+    },
+    "WeaponsOfMiracles-2.0.178.jar": {
+        "nomeNoRelease": "WeaponsOfMiracles-2.0.178.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/WeaponsOfMiracles-2.0.178.jar",
+        "tamanho": 20941584,
+        "md5": "1d9ae30fb34bb45c11e58e33433ca860",
+        "release": "modpack"
+    },
+    "YungsApi-1.21.1-NeoForge-5.1.6.jar": {
+        "nomeNoRelease": "YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsApi-1.21.1-NeoForge-5.1.6.jar",
+        "tamanho": 388678,
+        "md5": "4a27558e0a2fd72512b051525c9abeaf",
+        "release": "modpack"
+    },
+    "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar": {
+        "nomeNoRelease": "YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsBetterDesertTemples-1.21.1-NeoForge-4.1.5.jar",
+        "tamanho": 905839,
+        "md5": "b82db719aea459c2529f12bcc835366f",
+        "release": "modpack"
+    },
+    "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar": {
+        "nomeNoRelease": "YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsBetterDungeons-1.21.1-NeoForge-5.1.4.jar",
+        "tamanho": 782160,
+        "md5": "91ab689aec35d6929682c147be2d57ed",
+        "release": "modpack"
+    },
+    "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar": {
+        "nomeNoRelease": "YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsBetterJungleTemples-1.21.1-NeoForge-3.1.2.jar",
+        "tamanho": 795839,
+        "md5": "6a1327dda25d75ea551b7fc01c25b963",
+        "release": "modpack"
+    },
+    "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar": {
+        "nomeNoRelease": "YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsBetterMineshafts-1.21.1-NeoForge-5.1.1.jar",
+        "tamanho": 493967,
+        "md5": "f81789d1443949d17089130feba53710",
+        "release": "modpack"
+    },
+    "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar": {
+        "nomeNoRelease": "YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/YungsBetterStrongholds-1.21.1-NeoForge-5.1.3.jar",
+        "tamanho": 461244,
+        "md5": "43266a72adc75ba8bb2e234e065e6139",
+        "release": "modpack"
+    },
+    "Zeta-1.1-40.jar": {
+        "nomeNoRelease": "Zeta-1.1-40.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Zeta-1.1-40.jar",
+        "tamanho": 763725,
+        "md5": "cc0d6e584cfca1f1383c9f120c035c22",
+        "release": "modpack"
+    },
+    "[1.21.1] SecurityCraft v1.10.2.1.jar": {
+        "nomeNoRelease": "1.21.1.SecurityCraft.v1.10.2.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/1.21.1.SecurityCraft.v1.10.2.1.jar",
+        "tamanho": 5193371,
+        "md5": "862516ce5f9c976e11244270284a11e5",
+        "release": "modpack"
+    },
+    "aaa_particles-neoforge-1.21.1-2.2.3.jar": {
+        "nomeNoRelease": "aaa_particles-neoforge-1.21.1-2.2.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/aaa_particles-neoforge-1.21.1-2.2.3.jar",
+        "tamanho": 5067291,
+        "md5": "2a98731188f8328e3b74256d9c73dbdb",
+        "release": "modpack"
+    },
+    "accents-neoforge-1.21.1-2.0.2.jar": {
+        "nomeNoRelease": "accents-neoforge-1.21.1-2.0.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/accents-neoforge-1.21.1-2.0.2.jar",
+        "tamanho": 670149,
+        "md5": "dc1dd1e6e9fbced51592b46bcdb759da",
+        "release": "modpack"
+    },
+    "aces_spell_utils-1.2.7.2-1.21.1.jar": {
+        "nomeNoRelease": "aces_spell_utils-1.2.7.2-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/aces_spell_utils-1.2.7.2-1.21.1.jar",
+        "tamanho": 381096,
+        "md5": "f0ace026635d23dfdbf7628e031dd23a",
+        "release": "modpack"
+    },
+    "aether-1.21.1-1.5.10-neoforge.jar": {
+        "nomeNoRelease": "aether-1.21.1-1.5.10-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/aether-1.21.1-1.5.10-neoforge.jar",
+        "tamanho": 40223909,
+        "md5": "87bb550408f2833299a93980c2f41bb0",
+        "release": "modpack"
+    },
+    "alexscaves-2.0.10.jar": {
+        "nomeNoRelease": "alexscaves-2.0.10.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alexscaves-2.0.10.jar",
+        "tamanho": 74900204,
+        "md5": "74665c33ea59098145597e1aee139526",
+        "release": "modpack"
+    },
+    "alexsdelight-1.6.jar": {
+        "nomeNoRelease": "alexsdelight-1.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alexsdelight-1.6.jar",
+        "tamanho": 89430,
+        "md5": "17f05e921bee8b3cac08b8c655404734",
+        "release": "modpack"
+    },
+    "alexsmobs-1.22.17.jar": {
+        "nomeNoRelease": "alexsmobs-1.22.17.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alexsmobs-1.22.17.jar",
+        "tamanho": 26620546,
+        "md5": "87970b4846bffc20123ecd267d888ee8",
+        "release": "modpack"
+    },
+    "alltheleaks-1.1.10+1.21.1-neoforge.jar": {
+        "nomeNoRelease": "alltheleaks-1.1.10+1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alltheleaks-1.1.10%2B1.21.1-neoforge.jar",
+        "tamanho": 538832,
+        "md5": "093d03e1036e984dd9f977ea63728e93",
+        "release": "modpack"
+    },
+    "alshanex_familiars-1.21.1_v4.0.3.jar": {
+        "nomeNoRelease": "alshanex_familiars-1.21.1_v4.0.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alshanex_familiars-1.21.1_v4.0.3.jar",
+        "tamanho": 21848062,
+        "md5": "fd1d57e3df19cee023b3dce0f6218fff",
+        "release": "modpack"
+    },
+    "alternate_current-mc1.21-1.9.0.jar": {
+        "nomeNoRelease": "alternate_current-mc1.21-1.9.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/alternate_current-mc1.21-1.9.0.jar",
+        "tamanho": 50425,
+        "md5": "27530bb4fcd327476406d6e3caf94523",
+        "release": "modpack"
+    },
+    "amendments-neoforge-1.21-2.1.7.jar": {
+        "nomeNoRelease": "amendments-neoforge-1.21-2.1.7.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/amendments-neoforge-1.21-2.1.7.jar",
+        "tamanho": 1154863,
+        "md5": "dd03b5610387258eb727827a7002423c",
+        "release": "modpack"
+    },
+    "amwplushies-neoforge-1.21.1-5.0.3.jar": {
+        "nomeNoRelease": "amwplushies-neoforge-1.21.1-5.0.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/amwplushies-neoforge-1.21.1-5.0.3.jar",
+        "tamanho": 8154909,
+        "md5": "ccb4dec4b7edd3ba5d32bc4ccce0c7cf",
+        "release": "modpack"
+    },
+    "appleskin-neoforge-mc1.21-3.0.9.jar": {
+        "nomeNoRelease": "appleskin-neoforge-mc1.21-3.0.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/appleskin-neoforge-mc1.21-3.0.9.jar",
+        "tamanho": 75804,
+        "md5": "db5fe7619d502cf5b9bc972a955cd3bc",
+        "release": "modpack"
+    },
+    "arcaneessenceblock-1.0.1-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "arcaneessenceblock-1.0.1-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/arcaneessenceblock-1.0.1-neoforge-1.21.1.jar",
+        "tamanho": 26988,
+        "md5": "5d3d6a470e3ac55b08aeb8a1ec703a35",
+        "release": "modpack"
+    },
+    "architectury-13.0.11-neoforge.jar": {
+        "nomeNoRelease": "architectury-13.0.11-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/architectury-13.0.11-neoforge.jar",
+        "tamanho": 584734,
+        "md5": "aefbea361809755c331126bcff6e6d3e",
+        "release": "modpack"
+    },
+    "ares_hud_xpfix-1.1.0.jar": {
+        "nomeNoRelease": "ares_hud_xpfix-1.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ares_hud_xpfix-1.1.0.jar",
+        "tamanho": 4035,
+        "md5": "8a8a51020efc816d4bb05e19bbaa6d21",
+        "release": "modpack"
+    },
+    "armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar": {
+        "nomeNoRelease": "armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/armourersworkshop-forge-1.21.1-3.4.0-beta.3.jar",
+        "tamanho": 6525367,
+        "md5": "a9019016d79eef603da2d26d2f936f02",
+        "release": "modpack"
+    },
+    "artifacts-neoforge-13.2.5.jar": {
+        "nomeNoRelease": "artifacts-neoforge-13.2.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/artifacts-neoforge-13.2.5.jar",
+        "tamanho": 1086922,
+        "md5": "16cf5de839360972a30396bd106422ac",
+        "release": "modpack"
+    },
+    "athena-neoforge-1.21.1-4.0.6.jar": {
+        "nomeNoRelease": "athena-neoforge-1.21.1-4.0.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/athena-neoforge-1.21.1-4.0.6.jar",
+        "tamanho": 99944,
+        "md5": "0c22a1ec59e5ce22eef1b614fda59b42",
+        "release": "modpack"
+    },
+    "attributefix-neoforge-1.21.1-21.1.3.jar": {
+        "nomeNoRelease": "attributefix-neoforge-1.21.1-21.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/attributefix-neoforge-1.21.1-21.1.3.jar",
+        "tamanho": 19809,
+        "md5": "1552cea16a40215f9773e609114ccce1",
+        "release": "modpack"
+    },
+    "azurelib-neo-1.21.1-3.1.11.jar": {
+        "nomeNoRelease": "azurelib-neo-1.21.1-3.1.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/azurelib-neo-1.21.1-3.1.11.jar",
+        "tamanho": 877948,
+        "md5": "4fbf4fc81f71cf544674dbce5a65ce08",
+        "release": "modpack"
+    },
+    "baguettelib-1.21.1-NeoForge-2.0.3.jar": {
+        "nomeNoRelease": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+        "tamanho": 74380,
+        "md5": "ab0b6ab9b27ddb1e8c7ce442656af041",
+        "release": "modpack"
+    },
+    "balm-neoforge-1.21.1-21.0.63.jar": {
+        "nomeNoRelease": "balm-neoforge-1.21.1-21.0.63.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/balm-neoforge-1.21.1-21.0.63.jar",
+        "tamanho": 782380,
+        "md5": "dc3cfe59a6b263a39c5234d69e227900",
+        "release": "modpack"
+    },
+    "berezka_api-1.2.9.4-neoforge-1.21.1-xenthor.jar": {
+        "nomeNoRelease": "berezka_api-1.2.9.4-neoforge-1.21.1-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/berezka_api-1.2.9.4-neoforge-1.21.1-xenthor.jar",
+        "tamanho": 103946,
+        "md5": "54b62087fcae009ca5e4be095aa961dd",
+        "release": "modpack"
+    },
+    "berezka_api_for_horror_elements-1.3.0.jar": {
+        "nomeNoRelease": "berezka_api_for_horror_elements-1.3.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/berezka_api_for_horror_elements-1.3.0.jar",
+        "tamanho": 19297,
+        "md5": "6df1a4a988792fde0be540be606d8a9d",
+        "release": "modpack"
+    },
+    "better-advanced-tooltips-2101.1.0-build.5.jar": {
+        "nomeNoRelease": "better-advanced-tooltips-2101.1.0-build.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better-advanced-tooltips-2101.1.0-build.5.jar",
+        "tamanho": 37653,
+        "md5": "edf97f2f11f57fffb4ed6d71c7b4508a",
+        "release": "modpack"
+    },
+    "better-compatability-checker-neoforge-21.1.8.jar": {
+        "nomeNoRelease": "better-compatability-checker-neoforge-21.1.8.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better-compatability-checker-neoforge-21.1.8.jar",
+        "tamanho": 25085,
+        "md5": "0976995753b9426ecb11d189bfe9714d",
+        "release": "modpack"
+    },
+    "better_trident_model-neoforge1.21.1-1.2.0.jar": {
+        "nomeNoRelease": "better_trident_model-neoforge1.21.1-1.2.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/better_trident_model-neoforge1.21.1-1.2.0.jar",
+        "tamanho": 890762,
+        "md5": "37f35de73f5e566d7da133b107b8b4af",
+        "release": "modpack"
+    },
+    "betterlockon-2.0.8-neoforge.jar": {
+        "nomeNoRelease": "betterlockon-2.0.8-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/betterlockon-2.0.8-neoforge.jar",
+        "tamanho": 253409,
+        "md5": "dcf472df32515bbd9b6b49e2c816502b",
+        "release": "modpack"
+    },
+    "bettervillage-neoforge-1.21.1-3.3.1.jar": {
+        "nomeNoRelease": "bettervillage-neoforge-1.21.1-3.3.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/bettervillage-neoforge-1.21.1-3.3.1.jar",
+        "tamanho": 2429558,
+        "md5": "4c14182a9854eb9db3c0217220322c32",
+        "release": "modpack"
+    },
+    "biolith-neoforge-3.0.14.jar": {
+        "nomeNoRelease": "biolith-neoforge-3.0.14.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/biolith-neoforge-3.0.14.jar",
+        "tamanho": 218062,
+        "md5": "1ba7fea6c81e39d5a7cd9caf4ce44dce",
+        "release": "modpack"
+    },
+    "block_factorys_bosses-2.1.2-neo-1.21.1.jar": {
+        "nomeNoRelease": "block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/block_factorys_bosses-2.1.2-neo-1.21.1.jar",
+        "tamanho": 23943105,
+        "md5": "82522f83422e7210a7458f48524b77ee",
+        "release": "modpack"
+    },
+    "bookshelf-neoforge-1.21.1-21.1.81.jar": {
+        "nomeNoRelease": "bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/bookshelf-neoforge-1.21.1-21.1.81.jar",
+        "tamanho": 328813,
+        "md5": "9f627fe031221159d74a491e279f773a",
+        "release": "modpack"
+    },
+    "born_in_chaos_[Neoforge]_1.21.1_1.7.6.jar": {
+        "nomeNoRelease": "born_in_chaos_.Neoforge._1.21.1_1.7.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/born_in_chaos_.Neoforge._1.21.1_1.7.6.jar",
+        "tamanho": 11842184,
+        "md5": "c34bfa3d5b9bd99816d4903fa8452d33",
+        "release": "modpack"
+    },
+    "braziliandelight-1.21.1-neoforge-3.0.0.jar": {
+        "nomeNoRelease": "braziliandelight-1.21.1-neoforge-3.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/braziliandelight-1.21.1-neoforge-3.0.0.jar",
+        "tamanho": 1225491,
+        "md5": "6f0f43a8cfe9ceb37dc67c49b229a9f8",
+        "release": "modpack"
+    },
+    "braziliandelight-tagfix-1.21.1-1.0.0.jar": {
+        "nomeNoRelease": "braziliandelight-tagfix-1.21.1-1.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/braziliandelight-tagfix-1.21.1-1.0.0.jar",
+        "tamanho": 68004,
+        "md5": "ce20e2dfd071709451f6c77a3f1703f5",
+        "release": "modpack"
+    },
+    "butchery-5.1-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "butchery-5.1-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/butchery-5.1-neoforge-1.21.1.jar",
+        "tamanho": 13942981,
+        "md5": "61da2b40847cc6f8c7845139b0f7ed43",
+        "release": "modpack"
+    },
+    "caelus-neoforge-7.0.1+1.21.1.jar": {
+        "nomeNoRelease": "caelus-neoforge-7.0.1+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/caelus-neoforge-7.0.1%2B1.21.1.jar",
+        "tamanho": 50235,
+        "md5": "d8f9e005af3644cee127d7da1fe2ed79",
+        "release": "modpack"
+    },
+    "camera-neoforge-1.21.1-1.0.22.jar": {
+        "nomeNoRelease": "camera-neoforge-1.21.1-1.0.22.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/camera-neoforge-1.21.1-1.0.22.jar",
+        "tamanho": 307439,
+        "md5": "5e26f40ec4bf34a6587fb83d6ca9f2b3",
+        "release": "modpack"
+    },
+    "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix.jar": {
+        "nomeNoRelease": "carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe+2.2.6backport+syncfix+copycatfix.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/carryon-neoforge-1.21.1-2.2.4-hotfix-vinerydupe%2B2.2.6backport%2Bsyncfix%2Bcopycatfix.jar",
+        "tamanho": 398374,
+        "md5": "cc6df78d08c010da19e83a8ee45d75d3",
+        "release": "modpack"
+    },
+    "cataclysm_perf-1.0-cataclysm3.33.jar": {
+        "nomeNoRelease": "cataclysm_perf-1.0-cataclysm3.33.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cataclysm_perf-1.0-cataclysm3.33.jar",
+        "tamanho": 9757,
+        "md5": "6c90b00eb2e63899084144753443b732",
+        "release": "modpack"
+    },
+    "cataclysm_spellbooks-1.1.11-1.21.jar": {
+        "nomeNoRelease": "cataclysm_spellbooks-1.1.11-1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cataclysm_spellbooks-1.1.11-1.21.jar",
+        "tamanho": 725204,
+        "md5": "db6a2f520ffbc128b58f82d5ac192d3e",
+        "release": "modpack"
+    },
+    "cdmoveset-2.0-neoforge1.21.1-local.1.jar": {
+        "nomeNoRelease": "cdmoveset-2.0-neoforge1.21.1-local.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cdmoveset-2.0-neoforge1.21.1-local.1.jar",
+        "tamanho": 19215694,
+        "md5": "9810850fd2b85f0409fd8b3a1df8a91d",
+        "release": "modpack"
+    },
+    "cdmoveset_tags-1.0.jar": {
+        "nomeNoRelease": "cdmoveset_tags-1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cdmoveset_tags-1.0.jar",
+        "tamanho": 1115,
+        "md5": "715a5a7fe53621eeac96b0d6d75d94cc",
+        "release": "modpack"
+    },
+    "charta-neoforge-1.21.1-1.2.5.jar": {
+        "nomeNoRelease": "charta-neoforge-1.21.1-1.2.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/charta-neoforge-1.21.1-1.2.5.jar",
+        "tamanho": 7440585,
+        "md5": "b91dc7ca1fd0ac2db9b67e9b5a8e3b89",
+        "release": "modpack"
+    },
+    "chipped-neoforge-1.21.1-4.0.2.jar": {
+        "nomeNoRelease": "chipped-neoforge-1.21.1-4.0.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/chipped-neoforge-1.21.1-4.0.2.jar",
+        "tamanho": 15020578,
+        "md5": "f8fd65f72a903abd0bcbd3bf6bc09524",
+        "release": "modpack"
+    },
+    "citadel-1.21.1-2.7.6.jar": {
+        "nomeNoRelease": "citadel-1.21.1-2.7.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/citadel-1.21.1-2.7.6.jar",
+        "tamanho": 3028943,
+        "md5": "f489330f610335c782c61ce8815b16f1",
+        "release": "modpack"
+    },
+    "cloth-config-15.0.140-neoforge.jar": {
+        "nomeNoRelease": "cloth-config-15.0.140-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cloth-config-15.0.140-neoforge.jar",
+        "tamanho": 1163890,
+        "md5": "4c3757160403fcccb8ad468c2ea22862",
+        "release": "modpack"
+    },
+    "cluttered-[NeoForge]-3.0.3-1.21.1.jar": {
+        "nomeNoRelease": "cluttered-.NeoForge.-3.0.3-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cluttered-.NeoForge.-3.0.3-1.21.1.jar",
+        "tamanho": 5404861,
+        "md5": "7d86214eb21aef9f85711b92b26bc2b3",
+        "release": "modpack"
+    },
+    "cobweb-neoforge-1.21-1.4.0.jar": {
+        "nomeNoRelease": "cobweb-neoforge-1.21-1.4.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cobweb-neoforge-1.21-1.4.0.jar",
+        "tamanho": 410948,
+        "md5": "aee8bce82e07a30a576a46db6ab2c609",
+        "release": "modpack"
+    },
+    "comforts-neoforge-9.0.5+1.21.1.jar": {
+        "nomeNoRelease": "comforts-neoforge-9.0.5+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/comforts-neoforge-9.0.5%2B1.21.1.jar",
+        "tamanho": 422658,
+        "md5": "ba7a318dcf4190a27e017eacac47427e",
+        "release": "modpack"
+    },
+    "configured-neoforge-1.21.1-2.6.3.jar": {
+        "nomeNoRelease": "configured-neoforge-1.21.1-2.6.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/configured-neoforge-1.21.1-2.6.3.jar",
+        "tamanho": 428793,
+        "md5": "6bc7aea6278cd85c5eb7beb7edbb555b",
+        "release": "modpack"
+    },
+    "connectedglass-1.1.14-neoforge-mc1.21.jar": {
+        "nomeNoRelease": "connectedglass-1.1.14-neoforge-mc1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/connectedglass-1.1.14-neoforge-mc1.21.jar",
+        "tamanho": 819976,
+        "md5": "978a7bee8daa65f9e3b480405e6da41c",
+        "release": "modpack"
+    },
+    "copycats-3.0.4+mc.1.21.1-neoforge.jar": {
+        "nomeNoRelease": "copycats-3.0.4+mc.1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/copycats-3.0.4%2Bmc.1.21.1-neoforge.jar",
+        "tamanho": 1791747,
+        "md5": "c9f1a4b031cdfab8ebfc06d81e891c43",
+        "release": "modpack"
+    },
+    "corpse-neoforge-1.21.1-1.1.13.jar": {
+        "nomeNoRelease": "corpse-neoforge-1.21.1-1.1.13.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/corpse-neoforge-1.21.1-1.1.13.jar",
+        "tamanho": 253695,
+        "md5": "1d3f40f9cf85f1e3a330201ea2e85c2c",
+        "release": "modpack"
+    },
+    "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar": {
+        "nomeNoRelease": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+        "tamanho": 24683,
+        "md5": "8483ed78a4d59ede2aa80651f04b2b57",
+        "release": "modpack"
+    },
+    "cosmeticarmorreworked-1.21.1-v1-neoforge.jar": {
+        "nomeNoRelease": "cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cosmeticarmorreworked-1.21.1-v1-neoforge.jar",
+        "tamanho": 92722,
+        "md5": "881eb025d54ca01165c115a38a8d48c4",
+        "release": "modpack"
+    },
+    "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar": {
+        "nomeNoRelease": "cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cosmeticcorpsecompat-1.21.1-NeoForge--1.0.0.jar",
+        "tamanho": 9651,
+        "md5": "ae6dcf3813ccbee4e22d0fd823c7273e",
+        "release": "modpack"
+    },
+    "craftingtweaks-neoforge-1.21.1-21.1.10.jar": {
+        "nomeNoRelease": "craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/craftingtweaks-neoforge-1.21.1-21.1.10.jar",
+        "tamanho": 256064,
+        "md5": "3eeb19061bc1584f08769e3abdd770fc",
+        "release": "modpack"
+    },
+    "create-1.21.1-6.0.10.jar": {
+        "nomeNoRelease": "create-1.21.1-6.0.10.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-1.21.1-6.0.10.jar",
+        "tamanho": 19123767,
+        "md5": "179189c52b45a469e683570be4e77188",
+        "release": "modpack"
+    },
+    "create-aeronautics-bundled-1.21.1-1.3.2.jar": {
+        "nomeNoRelease": "create-aeronautics-bundled-1.21.1-1.3.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-aeronautics-bundled-1.21.1-1.3.2.jar",
+        "tamanho": 33123131,
+        "md5": "d866c3be71910c633f68f17543f11e8e",
+        "release": "modpack"
+    },
+    "create-central-kitchen-2.5.0.jar": {
+        "nomeNoRelease": "create-central-kitchen-2.5.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-central-kitchen-2.5.0.jar",
+        "tamanho": 375492,
+        "md5": "66c68bcf22380798fb2f028ab2cc46ec",
+        "release": "modpack"
+    },
+    "create-confectionery1.21.1_v1.1.3b.jar": {
+        "nomeNoRelease": "create-confectionery1.21.1_v1.1.3b.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-confectionery1.21.1_v1.1.3b.jar",
+        "tamanho": 2127265,
+        "md5": "4e499ff47731b598c102553205c137eb",
+        "release": "modpack"
+    },
+    "create-new-age-1.2.0+neoforge-mc1.21.1.jar": {
+        "nomeNoRelease": "create-new-age-1.2.0+neoforge-mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-new-age-1.2.0%2Bneoforge-mc1.21.1.jar",
+        "tamanho": 1644485,
+        "md5": "5bcea3a1df072447c0d71d3e40e3ff11",
+        "release": "modpack"
+    },
+    "create-otbwg-compat-1.0.jar": {
+        "nomeNoRelease": "create-otbwg-compat-1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-otbwg-compat-1.0.jar",
+        "tamanho": 517455,
+        "md5": "83caf9e3a6833104f5d14a939dd96327",
+        "release": "modpack"
+    },
+    "create_connected-1.3.2-mc1.21.1.jar": {
+        "nomeNoRelease": "create_connected-1.3.2-mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create_connected-1.3.2-mc1.21.1.jar",
+        "tamanho": 6779410,
+        "md5": "5ec87500b99fc02cc83f74d995d00044",
+        "release": "modpack"
+    },
+    "createdeco-2.1.3.jar": {
+        "nomeNoRelease": "createdeco-2.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdeco-2.1.3.jar",
+        "tamanho": 3328498,
+        "md5": "16d5818298f6332038528cd13bd4ff1a",
+        "release": "modpack"
+    },
+    "createdieselgenerators-1.21.1-1.3.15.jar": {
+        "nomeNoRelease": "createdieselgenerators-1.21.1-1.3.15.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/createdieselgenerators-1.21.1-1.3.15.jar",
+        "tamanho": 3154746,
+        "md5": "6608b13819952971bf0ebff17d8ea472",
+        "release": "modpack"
+    },
+    "croptopia-neoforge-1.21.1-4.2.4.jar": {
+        "nomeNoRelease": "croptopia-neoforge-1.21.1-4.2.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/croptopia-neoforge-1.21.1-4.2.4.jar",
+        "tamanho": 2220594,
+        "md5": "c98bc02548924d344d5f583942d722b0",
+        "release": "modpack"
+    },
+    "croptopiadelight-1.0.1.jar": {
+        "nomeNoRelease": "croptopiadelight-1.0.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/croptopiadelight-1.0.1.jar",
+        "tamanho": 96487,
+        "md5": "d72613216389f1c8d22404ba3e2662ad",
+        "release": "modpack"
+    },
+    "crystal_chronicles-0.1.3-alpha.jar": {
+        "nomeNoRelease": "crystal_chronicles-0.1.3-alpha.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/crystal_chronicles-0.1.3-alpha.jar",
+        "tamanho": 2192223,
+        "md5": "2c5e0fba26b916a5b6d78d23a78607a6",
+        "release": "modpack"
+    },
+    "cupboard-1.21.1-3.9.jar": {
+        "nomeNoRelease": "cupboard-1.21.1-3.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cupboard-1.21.1-3.9.jar",
+        "tamanho": 28829,
+        "md5": "6edcf9b5d6e6c44cbfbcdc69cf8c98d3",
+        "release": "modpack"
+    },
+    "curios-neoforge-9.5.1+1.21.1.jar": {
+        "nomeNoRelease": "curios-neoforge-9.5.1+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/curios-neoforge-9.5.1%2B1.21.1.jar",
+        "tamanho": 410690,
+        "md5": "e8f0a3574264bb202c153b90293dc84c",
+        "release": "modpack"
+    },
+    "darkdoppelganger-3.4.0-1.21.1.jar": {
+        "nomeNoRelease": "darkdoppelganger-3.4.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/darkdoppelganger-3.4.0-1.21.1.jar",
+        "tamanho": 4503628,
+        "md5": "c7ed8e5db8d030af53825179bb4467f9",
+        "release": "modpack"
+    },
+    "dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar": {
+        "nomeNoRelease": "dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dawnoftimebuilder-neoforge-1.21.1-1.6.6.jar",
+        "tamanho": 3083725,
+        "md5": "562f0c4b96c8ee97c242caef7567e884",
+        "release": "modpack"
+    },
+    "decocraft-3.0.11-1.21.1-neoforge-xenthor.jar": {
+        "nomeNoRelease": "decocraft-3.0.11-1.21.1-neoforge-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/decocraft-3.0.11-1.21.1-neoforge-xenthor.jar",
+        "tamanho": 93516237,
+        "md5": "c5572cd808fee998620db3ce4571eb05",
+        "release": "modpack"
+    },
+    "deltaboxlib-1.21.1-neoforge-3.0.0.jar": {
+        "nomeNoRelease": "deltaboxlib-1.21.1-neoforge-3.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/deltaboxlib-1.21.1-neoforge-3.0.0.jar",
+        "tamanho": 756047,
+        "md5": "a4e3557bb3df36f696bcbdc702fcd94b",
+        "release": "modpack"
+    },
+    "despawntweaks-neoforge-1.0.0-1.21.1.jar": {
+        "nomeNoRelease": "despawntweaks-neoforge-1.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/despawntweaks-neoforge-1.0.0-1.21.1.jar",
+        "tamanho": 458075,
+        "md5": "d30558e280ec4ee34b831f96ebd2e148",
+        "release": "modpack"
+    },
+    "dodge_parry_reward-1.21.1-1.0.0.jar": {
+        "nomeNoRelease": "dodge_parry_reward-1.21.1-1.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dodge_parry_reward-1.21.1-1.0.0.jar",
+        "tamanho": 283238,
+        "md5": "ee31f1cbf8766e24b72385d2769c3c64",
+        "release": "modpack"
+    },
+    "dualaxes-21.1.3.jar": {
+        "nomeNoRelease": "dualaxes-21.1.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dualaxes-21.1.3.jar",
+        "tamanho": 583624,
+        "md5": "bf4e83628f7a2d45d10b146e799fee11",
+        "release": "modpack"
+    },
+    "dualgreatswords-21.1.1.jar": {
+        "nomeNoRelease": "dualgreatswords-21.1.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dualgreatswords-21.1.1.jar",
+        "tamanho": 165865,
+        "md5": "7f4f1e433f786550c3f886656fb5d974",
+        "release": "modpack"
+    },
+    "dummmmmmy-1.21-2.1.2-neoforge.jar": {
+        "nomeNoRelease": "dummmmmmy-1.21-2.1.2-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dummmmmmy-1.21-2.1.2-neoforge.jar",
+        "tamanho": 215883,
+        "md5": "048ed61a907a4dd6ab2255e8fadb4c91",
+        "release": "modpack"
+    },
+    "dungeons-and-taverns-v4.4.4 [NeoForge].jar": {
+        "nomeNoRelease": "dungeons-and-taverns-v4.4.4.NeoForge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dungeons-and-taverns-v4.4.4.NeoForge.jar",
+        "tamanho": 24859622,
+        "md5": "8360a41ea1d5ee450c9018a693f0e6f3",
+        "release": "modpack"
+    },
+    "dungeons_and_combat-1.2.4-1.21.1.jar": {
+        "nomeNoRelease": "dungeons_and_combat-1.2.4-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dungeons_and_combat-1.2.4-1.21.1.jar",
+        "tamanho": 12739856,
+        "md5": "9042b2207c769f1bb9b2cec406d704d5",
+        "release": "modpack"
+    },
+    "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar": {
+        "nomeNoRelease": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dynamic-fps-3.11.4%2Bminecraft-1.21.0-neoforge.jar",
+        "tamanho": 220193,
+        "md5": "e5ef3e5d37eedad79cf44897229fd8f2",
+        "release": "modpack"
+    },
+    "dynamic_difficulty-neoforge-1.1.1+1.21.1.jar": {
+        "nomeNoRelease": "dynamic_difficulty-neoforge-1.1.1+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/dynamic_difficulty-neoforge-1.1.1%2B1.21.1.jar",
+        "tamanho": 347777,
+        "md5": "86ab2ff64b77cf0ccbbb071b38ae3d04",
+        "release": "modpack"
+    },
+    "edm-26.5.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "edm-26.5.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/edm-26.5.0-neoforge-1.21.1.jar",
+        "tamanho": 775519,
+        "md5": "ae15c0891c5985d25d8830290d2ef0a2",
+        "release": "modpack"
+    },
+    "efiscompat-3.1.0.jar": {
+        "nomeNoRelease": "efiscompat-3.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efiscompat-3.1.0.jar",
+        "tamanho": 310011,
+        "md5": "30dddbe2361aa27682099d9d89087ac0",
+        "release": "modpack"
+    },
+    "efn_enhance-1.1.5-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "efn_enhance-1.1.5-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efn_enhance-1.1.5-neoforge-1.21.1.jar",
+        "tamanho": 7584349,
+        "md5": "6243fec70f918f2b5008bfe7cabe5b70",
+        "release": "modpack"
+    },
+    "efprogressivediff-1.2.2.jar": {
+        "nomeNoRelease": "efprogressivediff-1.2.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efprogressivediff-1.2.2.jar",
+        "tamanho": 49686,
+        "md5": "4659cb28623899ae86d0d3de72eda8a0",
+        "release": "modpack"
+    },
+    "elevatorid-neoforge-1.21.1-1.11.4.jar": {
+        "nomeNoRelease": "elevatorid-neoforge-1.21.1-1.11.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/elevatorid-neoforge-1.21.1-1.11.4.jar",
+        "tamanho": 191190,
+        "md5": "19bc20ef8725cd617646e6bc8d8fe13c",
+        "release": "modpack"
+    },
+    "emi-1.1.24+1.21.1+neoforge.jar": {
+        "nomeNoRelease": "emi-1.1.24+1.21.1+neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emi-1.1.24%2B1.21.1%2Bneoforge.jar",
+        "tamanho": 1111538,
+        "md5": "e4aede758ec7c675d2255234df7ed4ff",
+        "release": "modpack"
+    },
+    "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar": {
+        "nomeNoRelease": "emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emotecraft-for-MC1.21.1-2.4.12-neoforge.jar",
+        "tamanho": 861829,
+        "md5": "c4840725c74865e2ba95807396c66a4f",
+        "release": "modpack"
+    },
+    "enchdesc-neoforge-1.21.1-21.1.10.jar": {
+        "nomeNoRelease": "enchdesc-neoforge-1.21.1-21.1.10.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enchdesc-neoforge-1.21.1-21.1.10.jar",
+        "tamanho": 82629,
+        "md5": "40e73c52fe6d63eafe099e3bb042ad8d",
+        "release": "modpack"
+    },
+    "enchsort-1.21.1-2.2.2-all.jar": {
+        "nomeNoRelease": "enchsort-1.21.1-2.2.2-all.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enchsort-1.21.1-2.2.2-all.jar",
+        "tamanho": 111127,
+        "md5": "50648af13ea68764023cdaceab82562f",
+        "release": "modpack"
+    },
+    "enemyexpansion-2.2.0-1.21.1-optimized.jar": {
+        "nomeNoRelease": "enemyexpansion-2.2.0-1.21.1-optimized.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/enemyexpansion-2.2.0-1.21.1-optimized.jar",
+        "tamanho": 957959,
+        "md5": "2f3cea87b10538847eef6fe71e565669",
+        "release": "modpack"
+    },
+    "entity_model_features-3.2.4-1.21-neoforge.jar": {
+        "nomeNoRelease": "entity_model_features-3.2.4-1.21-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/entity_model_features-3.2.4-1.21-neoforge.jar",
+        "tamanho": 567827,
+        "md5": "b7f1c8a4f16281fa69b9e09e8154544b",
+        "release": "modpack"
+    },
+    "entity_texture_features_1.21-neoforge-7.1.jar": {
+        "nomeNoRelease": "entity_texture_features_1.21-neoforge-7.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/entity_texture_features_1.21-neoforge-7.1.jar",
+        "tamanho": 752334,
+        "md5": "07c98cc3e76f514eee3adee43d05dae9",
+        "release": "modpack"
+    },
+    "entityculling-neoforge-1.10.5-mc1.21.1.jar": {
+        "nomeNoRelease": "entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/entityculling-neoforge-1.10.5-mc1.21.1.jar",
+        "tamanho": 1585287,
+        "md5": "efb6e5638cd09578c0aaaa396c9bfa84",
+        "release": "modpack"
+    },
+    "epic x parcool-neoforge-21.0.0-1.21.1.jar": {
+        "nomeNoRelease": "epic.x.parcool-neoforge-21.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic.x.parcool-neoforge-21.0.0-1.21.1.jar",
+        "tamanho": 387088,
+        "md5": "676915bb0949b7a67eb3e1b619d76453",
+        "release": "modpack"
+    },
+    "epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2.jar": {
+        "nomeNoRelease": "epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic-fight-21.17.3.1-mc1.21.1-neoforge-xenthor2.jar",
+        "tamanho": 8629985,
+        "md5": "7421d7e639bae8d2734df59b32c90ef3",
+        "release": "modpack"
+    },
+    "epic_fight_avalon-21.17.6.4-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epic_fight_avalon-21.17.6.4-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic_fight_avalon-21.17.6.4-neoforge-1.21.1.jar",
+        "tamanho": 668210,
+        "md5": "db0d3c9c8a457405e059c806cedec537",
+        "release": "modpack"
+    },
+    "epic_mobs-1.4.95-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epic_mobs-1.4.95-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epic_mobs-1.4.95-neoforge-1.21.1.jar",
+        "tamanho": 64080911,
+        "md5": "04b05ba8d36811400462033c3a2a5b43",
+        "release": "modpack"
+    },
+    "epicarsenal-1.0.2-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epicarsenal-1.0.2-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicarsenal-1.0.2-neoforge-1.21.1.jar",
+        "tamanho": 10815276,
+        "md5": "d0caa85b9634d18a93841acc5e746aa7",
+        "release": "modpack"
+    },
+    "epicfight-extra-21.17-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epicfight-extra-21.17-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-extra-21.17-neoforge-1.21.1.jar",
+        "tamanho": 23188981,
+        "md5": "4dc3ee3a95a60accbb85c147ac9d0ba1",
+        "release": "modpack"
+    },
+    "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-nightfall-3.4.0-neoforge-1.21.1.jar",
+        "tamanho": 51621004,
+        "md5": "27ec78fd601151a6c03c954172fa2c8e",
+        "release": "modpack"
+    },
+    "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar": {
+        "nomeNoRelease": "epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfight-skilltree-neoforge-21.3.3-1.21.1.jar",
+        "tamanho": 321495,
+        "md5": "fed2e36a11442dea26ebe46d3d165013",
+        "release": "modpack"
+    },
+    "epicfightcompat-1.1.0-mc1.21.1-neoforge.jar": {
+        "nomeNoRelease": "epicfightcompat-1.1.0-mc1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/epicfightcompat-1.1.0-mc1.21.1-neoforge.jar",
+        "tamanho": 174506,
+        "md5": "61f009992ee74e9d9bd6081b09c896e3",
+        "release": "modpack"
+    },
+    "eternalstarlight-0.9.0+1.21.1+neoforge.jar": {
+        "nomeNoRelease": "eternalstarlight-0.9.0+1.21.1+neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/eternalstarlight-0.9.0%2B1.21.1%2Bneoforge.jar",
+        "tamanho": 53135932,
+        "md5": "83189b5644612d75385ee10c9811ec43",
+        "release": "modpack"
+    },
+    "exposure-neoforge-1.21.1-1.9.18.jar": {
+        "nomeNoRelease": "exposure-neoforge-1.21.1-1.9.18.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/exposure-neoforge-1.21.1-1.9.18.jar",
+        "tamanho": 2192415,
+        "md5": "e927ea94d0dc436bd21dd86420eacc40",
+        "release": "modpack"
+    },
+    "extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar": {
+        "nomeNoRelease": "extra-mod-integrations-all-neoforge-1.0.3+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/extra-mod-integrations-all-neoforge-1.0.3%2B1.21.1.jar",
+        "tamanho": 316330,
+        "md5": "6fd4c0171f144d797b5107d1592cd4b1",
+        "release": "modpack"
+    },
+    "familiarslib-1.21.1-1.7.1.jar": {
+        "nomeNoRelease": "familiarslib-1.21.1-1.7.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/familiarslib-1.21.1-1.7.1.jar",
+        "tamanho": 341186,
+        "md5": "cc5f4c0a9dca066646e5b7a8f9bd187d",
+        "release": "modpack"
+    },
+    "fantasy_armor-neoforge-1.2.4-1.21.1.jar": {
+        "nomeNoRelease": "fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fantasy_armor-neoforge-1.2.4-1.21.1.jar",
+        "tamanho": 537069,
+        "md5": "acf582f40b93bcff695c62e72121ee70",
+        "release": "modpack"
+    },
+    "fastleafdecay-35.jar": {
+        "nomeNoRelease": "fastleafdecay-35.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fastleafdecay-35.jar",
+        "tamanho": 9511,
+        "md5": "97223075d6407a012024fd7e3c48e5e8",
+        "release": "modpack"
+    },
+    "fastpaintings-1.21-1.3.0-neoforge.jar": {
+        "nomeNoRelease": "fastpaintings-1.21-1.3.0-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fastpaintings-1.21-1.3.0-neoforge.jar",
+        "tamanho": 155810,
+        "md5": "1f646cbc26d3e2a46dfc2807f2bedf79",
+        "release": "modpack"
+    },
+    "fdbosses-3.2-1.21.1.jar": {
+        "nomeNoRelease": "fdbosses-3.2-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fdbosses-3.2-1.21.1.jar",
+        "tamanho": 25979434,
+        "md5": "7ba83ba4c67a055cf97ae00584787875",
+        "release": "modpack"
+    },
+    "fdlib-1.0.9-1.21.1.jar": {
+        "nomeNoRelease": "fdlib-1.0.9-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fdlib-1.0.9-1.21.1.jar",
+        "tamanho": 973335,
+        "md5": "f854cc69a7c6a240f5326c9fefa583c5",
+        "release": "modpack"
+    },
+    "ferritecore-7.0.3-neoforge.jar": {
+        "nomeNoRelease": "ferritecore-7.0.3-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ferritecore-7.0.3-neoforge.jar",
+        "tamanho": 121559,
+        "md5": "e0374dac41d6c641903f9e241911e1d3",
+        "release": "modpack"
+    },
+    "fetzisasiandeco-neoforge-1.8.2-1.21.jar": {
+        "nomeNoRelease": "fetzisasiandeco-neoforge-1.8.2-1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fetzisasiandeco-neoforge-1.8.2-1.21.jar",
+        "tamanho": 19961510,
+        "md5": "1e58f6c81bf09678509fd0c0029c30aa",
+        "release": "modpack"
+    },
+    "firesenderexpansion-2.4.1.jar": {
+        "nomeNoRelease": "firesenderexpansion-2.4.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/firesenderexpansion-2.4.1.jar",
+        "tamanho": 2442013,
+        "md5": "ae22d804bdef60a9c194a016d6f4600f",
+        "release": "modpack"
+    },
+    "fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fnaf_plushie_remastered-1.0.0-neoforge-1.21.1.jar",
+        "tamanho": 2919291,
+        "md5": "1b6374cc0a8f5d716270450f82c6a8ae",
+        "release": "modpack"
+    },
+    "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar": {
+        "nomeNoRelease": "forgified-fabric-api-0.116.15+2.3.5+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/forgified-fabric-api-0.116.15%2B2.3.5%2B1.21.1.jar",
+        "tamanho": 5613421,
+        "md5": "52c80dfbeee55cbb7ecd244710088dd8",
+        "release": "modpack"
+    },
+    "fragmentum-neoforge-1.21.1-2.2.4.jar": {
+        "nomeNoRelease": "fragmentum-neoforge-1.21.1-2.2.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fragmentum-neoforge-1.21.1-2.2.4.jar",
+        "tamanho": 1936521,
+        "md5": "51d682f632989515e40610659ee172b0",
+        "release": "modpack"
+    },
+    "framework-neoforge-1.21.1-0.13.11.jar": {
+        "nomeNoRelease": "framework-neoforge-1.21.1-0.13.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/framework-neoforge-1.21.1-0.13.11.jar",
+        "tamanho": 387334,
+        "md5": "06f94f31d9e0b59c8b42a5b0df7013d6",
+        "release": "modpack"
+    },
+    "ftb-library-neoforge-2101.1.36.jar": {
+        "nomeNoRelease": "ftb-library-neoforge-2101.1.36.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ftb-library-neoforge-2101.1.36.jar",
+        "tamanho": 1439427,
+        "md5": "69ebc0ddc837a23c2ca76bd8cc490937",
+        "release": "modpack"
+    },
+    "ftb-quests-neoforge-2101.1.36.jar": {
+        "nomeNoRelease": "ftb-quests-neoforge-2101.1.36.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ftb-quests-neoforge-2101.1.36.jar",
+        "tamanho": 1609984,
+        "md5": "90798f934aec638e97c595947838f843",
+        "release": "modpack"
+    },
+    "ftb-teams-neoforge-2101.1.11.jar": {
+        "nomeNoRelease": "ftb-teams-neoforge-2101.1.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ftb-teams-neoforge-2101.1.11.jar",
+        "tamanho": 308236,
+        "md5": "ee780bb9fe724f6d1af97547bdab8bff",
+        "release": "modpack"
+    },
+    "fusion-1.3.9-neoforge-mc1.21.1.jar": {
+        "nomeNoRelease": "fusion-1.3.9-neoforge-mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fusion-1.3.9-neoforge-mc1.21.1.jar",
+        "tamanho": 920134,
+        "md5": "66f0950126d20cbad0607342fb0698c2",
+        "release": "modpack"
+    },
+    "fzzy_config-0.7.6+1.21+neoforge.jar": {
+        "nomeNoRelease": "fzzy_config-0.7.6+1.21+neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/fzzy_config-0.7.6%2B1.21%2Bneoforge.jar",
+        "tamanho": 2369895,
+        "md5": "cd0823556e6d24046bd0f4ba74cd4981",
+        "release": "modpack"
+    },
+    "gamediscs-0.3.2-neoforge.jar": {
+        "nomeNoRelease": "gamediscs-0.3.2-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/gamediscs-0.3.2-neoforge.jar",
+        "tamanho": 238391,
+        "md5": "1bb2d0f4ad85b986e422bbf30ff552db",
+        "release": "modpack"
+    },
+    "gametechbcs_spellbooks-3.0.0-1.21.1.jar": {
+        "nomeNoRelease": "gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/gametechbcs_spellbooks-3.0.0-1.21.1.jar",
+        "tamanho": 1689146,
+        "md5": "fd54dbb5bf050cfdb52d423b4c663a1a",
+        "release": "modpack"
+    },
+    "geckolib-neoforge-1.21.1-4.9.2.jar": {
+        "nomeNoRelease": "geckolib-neoforge-1.21.1-4.9.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/geckolib-neoforge-1.21.1-4.9.2.jar",
+        "tamanho": 630584,
+        "md5": "5cf29155ad6071b5dcba2ea24cd27350",
+        "release": "modpack"
+    },
+    "getittogetherdrops-neoforge-1.21.5-1.4.jar": {
+        "nomeNoRelease": "getittogetherdrops-neoforge-1.21.5-1.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/getittogetherdrops-neoforge-1.21.5-1.4.jar",
+        "tamanho": 8825,
+        "md5": "c0259885d0d200894ce449fc95a1b63b",
+        "release": "modpack"
+    },
+    "goety-3.1.5.jar": {
+        "nomeNoRelease": "goety-3.1.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/goety-3.1.5.jar",
+        "tamanho": 79813008,
+        "md5": "3d64dc3cf0411eb2dccbae2bd05ba3c5",
+        "release": "modpack"
+    },
+    "gtbcs_geomancy_plus-1.1.0-1.21.1.jar": {
+        "nomeNoRelease": "gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/gtbcs_geomancy_plus-1.1.0-1.21.1.jar",
+        "tamanho": 475333,
+        "md5": "b1b453497d068fbce5d9210d7d556158",
+        "release": "modpack"
+    },
+    "gtbcs_spell_lib-2.0.0-1.21.1.jar": {
+        "nomeNoRelease": "gtbcs_spell_lib-2.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/gtbcs_spell_lib-2.0.0-1.21.1.jar",
+        "tamanho": 305516,
+        "md5": "2b07b1907191d4f90f63c50d5fc47b09",
+        "release": "modpack"
+    },
+    "handcrafted-neoforge-1.21.1-4.0.3.jar": {
+        "nomeNoRelease": "handcrafted-neoforge-1.21.1-4.0.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/handcrafted-neoforge-1.21.1-4.0.3.jar",
+        "tamanho": 7132842,
+        "md5": "0f875f5741a6fad6f1c4f6fdbe5f538b",
+        "release": "modpack"
+    },
+    "hazennstuff-1.4.0.14.jar": {
+        "nomeNoRelease": "hazennstuff-1.4.0.14.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/hazennstuff-1.4.0.14.jar",
+        "tamanho": 7921289,
+        "md5": "4bc94e3e40cf3fb30afadd65830f3e5f",
+        "release": "modpack"
+    },
+    "hazentouvelib-1.0.9.jar": {
+        "nomeNoRelease": "hazentouvelib-1.0.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/hazentouvelib-1.0.9.jar",
+        "tamanho": 559849,
+        "md5": "45e751fa30765fc9db1234375f21383b",
+        "release": "modpack"
+    },
+    "heartstone-1.21.1-1.4.1-neoforge.jar": {
+        "nomeNoRelease": "heartstone-1.21.1-1.4.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/heartstone-1.21.1-1.4.1-neoforge.jar",
+        "tamanho": 101164,
+        "md5": "dffb12c3415c7637963f04d8de29f479",
+        "release": "modpack"
+    },
+    "hexerei-0.5.0.3.jar": {
+        "nomeNoRelease": "hexerei-0.5.0.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/hexerei-0.5.0.3.jar",
+        "tamanho": 10428010,
+        "md5": "1ca9c3dd8e61b5321795d4e23948048c",
+        "release": "modpack"
+    },
+    "horror_element_mod-1.6.2-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "horror_element_mod-1.6.2-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/horror_element_mod-1.6.2-neoforge-1.21.1.jar",
+        "tamanho": 21138327,
+        "md5": "488cea525af43e9f542a847d7b91950d",
+        "release": "modpack"
+    },
+    "immersive_melodies-neoforge-0.8.0+1.21.1.jar": {
+        "nomeNoRelease": "immersive_melodies-neoforge-0.8.0+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/immersive_melodies-neoforge-0.8.0%2B1.21.1.jar",
+        "tamanho": 5565133,
+        "md5": "d392be5e7b9724eec304712b0af09e15",
+        "release": "modpack"
+    },
+    "immersive_paintings-neoforge-1.21.1-0.7.9.jar": {
+        "nomeNoRelease": "immersive_paintings-neoforge-1.21.1-0.7.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/immersive_paintings-neoforge-1.21.1-0.7.9.jar",
+        "tamanho": 5506376,
+        "md5": "ff331216bf0e55f8d9fa683fb6eaab77",
+        "release": "modpack"
+    },
+    "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar": {
+        "nomeNoRelease": "immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/immersivedamageindicators-neoforge-1.0.0-1.21.1.jar",
+        "tamanho": 247052,
+        "md5": "4346280ba28fd08394d65cbd16e94d12",
+        "release": "modpack"
+    },
+    "immersivemessages-neoforge-1.0.18-1.21.1.jar": {
+        "nomeNoRelease": "immersivemessages-neoforge-1.0.18-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/immersivemessages-neoforge-1.0.18-1.21.1.jar",
+        "tamanho": 1278637,
+        "md5": "5bb595b688023cef99be1066f8b1ec83",
+        "release": "modpack"
+    },
+    "impactful-21.16.2+-neoforge1.21.1.jar": {
+        "nomeNoRelease": "impactful-21.16.2+-neoforge1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/impactful-21.16.2%2B-neoforge1.21.1.jar",
+        "tamanho": 69716,
+        "md5": "a4bedfa73a20964bb38f867c1c0bf2ab",
+        "release": "modpack"
+    },
+    "indestructible-21.17.0-1.21.1.jar": {
+        "nomeNoRelease": "indestructible-21.17.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/indestructible-21.17.0-1.21.1.jar",
+        "tamanho": 273972,
+        "md5": "7e418a208f3aa378b5c0a40ab69b7346",
+        "release": "modpack"
+    },
+    "inv_view-4.2.0-neoforge+1.21.1.jar": {
+        "nomeNoRelease": "inv_view-4.2.0-neoforge+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/inv_view-4.2.0-neoforge%2B1.21.1.jar",
+        "tamanho": 50872,
+        "md5": "35005a6a3963bb057b5a4736271b4059",
+        "release": "modpack"
+    },
+    "inventoryessentials-neoforge-1.21.1-21.1.17.jar": {
+        "nomeNoRelease": "inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/inventoryessentials-neoforge-1.21.1-21.1.17.jar",
+        "tamanho": 200251,
+        "md5": "fc0d837881d75a73796d67ed37e398ec",
+        "release": "modpack"
+    },
+    "invincible-local-21.15.8.2.jar": {
+        "nomeNoRelease": "invincible-local-21.15.8.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/invincible-local-21.15.8.2.jar",
+        "tamanho": 245865,
+        "md5": "7baceaa0effd4d309d3acbded4773b68",
+        "release": "modpack"
+    },
+    "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar": {
+        "nomeNoRelease": "iris-neoforge-1.8.14-beta.1+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/iris-neoforge-1.8.14-beta.1%2Bmc1.21.1.jar",
+        "tamanho": 2540723,
+        "md5": "6b68276a6718656ec476cfac69dfe013",
+        "release": "modpack"
+    },
+    "irons_lib-1.21.1-2.1.0.jar": {
+        "nomeNoRelease": "irons_lib-1.21.1-2.1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/irons_lib-1.21.1-2.1.0.jar",
+        "tamanho": 406284,
+        "md5": "5ac685e3e5ce76a9c80d0e865769bd60",
+        "release": "modpack"
+    },
+    "irons_spellbooks-1.21.1-3.16.3.jar": {
+        "nomeNoRelease": "irons_spellbooks-1.21.1-3.16.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/irons_spellbooks-1.21.1-3.16.3.jar",
+        "tamanho": 13890046,
+        "md5": "6acfdbb1557d9ecbf71d0730090d51e4",
+        "release": "modpack"
+    },
+    "ironsattributes-1.21.1-NeoForge-1.2.0.jar": {
+        "nomeNoRelease": "ironsattributes-1.21.1-NeoForge-1.2.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ironsattributes-1.21.1-NeoForge-1.2.0.jar",
+        "tamanho": 18134,
+        "md5": "e742e8fc61a9c945ef13047529d8951c",
+        "release": "modpack"
+    },
+    "jamlib-neoforge-1.3.6+1.21.1.jar": {
+        "nomeNoRelease": "jamlib-neoforge-1.3.6+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/jamlib-neoforge-1.3.6%2B1.21.1.jar",
+        "tamanho": 188553,
+        "md5": "87ad4d47e5c266e20e2076ad5933d0cc",
+        "release": "modpack"
+    },
+    "jmi-neoforge-1.21.1-1.9.jar": {
+        "nomeNoRelease": "jmi-neoforge-1.21.1-1.9.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/jmi-neoforge-1.21.1-1.9.jar",
+        "tamanho": 100241,
+        "md5": "eb21831b1d81af97868ee330713adb5e",
+        "release": "modpack"
+    },
+    "journeymap-neoforge-1.21.1-6.0.8.jar": {
+        "nomeNoRelease": "journeymap-neoforge-1.21.1-6.0.8.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/journeymap-neoforge-1.21.1-6.0.8.jar",
+        "tamanho": 4303084,
+        "md5": "34324289aa44a915f794579951e64e44",
+        "release": "modpack"
+    },
+    "justzoom_neoforge_2.1.0_MC_1.21.1.jar": {
+        "nomeNoRelease": "justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/justzoom_neoforge_2.1.0_MC_1.21.1.jar",
+        "tamanho": 43798,
+        "md5": "3c28fc81aa5a9be514905e6c88e02d6d",
+        "release": "modpack"
+    },
+    "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar": {
+        "nomeNoRelease": "kaleidoscopecookery-1.6.0-neoforge+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopecookery-1.6.0-neoforge%2Bmc1.21.1.jar",
+        "tamanho": 3496661,
+        "md5": "a01c3d2872f12f8a4b020bfd66affac3",
+        "release": "modpack"
+    },
+    "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar": {
+        "nomeNoRelease": "kaleidoscopetavern-1.2.0-neoforge+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kaleidoscopetavern-1.2.0-neoforge%2Bmc1.21.1.jar",
+        "tamanho": 1708047,
+        "md5": "35c1224358390f52abd619ff08e68f3a",
+        "release": "modpack"
+    },
+    "killcam-1.0.3-neoforge1.21.1-local.2.jar": {
+        "nomeNoRelease": "killcam-1.0.3-neoforge1.21.1-local.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/killcam-1.0.3-neoforge1.21.1-local.2.jar",
+        "tamanho": 146614,
+        "md5": "0ea1e38a1939e44b605b3e027e3d4b19",
+        "release": "modpack"
+    },
+    "konkrete_neoforge_1.9.9_MC_1.21.jar": {
+        "nomeNoRelease": "konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/konkrete_neoforge_1.9.9_MC_1.21.jar",
+        "tamanho": 618842,
+        "md5": "6e77d08299ea1ec7756a299263bc469b",
+        "release": "modpack"
+    },
+    "kotlinforforge-5.12.0-all.jar": {
+        "nomeNoRelease": "kotlinforforge-5.12.0-all.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kotlinforforge-5.12.0-all.jar",
+        "tamanho": 7279276,
+        "md5": "93db4ba2044a6667d7d1e3f592d63dbd",
+        "release": "modpack"
+    },
+    "kubejs-neoforge-2101.7.2-build.377.jar": {
+        "nomeNoRelease": "kubejs-neoforge-2101.7.2-build.377.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/kubejs-neoforge-2101.7.2-build.377.jar",
+        "tamanho": 2294111,
+        "md5": "95e68543f4be46edc6d2cac8a9a4cfd3",
+        "release": "modpack"
+    },
+    "legendary_monsters-2.2.3 MC 1.21.1.jar": {
+        "nomeNoRelease": "legendary_monsters-2.2.3.MC.1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/legendary_monsters-2.2.3.MC.1.21.1.jar",
+        "tamanho": 44748618,
+        "md5": "81d9d09b11e0c46b1f8e97bc206e3fca",
+        "release": "modpack"
+    },
+    "letsdo-vinery-neoforge-1.5.3.jar": {
+        "nomeNoRelease": "letsdo-vinery-neoforge-1.5.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/letsdo-vinery-neoforge-1.5.3.jar",
+        "tamanho": 2001616,
+        "md5": "a669653659a18677eb240353a0a135ab",
+        "release": "modpack"
+    },
+    "libraryferret-neoforge-1.21.1-4.0.0.jar": {
+        "nomeNoRelease": "libraryferret-neoforge-1.21.1-4.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/libraryferret-neoforge-1.21.1-4.0.0.jar",
+        "tamanho": 139416,
+        "md5": "bf40dfc2ea22d606a9caf2953f299cc9",
+        "release": "modpack"
+    },
+    "lightmanscurrency-1.21-2.3.0.5-semmoedas.jar": {
+        "nomeNoRelease": "lightmanscurrency-1.21-2.3.0.5-semmoedas.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lightmanscurrency-1.21-2.3.0.5-semmoedas.jar",
+        "tamanho": 8087563,
+        "md5": "77c286bac3ade905efbbfd70bfe9e1d2",
+        "release": "modpack"
+    },
+    "lionfishapi-3.1.jar": {
+        "nomeNoRelease": "lionfishapi-3.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lionfishapi-3.1.jar",
+        "tamanho": 91596,
+        "md5": "6103fe4848d0f8289431a0b307efc444",
+        "release": "modpack"
+    },
+    "lithium-neoforge-0.15.4+mc1.21.1.jar": {
+        "nomeNoRelease": "lithium-neoforge-0.15.4+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lithium-neoforge-0.15.4%2Bmc1.21.1.jar",
+        "tamanho": 774220,
+        "md5": "969860e6a6ebe4dc2e2154b56f05483e",
+        "release": "modpack"
+    },
+    "lmft-1.1.1+1.21.9-neoforge.jar": {
+        "nomeNoRelease": "lmft-1.1.1+1.21.9-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lmft-1.1.1%2B1.21.9-neoforge.jar",
+        "tamanho": 78624,
+        "md5": "bbce0f41ed77cdec33fe68dd05c1ceff",
+        "release": "modpack"
+    },
+    "lootintegrations-1.21.1-4.7.jar": {
+        "nomeNoRelease": "lootintegrations-1.21.1-4.7.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lootintegrations-1.21.1-4.7.jar",
+        "tamanho": 36966,
+        "md5": "de033387fe1955841bea50360aec0315",
+        "release": "modpack"
+    },
+    "lootr-neoforge-1.21.1-1.11.37.122.jar": {
+        "nomeNoRelease": "lootr-neoforge-1.21.1-1.11.37.122.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lootr-neoforge-1.21.1-1.11.37.122.jar",
+        "tamanho": 992330,
+        "md5": "76b4910df228cf0253357bee0d0792a4",
+        "release": "modpack"
+    },
+    "lucky-block-1.21.1-13.0-STRUCTS-NO-WORLDGEN.jar": {
+        "nomeNoRelease": "lucky-block-1.21.1-13.0-STRUCTS-NO-WORLDGEN.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/lucky-block-1.21.1-13.0-STRUCTS-NO-WORLDGEN.jar",
+        "tamanho": 463274,
+        "md5": "f6373bf73b8d350b98fe189bd5431dd8",
+        "release": "modpack"
+    },
+    "mcw-doors-1.1.5-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-doors-1.1.5-mc1.21.1neoforge.jar",
+        "tamanho": 1190404,
+        "md5": "af8ff4803b80715eb3eeb9bc77d704cf",
+        "release": "modpack"
+    },
+    "mcw-furniture-3.4.1-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-furniture-3.4.1-mc1.21.1neoforge.jar",
+        "tamanho": 2080436,
+        "md5": "bef925460c964754872b28a13b2e2a74",
+        "release": "modpack"
+    },
+    "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-mcwfences-1.2.1-mc1.21.1neoforge.jar",
+        "tamanho": 673871,
+        "md5": "7fe97d3a691052ec301fcd538000577c",
+        "release": "modpack"
+    },
+    "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-mcwwindows-2.4.2-mc1.21.1neoforge.jar",
+        "tamanho": 1261268,
+        "md5": "fb18ea4529ea3670eb5e621ab900ced7",
+        "release": "modpack"
+    },
+    "mcw-roofs-2.3.2-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-roofs-2.3.2-mc1.21.1neoforge.jar",
+        "tamanho": 1784829,
+        "md5": "9f72bf86f91b80effe1baefb5858926b",
+        "release": "modpack"
+    },
+    "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar": {
+        "nomeNoRelease": "mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mcw-trapdoors-1.1.5-mc1.21.1neoforge.jar",
+        "tamanho": 572870,
+        "md5": "e7262c5ffe9d64ddd42052db09bc86ad",
+        "release": "modpack"
+    },
+    "meb_cataclysm-21.17-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "meb_cataclysm-21.17-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/meb_cataclysm-21.17-neoforge-1.21.1.jar",
+        "tamanho": 1733384,
+        "md5": "14197d3ec6a401d2e82a9b7bb5acc4d5",
+        "release": "modpack"
+    },
+    "meed-1.21.1-8.0.2.jar": {
+        "nomeNoRelease": "meed-1.21.1-8.0.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/meed-1.21.1-8.0.2.jar",
+        "tamanho": 96482,
+        "md5": "655f6303beecf9a343672bfcbfe58f2f",
+        "release": "modpack"
+    },
+    "mimimod-1.21.1-4.3.0-neo.jar": {
+        "nomeNoRelease": "mimimod-1.21.1-4.3.0-neo.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mimimod-1.21.1-4.3.0-neo.jar",
+        "tamanho": 5885739,
+        "md5": "67abe06b79b82fee8d213c5f25c74adb",
+        "release": "modpack"
+    },
+    "mixintracereforged-neoforge-1.0.0-1.21.1.jar": {
+        "nomeNoRelease": "mixintracereforged-neoforge-1.0.0-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mixintracereforged-neoforge-1.0.0-1.21.1.jar",
+        "tamanho": 91404,
+        "md5": "94a8e5e57899e044577d00f6aaa419b8",
+        "release": "modpack"
+    },
+    "modelfix-1.21-1.10.jar": {
+        "nomeNoRelease": "modelfix-1.21-1.10.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/modelfix-1.21-1.10.jar",
+        "tamanho": 47035,
+        "md5": "a1acc6b33742012829d9b1de1ff4a7e7",
+        "release": "modpack"
+    },
+    "modernfix-neoforge-5.27.24+mc1.21.1.jar": {
+        "nomeNoRelease": "modernfix-neoforge-5.27.24+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/modernfix-neoforge-5.27.24%2Bmc1.21.1.jar",
+        "tamanho": 604333,
+        "md5": "fc329974db57c6ec176b5a8b51899b3a",
+        "release": "modpack"
+    },
+    "monsterspellbooks-0.0.16.3.jar": {
+        "nomeNoRelease": "monsterspellbooks-0.0.16.3.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/monsterspellbooks-0.0.16.3.jar",
+        "tamanho": 3738781,
+        "md5": "4d812b5a596d40a950277d90ba5bf72d",
+        "release": "modpack"
+    },
+    "moonlight-1.21.1-3.5.2-neoforge.jar": {
+        "nomeNoRelease": "moonlight-1.21.1-3.5.2-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/moonlight-1.21.1-3.5.2-neoforge.jar",
+        "tamanho": 2201061,
+        "md5": "6f84449a0cef44b70a51bee9f77e5c67",
+        "release": "modpack"
+    },
+    "mowziesmobs-1.21.1-1.8.2.jar": {
+        "nomeNoRelease": "mowziesmobs-1.21.1-1.8.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mowziesmobs-1.21.1-1.8.2.jar",
+        "tamanho": 36042925,
+        "md5": "5ca87731e5c0b4834a4a2e9a435a5cac",
+        "release": "modpack"
+    },
+    "mru-1.0.31+1.21.1-neoforge.jar": {
+        "nomeNoRelease": "mru-1.0.31+1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mru-1.0.31%2B1.21.1-neoforge.jar",
+        "tamanho": 119143,
+        "md5": "b0aa4f8f7cac5a7e6dc59b96e12ca2a4",
+        "release": "modpack"
+    },
+    "mythsandlegends-1.0.5.jar": {
+        "nomeNoRelease": "mythsandlegends-1.0.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/mythsandlegends-1.0.5.jar",
+        "tamanho": 28647225,
+        "md5": "71710ed874024d4290183df37965ceae",
+        "release": "modpack"
+    },
+    "nenus_pop_plushies-2.9.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "nenus_pop_plushies-2.9.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/nenus_pop_plushies-2.9.0-neoforge-1.21.1.jar",
+        "tamanho": 3010291,
+        "md5": "27005e9b11cc62470f0fb025d8a5a2bc",
+        "release": "modpack"
+    },
+    "nightfall_invade-1.3.2-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "nightfall_invade-1.3.2-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/nightfall_invade-1.3.2-neoforge-1.21.1.jar",
+        "tamanho": 13264372,
+        "md5": "1ce139508b5cd9662bdbc83856884835",
+        "release": "modpack"
+    },
+    "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar": {
+        "nomeNoRelease": "noisium-neoforge-2.3.0+mc1.21-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/noisium-neoforge-2.3.0%2Bmc1.21-1.21.1.jar",
+        "tamanho": 60296,
+        "md5": "caaf072f2e2c6261b37b8359ef8631b1",
+        "release": "modpack"
+    },
+    "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar": {
+        "nomeNoRelease": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/owo-lib-neoforge-0.12.15.5-beta.1%2B1.21.jar",
+        "tamanho": 1221583,
+        "md5": "4c8323c3d0493f7e82a2287e5ca9df7f",
+        "release": "modpack"
+    },
+    "p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar": {
+        "nomeNoRelease": "p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/p1nero_bow-neoforge1.21.1-21.16.1.0-neoforge.jar",
+        "tamanho": 930658,
+        "md5": "2a5e61d1263f458e30f6205780aa7e4d",
+        "release": "modpack"
+    },
+    "p1nero_ec-21.17-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "p1nero_ec-21.17-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/p1nero_ec-21.17-neoforge-1.21.1.jar",
+        "tamanho": 16102973,
+        "md5": "99a697394043722ff8c53cc388548de0",
+        "release": "modpack"
+    },
+    "packforge-neoforge-1.3.4-beta.2-mc1.21.1.jar": {
+        "nomeNoRelease": "packforge-neoforge-1.3.4-beta.2-mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/packforge-neoforge-1.3.4-beta.2-mc1.21.1.jar",
+        "tamanho": 1384276,
+        "md5": "7c4a5680ac89713b8c7bec5df7272122",
+        "release": "modpack"
+    },
+    "player-animation-lib-forge-2.0.4+1.21.1.jar": {
+        "nomeNoRelease": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
+        "tamanho": 203149,
+        "md5": "ecb81c9479605db12a77bea774b88406",
+        "release": "modpack"
+    },
+    "pollyspets-0.0.1.jar": {
+        "nomeNoRelease": "pollyspets-0.0.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/pollyspets-0.0.1.jar",
+        "tamanho": 1187316,
+        "md5": "0144945759ac70bffb1abc3346269188",
+        "release": "modpack"
+    },
+    "polymorph-neoforge-1.1.0+1.21.1.jar": {
+        "nomeNoRelease": "polymorph-neoforge-1.1.0+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/polymorph-neoforge-1.1.0%2B1.21.1.jar",
+        "tamanho": 174972,
+        "md5": "2368e0c92ae882677bbf4b87418656b9",
+        "release": "modpack"
+    },
+    "prickle-neoforge-1.21.1-21.1.11.jar": {
+        "nomeNoRelease": "prickle-neoforge-1.21.1-21.1.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/prickle-neoforge-1.21.1-21.1.11.jar",
+        "tamanho": 84812,
+        "md5": "533c154fb306cd8043564ee1533873ce",
+        "release": "modpack"
+    },
+    "prometheus-neoforge-1.21-1.2.5.jar": {
+        "nomeNoRelease": "prometheus-neoforge-1.21-1.2.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/prometheus-neoforge-1.21-1.2.5.jar",
+        "tamanho": 1056045,
+        "md5": "e26c5f94d2984fea1f1bf80b7a061ced",
+        "release": "modpack"
+    },
+    "recipeessentials-1.21.1-4.7.jar": {
+        "nomeNoRelease": "recipeessentials-1.21.1-4.7.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/recipeessentials-1.21.1-4.7.jar",
+        "tamanho": 43983,
+        "md5": "4903471f5b2e51e8d414a2295030d2de",
+        "release": "modpack"
+    },
+    "refm-0.3.13-1.21.1.jar": {
+        "nomeNoRelease": "refm-0.3.13-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/refm-0.3.13-1.21.1.jar",
+        "tamanho": 2841260,
+        "md5": "80ba90cf7aa4da1ccc4abe40d3d51061",
+        "release": "modpack"
+    },
+    "reforge_the_sword_edge-evolution-1.0.1-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "reforge_the_sword_edge-evolution-1.0.1-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/reforge_the_sword_edge-evolution-1.0.1-neoforge-1.21.1.jar",
+        "tamanho": 1345552,
+        "md5": "1e41a72ee0a8312cf7fbe50ff1eb6ced",
+        "release": "modpack"
+    },
+    "refurbished_furniture-neoforge-1.21.1-1.0.22.jar": {
+        "nomeNoRelease": "refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/refurbished_furniture-neoforge-1.21.1-1.0.22.jar",
+        "tamanho": 7133477,
+        "md5": "7379bc72b92f838949c073961dc72351",
+        "release": "modpack"
+    },
+    "resourcefulconfig-neoforge-1.21-3.0.11.jar": {
+        "nomeNoRelease": "resourcefulconfig-neoforge-1.21-3.0.11.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefulconfig-neoforge-1.21-3.0.11.jar",
+        "tamanho": 341009,
+        "md5": "84ff2805a591b10d22b7e0c69b44246c",
+        "release": "modpack"
+    },
+    "resourcefullib-neoforge-1.21-3.0.12.jar": {
+        "nomeNoRelease": "resourcefullib-neoforge-1.21-3.0.12.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/resourcefullib-neoforge-1.21-3.0.12.jar",
+        "tamanho": 484332,
+        "md5": "32da88903167d24bb20febeeb2c79225",
+        "release": "modpack"
+    },
+    "rhino-2101.2.7-build.85.jar": {
+        "nomeNoRelease": "rhino-2101.2.7-build.85.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/rhino-2101.2.7-build.85.jar",
+        "tamanho": 882075,
+        "md5": "f5df23fab1aef88b69f67776e0f79904",
+        "release": "modpack"
+    },
+    "rice_delight-2.0.0.jar": {
+        "nomeNoRelease": "rice_delight-2.0.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/rice_delight-2.0.0.jar",
+        "tamanho": 117103,
+        "md5": "49dedea8b9234dfea0ab32ee77827852",
+        "release": "modpack"
+    },
+    "rightclickharvest-neoforge-4.6.1+1.21.1.jar": {
+        "nomeNoRelease": "rightclickharvest-neoforge-4.6.1+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/rightclickharvest-neoforge-4.6.1%2B1.21.1.jar",
+        "tamanho": 287634,
+        "md5": "b1188249c44aed7f666ff89ab591e9a4",
+        "release": "modpack"
+    },
+    "ror-0.59-1.21.1-optimized.jar": {
+        "nomeNoRelease": "ror-0.59-1.21.1-optimized.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ror-0.59-1.21.1-optimized.jar",
+        "tamanho": 3634081,
+        "md5": "f4e1c40702b8e63a9f7a296da1b26a3a",
+        "release": "modpack"
+    },
+    "sable-neoforge-1.21.1-2.0.5.jar": {
+        "nomeNoRelease": "sable-neoforge-1.21.1-2.0.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sable-neoforge-1.21.1-2.0.5.jar",
+        "tamanho": 12986136,
+        "md5": "01ee2d5fa1ce388eadfed5d83a89950c",
+        "release": "modpack"
+    },
+    "saintsdragons-0.8.2+neoforge-1.21.1.jar": {
+        "nomeNoRelease": "saintsdragons-0.8.2+neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/saintsdragons-0.8.2%2Bneoforge-1.21.1.jar",
+        "tamanho": 21955506,
+        "md5": "f445a58b49ff942c9bcf84788b3cebbc",
+        "release": "modpack"
+    },
+    "scholar-neoforge-1.21.1-1.2.6.jar": {
+        "nomeNoRelease": "scholar-neoforge-1.21.1-1.2.6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/scholar-neoforge-1.21.1-1.2.6.jar",
+        "tamanho": 929316,
+        "md5": "3dbd3c310cd24eddb4e4be8f694bddbd",
+        "release": "modpack"
+    },
+    "simplehats-neoforge-1.21.1-0.4.0-xenthor.jar": {
+        "nomeNoRelease": "simplehats-neoforge-1.21.1-0.4.0-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/simplehats-neoforge-1.21.1-0.4.0-xenthor.jar",
+        "tamanho": 1414558,
+        "md5": "1c9e9cf87b574dbc9e09fb024c00682e",
+        "release": "modpack"
+    },
+    "simplyswords-neoforge-1.70.2-1.21.1.jar": {
+        "nomeNoRelease": "simplyswords-neoforge-1.70.2-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/simplyswords-neoforge-1.70.2-1.21.1.jar",
+        "tamanho": 16282660,
+        "md5": "0b4f974fc1777630b914fc0d5e7bc261",
+        "release": "modpack"
+    },
+    "smsn-neoforge-1.4.3-1.21.1.jar": {
+        "nomeNoRelease": "smsn-neoforge-1.4.3-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/smsn-neoforge-1.4.3-1.21.1.jar",
+        "tamanho": 116160,
+        "md5": "d68f3399cdaefb83800189240ef9a17c",
+        "release": "modpack"
+    },
+    "sodium-extra-neoforge-0.9.3+mc1.21.1.jar": {
+        "nomeNoRelease": "sodium-extra-neoforge-0.9.3+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sodium-extra-neoforge-0.9.3%2Bmc1.21.1.jar",
+        "tamanho": 465013,
+        "md5": "48540138881ebc454ef3a07c1bd4c250",
+        "release": "modpack"
+    },
+    "sodium-neoforge-0.8.13+mc1.21.1.jar": {
+        "nomeNoRelease": "sodium-neoforge-0.8.13+mc1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sodium-neoforge-0.8.13%2Bmc1.21.1.jar",
+        "tamanho": 1292934,
+        "md5": "c2bc7287841c29e25ce553baae1700a0",
+        "release": "modpack"
+    },
+    "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar": {
+        "nomeNoRelease": "sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sophisticatedbackpacks-1.21.1-3.26.3.2158.jar",
+        "tamanho": 1251706,
+        "md5": "fe8fdaf241eed5f9fc145b1ec2a9e935",
+        "release": "modpack"
+    },
+    "sophisticatedcore-1.21.1-1.5.1.2341.jar": {
+        "nomeNoRelease": "sophisticatedcore-1.21.1-1.5.1.2341.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sophisticatedcore-1.21.1-1.5.1.2341.jar",
+        "tamanho": 1785221,
+        "md5": "0419dc6f4813c1f45a6411a1ac53c98a",
+        "release": "modpack"
+    },
+    "sophisticatedstorage-1.21.1-1.5.91.2127.jar": {
+        "nomeNoRelease": "sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sophisticatedstorage-1.21.1-1.5.91.2127.jar",
+        "tamanho": 1869204,
+        "md5": "1a1629da403c9eb0d68e6091d31f9851",
+        "release": "modpack"
+    },
+    "sounds-2.4.22+lts+1.21.1-neoforge.jar": {
+        "nomeNoRelease": "sounds-2.4.22+lts+1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sounds-2.4.22%2Blts%2B1.21.1-neoforge.jar",
+        "tamanho": 8732437,
+        "md5": "3d3192200872da35ae479c2fda2152dc",
+        "release": "modpack"
+    },
+    "spark-1.10.124-neoforge.jar": {
+        "nomeNoRelease": "spark-1.10.124-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/spark-1.10.124-neoforge.jar",
+        "tamanho": 3642581,
+        "md5": "a61dd250e618f8fd62fc6b0943831c50",
+        "release": "modpack"
+    },
+    "sparsestructures-neoforge-1.21.1-3.0.jar": {
+        "nomeNoRelease": "sparsestructures-neoforge-1.21.1-3.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sparsestructures-neoforge-1.21.1-3.0.jar",
+        "tamanho": 117743,
+        "md5": "ad2f0528870dc4f1dd462d5a56387973",
+        "release": "modpack"
+    },
+    "structure_layout_optimizer-neoforge-1.0.12.jar": {
+        "nomeNoRelease": "structure_layout_optimizer-neoforge-1.0.12.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/structure_layout_optimizer-neoforge-1.0.12.jar",
+        "tamanho": 61777,
+        "md5": "b0ad6a0fd2ad8f04f5634edcaadf5421",
+        "release": "modpack"
+    },
+    "structureessentials-1.21.1-5.0.jar": {
+        "nomeNoRelease": "structureessentials-1.21.1-5.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/structureessentials-1.21.1-5.0.jar",
+        "tamanho": 60833,
+        "md5": "c6ab08c1607e6b1eba091455a499f581",
+        "release": "modpack"
+    },
+    "super_golem-21.17.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "super_golem-21.17.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/super_golem-21.17.0-neoforge-1.21.1.jar",
+        "tamanho": 2165259,
+        "md5": "3d4ce4bd81013ccd86b5b94769a00967",
+        "release": "modpack"
+    },
+    "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar": {
+        "nomeNoRelease": "supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/supermartijn642corelib-1.1.21-neoforge-mc1.21.jar",
+        "tamanho": 558371,
+        "md5": "8da575ef57766fd02875b10fccae3aca",
+        "release": "modpack"
+    },
+    "supplementaries-neoforge-1.21.1-3.8.4.jar": {
+        "nomeNoRelease": "supplementaries-neoforge-1.21.1-3.8.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/supplementaries-neoforge-1.21.1-3.8.4.jar",
+        "tamanho": 13465307,
+        "md5": "10add0133a6f570fadb74c3f751dffeb",
+        "release": "modpack"
+    },
+    "sushigocrafting-1.21-0.6.4.jar": {
+        "nomeNoRelease": "sushigocrafting-1.21-0.6.4.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sushigocrafting-1.21-0.6.4.jar",
+        "tamanho": 724908,
+        "md5": "887f4ecfe731c1d01f297550f93fdef1",
+        "release": "modpack"
+    },
+    "sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar": {
+        "nomeNoRelease": "sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/sword_soaring-21.17.0-local.12-mc1.21.1-neoforge.jar",
+        "tamanho": 18553936,
+        "md5": "6aeeedc113979a0d7e0460e818690a40",
+        "release": "modpack"
+    },
+    "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar": {
+        "nomeNoRelease": "tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-neoforge-1.21.1-1.1.8-hotfix-r6.jar",
+        "tamanho": 57314262,
+        "md5": "f2cea8e90582fc5e006202643f28ee94",
+        "release": "modpack"
+    },
+    "tacz-tweaks-3.0.0-alpha.10+1.21.1-neoforge.jar": {
+        "nomeNoRelease": "tacz-tweaks-3.0.0-alpha.10+1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-tweaks-3.0.0-alpha.10%2B1.21.1-neoforge.jar",
+        "tamanho": 4323165,
+        "md5": "2401113a63ce46f923679fe35d6e0d4f",
+        "release": "modpack"
+    },
+    "tacz-valorant-neoforge-1.21.1-0.2.1.jar": {
+        "nomeNoRelease": "tacz-valorant-neoforge-1.21.1-0.2.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.2.1.jar",
+        "tamanho": 7099585,
+        "md5": "4bfa53ece31f5f6a621d7713bde6579c",
+        "release": "modpack"
+    },
+    "taglocalizations-1.0.6-universal-1.21.1.jar": {
+        "nomeNoRelease": "taglocalizations-1.0.6-universal-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/taglocalizations-1.0.6-universal-1.21.1.jar",
+        "tamanho": 83665,
+        "md5": "e7eacc7cbccf5ca2f077fdf409f4bbdc",
+        "release": "modpack"
+    },
+    "tcrmeshes-1.0.0-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "tcrmeshes-1.0.0-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tcrmeshes-1.0.0-neoforge-1.21.1.jar",
+        "tamanho": 171186,
+        "md5": "9cfe305cff8fb65b6c568a7262271c47",
+        "release": "modpack"
+    },
+    "titanium-1.21-4.0.43.jar": {
+        "nomeNoRelease": "titanium-1.21-4.0.43.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/titanium-1.21-4.0.43.jar",
+        "tamanho": 605765,
+        "md5": "5755c1829e9630f2212e1dbe780bd203",
+        "release": "modpack"
+    },
+    "toms_storage-1.21-2.4.2.jar": {
+        "nomeNoRelease": "toms_storage-1.21-2.4.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/toms_storage-1.21-2.4.2.jar",
+        "tamanho": 856803,
+        "md5": "60be115121d183a559ecdee2b35dae3b",
+        "release": "modpack"
+    },
+    "too_many_bows-neoforge-1.21.1-3.4.0.jar": {
+        "nomeNoRelease": "too_many_bows-neoforge-1.21.1-3.4.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/too_many_bows-neoforge-1.21.1-3.4.0.jar",
+        "tamanho": 1394879,
+        "md5": "94501f3231291a30a9467bfba065431d",
+        "release": "modpack"
+    },
+    "toofast-1.21.0-0.4.3.5.jar": {
+        "nomeNoRelease": "toofast-1.21.0-0.4.3.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/toofast-1.21.0-0.4.3.5.jar",
+        "tamanho": 3352,
+        "md5": "602425a33aaf21dfb1a680b81d6a8a1a",
+        "release": "modpack"
+    },
+    "twilight_forest_final_boss-2.1.2+4.8.3345+1.21.1.jar": {
+        "nomeNoRelease": "twilight_forest_final_boss-2.1.2+4.8.3345+1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/twilight_forest_final_boss-2.1.2%2B4.8.3345%2B1.21.1.jar",
+        "tamanho": 3367409,
+        "md5": "7bc414af5e99ad1e2790d050043eabcf",
+        "release": "modpack"
+    },
+    "twilightforest-1.21.1-4.8.3345-universal.jar": {
+        "nomeNoRelease": "twilightforest-1.21.1-4.8.3345-universal.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/twilightforest-1.21.1-4.8.3345-universal.jar",
+        "tamanho": 27154121,
+        "md5": "c1e465c8b2855902368ff4679e1fc2e7",
+        "release": "modpack"
+    },
+    "txnilib-neoforge-1.0.24-1.21.1.jar": {
+        "nomeNoRelease": "txnilib-neoforge-1.0.24-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/txnilib-neoforge-1.0.24-1.21.1.jar",
+        "tamanho": 6276522,
+        "md5": "69cd87744e40cc444b4176022ec6d17a",
+        "release": "modpack"
+    },
+    "voicechat-neoforge-1.21.1-2.6.22.jar": {
+        "nomeNoRelease": "voicechat-neoforge-1.21.1-2.6.22.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/voicechat-neoforge-1.21.1-2.6.22.jar",
+        "tamanho": 4918442,
+        "md5": "f2c1f0eb15d2fb2a8cf8a0040282df51",
+        "release": "modpack"
+    },
+    "walkietalkie-neoforge-1.21.1-1.0.5-xenthor.jar": {
+        "nomeNoRelease": "walkietalkie-neoforge-1.21.1-1.0.5-xenthor.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/walkietalkie-neoforge-1.21.1-1.0.5-xenthor.jar",
+        "tamanho": 219342,
+        "md5": "134398592c5628576a31b1d661bd9819",
+        "release": "modpack"
+    },
+    "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar": {
+        "nomeNoRelease": "waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/waterframes-NEOFORGE-mc1.21.1-v2.1.23.jar",
+        "tamanho": 256825,
+        "md5": "5b139b7dce0909359a3dac75cbe5e309",
+        "release": "modpack"
+    },
+    "watermedia-2.1.37.jar": {
+        "nomeNoRelease": "watermedia-2.1.37.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/watermedia-2.1.37.jar",
+        "tamanho": 37046674,
+        "md5": "4a09ad3ea22ad258802605b8aa929bbd",
+        "release": "modpack"
+    },
+    "watermedia_youtube_plugin-2.1.2.jar": {
+        "nomeNoRelease": "watermedia_youtube_plugin-2.1.2.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/watermedia_youtube_plugin-2.1.2.jar",
+        "tamanho": 3830072,
+        "md5": "5b0ed7502f1d3c0553e6d536d5a74d4a",
+        "release": "modpack"
+    },
+    "watervision-NF-mc1.21.1-v0.1.0-alpha.jar": {
+        "nomeNoRelease": "watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/watervision-NF-mc1.21.1-v0.1.0-alpha.jar",
+        "tamanho": 78233,
+        "md5": "6a7764a7e80bc1154a49dca513183cac",
+        "release": "modpack"
+    },
+    "waystones-neoforge-1.21.1-21.1.45.jar": {
+        "nomeNoRelease": "waystones-neoforge-1.21.1-21.1.45.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/waystones-neoforge-1.21.1-21.1.45.jar",
+        "tamanho": 1219809,
+        "md5": "c714e17142529e26e960f6760aa17c6f",
+        "release": "modpack"
+    },
+    "weavers_cosmetics-neo-1.21.1_v1.1.jar": {
+        "nomeNoRelease": "weavers_cosmetics-neo-1.21.1_v1.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/weavers_cosmetics-neo-1.21.1_v1.1.jar",
+        "tamanho": 1457392,
+        "md5": "feaf1c15b45c0a86020b09182411811a",
+        "release": "modpack"
+    },
+    "weavers_cosmetics_cosplay-v1.0.jar": {
+        "nomeNoRelease": "weavers_cosmetics_cosplay-v1.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/weavers_cosmetics_cosplay-v1.0.jar",
+        "tamanho": 561482,
+        "md5": "f1df6e3088d563ea51c36f36297a05f8",
+        "release": "modpack"
+    },
+    "wind_spellbooks-1.0.5.jar": {
+        "nomeNoRelease": "wind_spellbooks-1.0.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/wind_spellbooks-1.0.5.jar",
+        "tamanho": 459532,
+        "md5": "50db353c60a9a788d4bdc13566751ebf",
+        "release": "modpack"
+    },
+    "witherreincarnated-1.21.1-1.0.5.jar": {
+        "nomeNoRelease": "witherreincarnated-1.21.1-1.0.5.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/witherreincarnated-1.21.1-1.0.5.jar",
+        "tamanho": 12616597,
+        "md5": "b84921644d2482540284f6809eb7111e",
+        "release": "modpack"
+    },
+    "xenthor_protect-2.0-obf.jar": {
+        "nomeNoRelease": "xenthor_protect-2.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_protect-2.0-obf.jar",
+        "tamanho": 63886,
+        "md5": "3d808cca628ef120df37814fd66ac674",
+        "release": "modpack"
+    },
+    "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
+        "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorcontrol-3.4.0-1.21.1-obf.jar",
+        "tamanho": 132694,
+        "md5": "87e4fc43cef6cb1d9541ecb0e4bc8edb",
+        "release": "modpack"
+    },
+    "xenthorgames-2.2.1-obf.jar": {
+        "nomeNoRelease": "xenthorgames-2.2.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorgames-2.2.1-obf.jar",
+        "tamanho": 1702458,
+        "md5": "0012c655a8d798e98315555db996181a",
+        "release": "modpack"
+    },
+    "xercapaint-1.21.1-1.3.0.jar": {
+        "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xercapaint-1.21.1-1.3.0.jar",
+        "tamanho": 457036,
+        "md5": "384271f93b5ab0c289617d2773ca7e83",
+        "release": "modpack"
+    },
+    "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
+        "nomeNoRelease": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/yet_another_config_lib_v3-3.8.2%2B1.21.1-neoforge.jar",
+        "tamanho": 1118651,
+        "md5": "c346120062c3364a0d215c228354030e",
+        "release": "modpack"
+    },
+    "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar": {
+        "nomeNoRelease": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+        "tamanho": 30207268,
+        "md5": "8925d0f3c3be448e895dcab6a64de0e6",
+        "release": "modpack"
+    },
+    "BSL_v10.1.1.zip": {
+        "nomeNoRelease": "BSL_v10.1.1.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BSL_v10.1.1.zip",
+        "tamanho": 1125052,
+        "md5": "67b0a2d855e91f3578af7a4336e537f0",
+        "release": "modpack"
+    },
+    "Bliss_v2.1.2_(Chocapic13_Shaders_edit).zip": {
+        "nomeNoRelease": "Bliss_v2.1.2_.Chocapic13_Shaders_edit.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Bliss_v2.1.2_.Chocapic13_Shaders_edit.zip",
+        "tamanho": 1791406,
+        "md5": "73eac5d017a268ea8175c2025c2863ad",
+        "release": "modpack"
+    },
+    "Bloop-1.7.0-cloud-fix-2.zip": {
+        "nomeNoRelease": "Bloop-1.7.0-cloud-fix-2.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Bloop-1.7.0-cloud-fix-2.zip",
+        "tamanho": 4676236,
+        "md5": "5d1d2b96db6613a4cf4eb98e9b286315",
+        "release": "modpack"
+    },
+    "Chocapic13_V9.zip": {
+        "nomeNoRelease": "Chocapic13_V9.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Chocapic13_V9.zip",
+        "tamanho": 14149623,
+        "md5": "370978c21f154a0022c4d5b5703b790b",
+        "release": "modpack"
+    },
+    "ComplementaryReimagined_r5.9.3.zip": {
+        "nomeNoRelease": "ComplementaryReimagined_r5.9.3.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ComplementaryReimagined_r5.9.3.zip",
+        "tamanho": 553397,
+        "md5": "54cd249cd1e95a4e19f0ea2cb4369e71",
+        "release": "modpack"
+    },
+    "ComplementaryUnbound_r5.9.3.zip": {
+        "nomeNoRelease": "ComplementaryUnbound_r5.9.3.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/ComplementaryUnbound_r5.9.3.zip",
+        "tamanho": 553400,
+        "md5": "e9c0e174f43125d45b192ef684f5d4d4",
+        "release": "modpack"
+    },
+    "Derivative-Shaders-All-Versions.zip": {
+        "nomeNoRelease": "Derivative-Shaders-All-Versions.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Derivative-Shaders-All-Versions.zip",
+        "tamanho": 19935291,
+        "md5": "7eb6b7b81a8bfebcc2a083def227c90f",
+        "release": "modpack"
+    },
+    "Hysteria-Shaders-Universal-v1.2.2.zip": {
+        "nomeNoRelease": "Hysteria-Shaders-Universal-v1.2.2.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Hysteria-Shaders-Universal-v1.2.2.zip",
+        "tamanho": 1584874,
+        "md5": "0534495c4cd3232734bf932747ec9855",
+        "release": "modpack"
+    },
+    "MakeUp-UltraFast-9.5e.zip": {
+        "nomeNoRelease": "MakeUp-UltraFast-9.5e.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/MakeUp-UltraFast-9.5e.zip",
+        "tamanho": 400417,
+        "md5": "48a4e8a842c72790e00f5442cc519c48",
+        "release": "modpack"
+    },
+    "Mellow Shader v3.4.zip": {
+        "nomeNoRelease": "Mellow.Shader.v3.4.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Mellow.Shader.v3.4.zip",
+        "tamanho": 644258,
+        "md5": "a7fe8f32b03e3a96d6144ac78fa6d14a",
+        "release": "modpack"
+    },
+    "Pixel-Perfect-1-5-2a.zip": {
+        "nomeNoRelease": "Pixel-Perfect-1-5-2a.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Pixel-Perfect-1-5-2a.zip",
+        "tamanho": 7766144,
+        "md5": "0ca792e595bb198213fba6684592ef96",
+        "release": "modpack"
+    },
+    "Solas Shader V3.7b.zip": {
+        "nomeNoRelease": "Solas.Shader.V3.7b.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Solas.Shader.V3.7b.zip",
+        "tamanho": 1252311,
+        "md5": "1b7a11e3632789953f4577da3476c06f",
+        "release": "modpack"
+    },
+    "photon_v1.3b.zip": {
+        "nomeNoRelease": "photon_v1.3b.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/photon_v1.3b.zip",
+        "tamanho": 3800987,
+        "md5": "6360159abc1bdd417ef8b40abc70e080",
+        "release": "modpack"
+    },
+    "§r§lAstra§4§lLex§r§l_By_LexBoosT_§4§lV93.0§r§l.zip": {
+        "nomeNoRelease": "r.lAstra.4.lLex.r.l_By_LexBoosT_.4.lV93.0.r.l.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/r.lAstra.4.lLex.r.l_By_LexBoosT_.4.lV93.0.r.l.zip",
+        "tamanho": 3184524,
+        "md5": "021c95bd3d217b4a7e45997d5127285b",
+        "release": "modpack"
+    },
+    "BDHill Reforge the Sword Edge 2.0 [1.21.1 NeoForge].zip": {
+        "nomeNoRelease": "BDHill.Reforge.the.Sword.Edge.2.0.1.21.1.NeoForge.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/BDHill.Reforge.the.Sword.Edge.2.0.1.21.1.NeoForge.zip",
+        "tamanho": 1067415,
+        "md5": "de99f0af5c7b1579448ab420ee380c56",
+        "release": "modpack"
+    },
+    "Faithful 32x - 1.21.1.zip": {
+        "nomeNoRelease": "Faithful.32x.-.1.21.1.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Faithful.32x.-.1.21.1.zip",
+        "tamanho": 11030261,
+        "md5": "209af36d97b7780ee8ab90bd0c0ae08d",
+        "release": "modpack"
+    },
+    "Faithful 64x - Release 6.zip": {
+        "nomeNoRelease": "Faithful.64x.-.Release.6.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Faithful.64x.-.Release.6.zip",
+        "tamanho": 16767880,
+        "md5": "78270a32d4321374adaeb3c8b0ab4bd8",
+        "release": "modpack"
+    },
+    "Resurrection_MorePower_Yamato.zip": {
+        "nomeNoRelease": "Resurrection_MorePower_Yamato.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Resurrection_MorePower_Yamato.zip",
+        "tamanho": 26371,
+        "md5": "77cdbce4c6da3f0855c5a976cfd67510",
+        "release": "modpack"
+    },
+    "Simply Swords 3D Retailor.zip": {
+        "nomeNoRelease": "Simply.Swords.3D.Retailor.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.3D.Retailor.zip",
+        "tamanho": 506438,
+        "md5": "9714d1bc0b56fe0d27a961c8a693872c",
+        "release": "modpack"
+    },
+    "Simply Swords Reforged v2.1.zip": {
+        "nomeNoRelease": "Simply.Swords.Reforged.v2.1.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Simply.Swords.Reforged.v2.1.zip",
+        "tamanho": 1651439,
+        "md5": "e4811ef14e670a93147ef3b5f7ba2f05",
+        "release": "modpack"
+    },
+    "cpm.zip": {
+        "nomeNoRelease": "cpm.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/cpm.zip",
+        "tamanho": 350,
+        "md5": "a90ce55fadbfca75a4c7e3415789b3da",
+        "release": "modpack"
+    },
+    "emotes.zip": {
+        "nomeNoRelease": "emotes.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/emotes.zip",
+        "tamanho": 91301992,
+        "md5": "584c927a4f068358ac48f286b77489ca",
+        "release": "modpack"
+    },
+    "create-stuff-additions1.21.1_v2.1.4b.jar": {
+        "nomeNoRelease": "create-stuff-additions1.21.1_v2.1.4b.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/create-stuff-additions1.21.1_v2.1.4b.jar",
+        "tamanho": 1347181,
+        "md5": "58e52a7e0b880f5e4bf92bd626950750",
+        "release": "modpack-teste"
+    },
+    "efnbossesvjakr-1.8.3-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "efnbossesvjakr-1.8.3-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/efnbossesvjakr-1.8.3-neoforge-1.21.1.jar",
+        "tamanho": 49220291,
+        "md5": "576f8fce66058964c93ff1fff33e9cb1",
+        "release": "modpack-teste"
+    },
+    "pipez-neoforge-1.21.1-1.2.31.jar": {
+        "nomeNoRelease": "pipez-neoforge-1.21.1-1.2.31.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/pipez-neoforge-1.21.1-1.2.31.jar",
+        "tamanho": 456599,
+        "md5": "10f3b051500cb0c5068372ff5459419f",
+        "release": "modpack-teste"
+    },
+    "tcr_bosses-1.1.13-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "tcr_bosses-1.1.13-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/tcr_bosses-1.1.13-neoforge-1.21.1.jar",
+        "tamanho": 2775924,
+        "md5": "9bfb4a26225bc0e28fd4113fbed54272",
+        "release": "modpack-teste"
+    },
+    "xcombat-2.4.3-neoforge-1.21.1-obf.jar": {
+        "nomeNoRelease": "xcombat-2.4.3-neoforge-1.21.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xcombat-2.4.3-neoforge-1.21.1-obf.jar",
+        "tamanho": 2618251,
+        "md5": "cdf7e5c9d2d2302ed916d22c4fbdc3e3",
+        "release": "modpack-teste"
+    },
+    "xenthor_tweaks-1.71.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.71.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xenthor_tweaks-1.71.0-obf.jar",
+        "tamanho": 1134066,
+        "md5": "e951e1377a02d26e13c2d520708b7e42",
+        "release": "modpack-teste"
+    },
+    "xenthor_xr-1.0.0-obf.jar": {
+        "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xenthor_xr-1.0.0-obf.jar",
+        "tamanho": 45590073,
+        "md5": "43a5b889bb455fd5975783af6a0723d8",
+        "release": "modpack-teste"
+    },
+    "xenthormod-1.21.1-3.4-obf.jar": {
+        "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xenthormod-1.21.1-3.4-obf.jar",
+        "tamanho": 21453865,
+        "md5": "74faa41fd3b637a8cb888486790ae18e",
+        "release": "modpack-teste"
+    },
+    "xenthorphone-0.10.1-obf.jar": {
+        "nomeNoRelease": "xenthorphone-0.10.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xenthorphone-0.10.1-obf.jar",
+        "tamanho": 16717586,
+        "md5": "d471960b0068119a541fdbc79c514b70",
+        "release": "modpack-teste"
+    },
+    "xfight-1.0.0-obf.jar": {
+        "nomeNoRelease": "xfight-1.0.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/xfight-1.0.0-obf.jar",
+        "tamanho": 189988,
+        "md5": "abe1334b3981a65874fe6d77795865b0",
+        "release": "modpack-teste"
+    },
+    "config.zip": {
+        "nomeNoRelease": "config.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/config.zip",
+        "tamanho": 1155369,
+        "md5": "0b865618bf39a175673f46a64e8204e0",
+        "release": "modpack-teste"
+    },
+    "opcoes.zip": {
+        "nomeNoRelease": "opcoes.zip",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/opcoes.zip",
+        "tamanho": 6022,
+        "md5": "0c4a211da59513571f57e5fa3895317a",
+        "release": "modpack-teste"
+    }
+}
