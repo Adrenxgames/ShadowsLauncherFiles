@@ -3762,13 +3762,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:tacz-valorant-neoforge-1.21.1:0.3.0",
-                    "name": "tacz-valorant-neoforge-1.21.1-0.3.0",
+                    "id": "shadows.mods:tacz-valorant-neoforge-1.21.1:0.3.4",
+                    "name": "tacz-valorant-neoforge-1.21.1-0.3.4",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 24010477,
-                        "MD5": "e8e51c02f89c3bbcfcf2016021dbece7",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/tacz-valorant-neoforge-1.21.1-0.3.0.jar"
+                        "size": 33126790,
+                        "MD5": "c671a972e7a3b0c0865698e87704e27f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/tacz-valorant-neoforge-1.21.1-0.3.4.jar"
                     }
                 },
                 {
@@ -4330,8 +4330,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1155369,
-                        "MD5": "0b865618bf39a175673f46a64e8204e0",
+                        "size": 1164557,
+                        "MD5": "b70c342f707b47f32d45cc185a403664",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack-teste/config.zip"
                     }
@@ -4374,6 +4374,6 @@
     ],
     "canalTeste": {
         "_comentario": "Manifest do MODPACK DE TESTE. So o launcher com o codigo certo le este arquivo; gerado por npm run publicar:teste. Ver app/assets/js/canalteste.js.",
-        "geradoEm": "2026-11-23T06:46:45.160Z"
+        "geradoEm": "2026-11-24T03:51:40.315Z"
     }
 }
