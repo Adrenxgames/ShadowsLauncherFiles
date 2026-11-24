@@ -1,6 +1,15 @@
 {
   "articles": [
     {
+      "title": "🛠️ Changelog Xenthor — 21 a 24/11",
+      "category": "Novidades",
+      "author": "Adrenx Games",
+      "timestamp": "2026-11-24T13:48:23.014Z",
+      "content": "# 🛠️ Changelog Xenthor — 21 a 24/11\n\nAtualização com melhorias no combate, novas funcionalidades, correções e otimizações de desempenho.\n\n## Correções e mudanças\n\n**Armas — Xenthor TACZ 0.4.0**\n- Correções em modelos de 3ª pessoa, miras e texturas.\n\n**Combate e mobs — XCombat 2.4.7**\n- Melhorias no combate e nos mobs.\n\n**Raças e profissões**\n- Ajustes nos sistemas de raças e profissões.\n\n**XenthorMod**\n- Novas maldições.\n- Novas opções na Boss Statue.\n- Jogadores em coma podem ser carregados pelo Carry On.\n- Penetração das Sombras: somente Magos podem aplicar o encantamento em armas.\n\n**Celular — Xenthor Phone**\n- Novo jogo adicionado.\n- Opção para formatar o celular.\n- Status do XZap apagados após 5 dias.\n\n**Desempenho**\n- Entrada no servidor e Criativo reduzida de 4,2 s para 2,0 s.\n- Otimizações de cliente: EMI, cosméticos do Epic Fight e Armourer's Workshop.\n- C2ME no servidor: geração de chunks cerca de 1,7x mais rápida.\n- Epic Fight compatível com Rainbow Jelly e runas do Quark.\n\n**Launcher**\n- Modpack de teste por código para a Staff.\n- RAM padrão aumentada e novo convite do Discord.\n- Kobolds removido.\n\n## Mudanças de regra\n- Hazen e Eternal liberados.\n- Consultem a lista de banidos.\n\n## Como atualizar\n\n**Launcher:**\n1. Acessem Configurações do Launcher.\n2. Cliquem em **Instalar** para atualizar.\n\n**Modpack:**\n- Após atualizar o launcher, basta clicar em **Jogar**.\n\n-# Publicação: Equipe Shadows / Xenthor",
+      "images": [],
+      "link": "https://discord.com/channels/764847814253346857/1545689130053275678/1574783745582694461"
+    },
+    {
       "title": "🔥 LAUNCHER ATUALIZADO!",
       "category": "Novidades",
       "author": "Adrenx Games",
