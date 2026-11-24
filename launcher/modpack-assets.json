@@ -191,12 +191,6 @@
         "tamanho": 74419,
         "md5": "81f8035bc735c75463add09f923ad372"
     },
-    "Kobolds-4.0.1.jar": {
-        "nomeNoRelease": "Kobolds-4.0.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Kobolds-4.0.1.jar",
-        "tamanho": 2303275,
-        "md5": "35b59cb846a958e517516e75416ed40e"
-    },
     "Ksyxis-1.4.3.jar": {
         "nomeNoRelease": "Ksyxis-1.4.3.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Ksyxis-1.4.3.jar",
@@ -881,6 +875,12 @@
         "tamanho": 517455,
         "md5": "83caf9e3a6833104f5d14a939dd96327"
     },
+    "create-stuff-additions1.21.1_v2.1.4b.jar": {
+        "nomeNoRelease": "create-stuff-additions1.21.1_v2.1.4b.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-stuff-additions1.21.1_v2.1.4b.jar",
+        "tamanho": 1347181,
+        "md5": "58e52a7e0b880f5e4bf92bd626950750"
+    },
     "create_connected-1.3.2-mc1.21.1.jar": {
         "nomeNoRelease": "create_connected-1.3.2-mc1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create_connected-1.3.2-mc1.21.1.jar",
@@ -1025,11 +1025,11 @@
         "tamanho": 7584349,
         "md5": "6243fec70f918f2b5008bfe7cabe5b70"
     },
-    "efnbossesvjakr-1.8.2-neoforge-1.21.1.jar": {
-        "nomeNoRelease": "efnbossesvjakr-1.8.2-neoforge-1.21.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.2-neoforge-1.21.1.jar",
-        "tamanho": 49216554,
-        "md5": "705c28114440cd383e185fed383218bd"
+    "efnbossesvjakr-1.8.3-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "efnbossesvjakr-1.8.3-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.3-neoforge-1.21.1.jar",
+        "tamanho": 49220291,
+        "md5": "576f8fce66058964c93ff1fff33e9cb1"
     },
     "efprogressivediff-1.2.2.jar": {
         "nomeNoRelease": "efprogressivediff-1.2.2.jar",
@@ -1691,6 +1691,12 @@
         "tamanho": 1384276,
         "md5": "7c4a5680ac89713b8c7bec5df7272122"
     },
+    "pipez-neoforge-1.21.1-1.2.31.jar": {
+        "nomeNoRelease": "pipez-neoforge-1.21.1-1.2.31.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/pipez-neoforge-1.21.1-1.2.31.jar",
+        "tamanho": 456599,
+        "md5": "10f3b051500cb0c5068372ff5459419f"
+    },
     "player-animation-lib-forge-2.0.4+1.21.1.jar": {
         "nomeNoRelease": "player-animation-lib-forge-2.0.4+1.21.1.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/player-animation-lib-forge-2.0.4%2B1.21.1.jar",
@@ -1919,11 +1925,11 @@
         "tamanho": 4323165,
         "md5": "2401113a63ce46f923679fe35d6e0d4f"
     },
-    "tacz-valorant-neoforge-1.21.1-0.2.1.jar": {
-        "nomeNoRelease": "tacz-valorant-neoforge-1.21.1-0.2.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.2.1.jar",
-        "tamanho": 7099585,
-        "md5": "4bfa53ece31f5f6a621d7713bde6579c"
+    "tacz-valorant-neoforge-1.21.1-0.4.0.jar": {
+        "nomeNoRelease": "tacz-valorant-neoforge-1.21.1-0.4.0.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.4.0.jar",
+        "tamanho": 39140384,
+        "md5": "90180dc2f82a729b490759d2b5db19b8"
     },
     "taglocalizations-1.0.6-universal-1.21.1.jar": {
         "nomeNoRelease": "taglocalizations-1.0.6-universal-1.21.1.jar",
@@ -1931,11 +1937,11 @@
         "tamanho": 83665,
         "md5": "e7eacc7cbccf5ca2f077fdf409f4bbdc"
     },
-    "tcr_bosses-1.1.12-neoforge-1.21.1.jar": {
-        "nomeNoRelease": "tcr_bosses-1.1.12-neoforge-1.21.1.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tcr_bosses-1.1.12-neoforge-1.21.1.jar",
-        "tamanho": 2560592,
-        "md5": "40bdcb1e4ff7b91b7f52924177041a26"
+    "tcr_bosses-1.1.14-neoforge-1.21.1.jar": {
+        "nomeNoRelease": "tcr_bosses-1.1.14-neoforge-1.21.1.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tcr_bosses-1.1.14-neoforge-1.21.1.jar",
+        "tamanho": 2775770,
+        "md5": "a3dccaa493ad79c6fda0e6adabdeae6a"
     },
     "tcrmeshes-1.0.0-neoforge-1.21.1.jar": {
         "nomeNoRelease": "tcrmeshes-1.0.0-neoforge-1.21.1.jar",
@@ -2051,11 +2057,11 @@
         "tamanho": 12616597,
         "md5": "b84921644d2482540284f6809eb7111e"
     },
-    "xcombat-2.2.0-neoforge-1.21.1-obf.jar": {
-        "nomeNoRelease": "xcombat-2.2.0-neoforge-1.21.1-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.2.0-neoforge-1.21.1-obf.jar",
-        "tamanho": 1941137,
-        "md5": "eac485285a5b1984af6ce5cf8d930455"
+    "xcombat-2.4.7-neoforge-1.21.1-obf.jar": {
+        "nomeNoRelease": "xcombat-2.4.7-neoforge-1.21.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.4.7-neoforge-1.21.1-obf.jar",
+        "tamanho": 2646018,
+        "md5": "e0e5ea8d97a99bacd00ab40018a465c6"
     },
     "xenthor_protect-2.0-obf.jar": {
         "nomeNoRelease": "xenthor_protect-2.0-obf.jar",
@@ -2063,17 +2069,17 @@
         "tamanho": 63886,
         "md5": "3d808cca628ef120df37814fd66ac674"
     },
-    "xenthor_tweaks-1.67.0-obf.jar": {
-        "nomeNoRelease": "xenthor_tweaks-1.67.0-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.67.0-obf.jar",
-        "tamanho": 956584,
-        "md5": "c123dcda186397b6e3aebe612073e96c"
+    "xenthor_tweaks-1.71.0-obf.jar": {
+        "nomeNoRelease": "xenthor_tweaks-1.71.0-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.71.0-obf.jar",
+        "tamanho": 1134066,
+        "md5": "e951e1377a02d26e13c2d520708b7e42"
     },
     "xenthor_xr-1.0.0-obf.jar": {
         "nomeNoRelease": "xenthor_xr-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar",
-        "tamanho": 45083211,
-        "md5": "44dc92bc8b3fd5445ea44a36f90e644c"
+        "tamanho": 45622422,
+        "md5": "f2abb8bb3f18d2109d533e0dc1f6e650"
     },
     "xenthorcontrol-3.4.0-1.21.1-obf.jar": {
         "nomeNoRelease": "xenthorcontrol-3.4.0-1.21.1-obf.jar",
@@ -2090,14 +2096,14 @@
     "xenthormod-1.21.1-3.4-obf.jar": {
         "nomeNoRelease": "xenthormod-1.21.1-3.4-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar",
-        "tamanho": 21108682,
-        "md5": "c6e80cbf0102d8164255ead2ca88514b"
+        "tamanho": 21454111,
+        "md5": "dd6f6641d5578c50f52453f773390c24"
     },
-    "xenthorphone-0.9.8-obf.jar": {
-        "nomeNoRelease": "xenthorphone-0.9.8-obf.jar",
-        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.8-obf.jar",
-        "tamanho": 16340061,
-        "md5": "eee1db209555b4dc59374ab5bcd85fe9"
+    "xenthorphone-0.10.1-obf.jar": {
+        "nomeNoRelease": "xenthorphone-0.10.1-obf.jar",
+        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.10.1-obf.jar",
+        "tamanho": 16717586,
+        "md5": "d471960b0068119a541fdbc79c514b70"
     },
     "xercapaint-1.21.1-1.3.0.jar": {
         "nomeNoRelease": "xercapaint-1.21.1-1.3.0.jar",
@@ -2108,8 +2114,8 @@
     "xfight-1.0.0-obf.jar": {
         "nomeNoRelease": "xfight-1.0.0-obf.jar",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar",
-        "tamanho": 179778,
-        "md5": "7d4c6974ecd0eb69aaf4a17fe80221dd"
+        "tamanho": 189988,
+        "md5": "abe1334b3981a65874fe6d77795865b0"
     },
     "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar": {
         "nomeNoRelease": "yet_another_config_lib_v3-3.8.2+1.21.1-neoforge.jar",
@@ -2246,14 +2252,14 @@
     "config.zip": {
         "nomeNoRelease": "config.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip",
-        "tamanho": 1153812,
-        "md5": "f2a5a470def0975551a5515d408324f4"
+        "tamanho": 1164557,
+        "md5": "b70c342f707b47f32d45cc185a403664"
     },
     "opcoes.zip": {
         "nomeNoRelease": "opcoes.zip",
         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip",
-        "tamanho": 6023,
-        "md5": "fb0624500a77530298f9b16a43d913eb"
+        "tamanho": 6022,
+        "md5": "0c4a211da59513571f57e5fa3895317a"
     },
     "cpm.zip": {
         "nomeNoRelease": "cpm.zip",

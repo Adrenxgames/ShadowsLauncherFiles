@@ -45,9 +45,10 @@
             "javaOptions": {
                 "supported": ">=21",
                 "suggestedMajor": 21,
+                "_comentario_ram": "MB do -Xmx/-Xms (Xms = Xmx). O launcher usa min(recommended, 55% da RAM da maquina), nunca abaixo de minimum; o minimum tambem e o piso do controle de RAM nas configuracoes. 16/11/2026, decisao do dono: minimo 5 GB e padrao 6 GB (era 3072/4096; o mundo do Magno carregado usa ~4,1-4,6 GB de heap). Mudar aqui so chega ao jogador que ja joga porque o launcher 1.0.7+ migra quem ainda esta no padrao anterior (configmanager.js, migrarRAM).",
                 "ram": {
-                    "recommended": 4096,
-                    "minimum": 3072
+                    "recommended": 6144,
+                    "minimum": 5120
                 }
             },
             "discord": {
@@ -868,16 +869,6 @@
                         "size": 74419,
                         "MD5": "81f8035bc735c75463add09f923ad372",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/JadeAddons-1.21.1-NeoForge-6.1.0.jar"
-                    }
-                },
-                {
-                    "id": "shadows.mods:Kobolds:4.0.1",
-                    "name": "Kobolds-4.0.1",
-                    "type": "ForgeMod",
-                    "artifact": {
-                        "size": 2303275,
-                        "MD5": "35b59cb846a958e517516e75416ed40e",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/Kobolds-4.0.1.jar"
                     }
                 },
                 {
@@ -2021,6 +2012,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:create-stuff-additions1.21.1_v2.1.4b:1.0.0",
+                    "name": "create-stuff-additions1.21.1_v2.1.4b",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 1347181,
+                        "MD5": "58e52a7e0b880f5e4bf92bd626950750",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/create-stuff-additions1.21.1_v2.1.4b.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:create_connected-1.3.2-mc1.21.1:1.0.0",
                     "name": "create_connected-1.3.2-mc1.21.1",
                     "type": "ForgeMod",
@@ -2261,13 +2262,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:efnbossesvjakr-1.8.2-neoforge:1.21.1",
-                    "name": "efnbossesvjakr-1.8.2-neoforge-1.21.1",
+                    "id": "shadows.mods:efnbossesvjakr-1.8.3-neoforge:1.21.1",
+                    "name": "efnbossesvjakr-1.8.3-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 49216554,
-                        "MD5": "705c28114440cd383e185fed383218bd",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.2-neoforge-1.21.1.jar"
+                        "size": 49220291,
+                        "MD5": "576f8fce66058964c93ff1fff33e9cb1",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/efnbossesvjakr-1.8.3-neoforge-1.21.1.jar"
                     }
                 },
                 {
@@ -3371,6 +3372,16 @@
                     }
                 },
                 {
+                    "id": "shadows.mods:pipez-neoforge-1.21.1:1.2.31",
+                    "name": "pipez-neoforge-1.21.1-1.2.31",
+                    "type": "ForgeMod",
+                    "artifact": {
+                        "size": 456599,
+                        "MD5": "10f3b051500cb0c5068372ff5459419f",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/pipez-neoforge-1.21.1-1.2.31.jar"
+                    }
+                },
+                {
                     "id": "shadows.mods:player-animation-lib-forge:2.0.4+1.21.1",
                     "name": "player-animation-lib-forge-2.0.4+1.21.1",
                     "type": "ForgeMod",
@@ -3751,13 +3762,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:tacz-valorant-neoforge-1.21.1:0.2.1",
-                    "name": "tacz-valorant-neoforge-1.21.1-0.2.1",
+                    "id": "shadows.mods:tacz-valorant-neoforge-1.21.1:0.4.0",
+                    "name": "tacz-valorant-neoforge-1.21.1-0.4.0",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 7099585,
-                        "MD5": "4bfa53ece31f5f6a621d7713bde6579c",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.2.1.jar"
+                        "size": 39140384,
+                        "MD5": "90180dc2f82a729b490759d2b5db19b8",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tacz-valorant-neoforge-1.21.1-0.4.0.jar"
                     }
                 },
                 {
@@ -3771,13 +3782,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:tcr_bosses-1.1.12-neoforge:1.21.1",
-                    "name": "tcr_bosses-1.1.12-neoforge-1.21.1",
+                    "id": "shadows.mods:tcr_bosses-1.1.14-neoforge:1.21.1",
+                    "name": "tcr_bosses-1.1.14-neoforge-1.21.1",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 2560592,
-                        "MD5": "40bdcb1e4ff7b91b7f52924177041a26",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tcr_bosses-1.1.12-neoforge-1.21.1.jar"
+                        "size": 2775770,
+                        "MD5": "a3dccaa493ad79c6fda0e6adabdeae6a",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/tcr_bosses-1.1.14-neoforge-1.21.1.jar"
                     }
                 },
                 {
@@ -3971,13 +3982,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xcombat-2.2.0-neoforge-1.21.1-obf:1.0.0",
-                    "name": "xcombat-2.2.0-neoforge-1.21.1-obf",
+                    "id": "shadows.mods:xcombat-2.4.7-neoforge-1.21.1-obf:1.0.0",
+                    "name": "xcombat-2.4.7-neoforge-1.21.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 1941137,
-                        "MD5": "eac485285a5b1984af6ce5cf8d930455",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.2.0-neoforge-1.21.1-obf.jar"
+                        "size": 2646018,
+                        "MD5": "e0e5ea8d97a99bacd00ab40018a465c6",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xcombat-2.4.7-neoforge-1.21.1-obf.jar"
                     }
                 },
                 {
@@ -3991,13 +4002,13 @@
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthor_tweaks-1.67.0-obf:1.0.0",
-                    "name": "xenthor_tweaks-1.67.0-obf",
+                    "id": "shadows.mods:xenthor_tweaks-1.71.0-obf:1.0.0",
+                    "name": "xenthor_tweaks-1.71.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 956584,
-                        "MD5": "c123dcda186397b6e3aebe612073e96c",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.67.0-obf.jar"
+                        "size": 1134066,
+                        "MD5": "e951e1377a02d26e13c2d520708b7e42",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_tweaks-1.71.0-obf.jar"
                     }
                 },
                 {
@@ -4005,8 +4016,8 @@
                     "name": "xenthor_xr-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 45083211,
-                        "MD5": "44dc92bc8b3fd5445ea44a36f90e644c",
+                        "size": 45622422,
+                        "MD5": "f2abb8bb3f18d2109d533e0dc1f6e650",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthor_xr-1.0.0-obf.jar"
                     }
                 },
@@ -4035,19 +4046,19 @@
                     "name": "xenthormod-1.21.1-3.4-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 21108682,
-                        "MD5": "c6e80cbf0102d8164255ead2ca88514b",
+                        "size": 21454111,
+                        "MD5": "dd6f6641d5578c50f52453f773390c24",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthormod-1.21.1-3.4-obf.jar"
                     }
                 },
                 {
-                    "id": "shadows.mods:xenthorphone-0.9.8-obf:1.0.0",
-                    "name": "xenthorphone-0.9.8-obf",
+                    "id": "shadows.mods:xenthorphone-0.10.1-obf:1.0.0",
+                    "name": "xenthorphone-0.10.1-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 16340061,
-                        "MD5": "eee1db209555b4dc59374ab5bcd85fe9",
-                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.9.8-obf.jar"
+                        "size": 16717586,
+                        "MD5": "d471960b0068119a541fdbc79c514b70",
+                        "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xenthorphone-0.10.1-obf.jar"
                     }
                 },
                 {
@@ -4065,8 +4076,8 @@
                     "name": "xfight-1.0.0-obf",
                     "type": "ForgeMod",
                     "artifact": {
-                        "size": 179778,
-                        "MD5": "7d4c6974ecd0eb69aaf4a17fe80221dd",
+                        "size": 189988,
+                        "MD5": "abe1334b3981a65874fe6d77795865b0",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/xfight-1.0.0-obf.jar"
                     }
                 },
@@ -4319,8 +4330,8 @@
                     "name": "config.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 1153812,
-                        "MD5": "f2a5a470def0975551a5515d408324f4",
+                        "size": 1164557,
+                        "MD5": "b70c342f707b47f32d45cc185a403664",
                         "path": ".pacotes/config.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/config.zip"
                     }
@@ -4330,8 +4341,8 @@
                     "name": "opcoes.zip",
                     "type": "File",
                     "artifact": {
-                        "size": 6023,
-                        "MD5": "fb0624500a77530298f9b16a43d913eb",
+                        "size": 6022,
+                        "MD5": "0c4a211da59513571f57e5fa3895317a",
                         "path": ".pacotes/opcoes.zip",
                         "url": "https://github.com/Adrenxgames/ShadowsLauncherFiles/releases/download/modpack/opcoes.zip"
                     }
